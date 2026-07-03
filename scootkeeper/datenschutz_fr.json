@@ -1,0 +1,57 @@
+{
+  "title": "Politique de confidentialité",
+  "app": "ScootKeeper",
+  "stand": "Juillet 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Allemagne\nE-mail : marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principe de base : tes données restent sur ton appareil",
+      "body": "ScootKeeper est une application hors ligne. Toutes les données que tu saisis – profils de véhicules, numéros de cadre, entrées d'entretien, données de batterie et de kilométrage, valeurs de pression des pneus, rappels et photos – sont stockées exclusivement en local sur ton appareil. Aucune transmission à nous ou à des tiers n'a lieu. Nous n'exploitons aucun serveur, n'utilisons aucun SDK d'analyse, de suivi ou de publicité et ne créons aucun profil d'utilisation."
+    },
+    {
+      "number": 3,
+      "heading": "Photos",
+      "body": "Les photos que tu ajoutes dans l'application sont copiées dans la zone de stockage propre à l'application sur ton appareil. L'application utilise le sélecteur de photos du système Android ; elle n'a pas accès au reste de ta photothèque."
+    },
+    {
+      "number": 4,
+      "heading": "Notifications",
+      "body": "Les notifications de rappel sont planifiées et déclenchées entièrement en local sur ton appareil. Aucune connexion à des serveurs n'est établie à cette fin. Tu peux retirer l'autorisation de notification à tout moment dans les paramètres Android."
+    },
+    {
+      "number": 5,
+      "heading": "Sauvegarde Google Drive optionnelle (fonction Pro)",
+      "body": "Si tu utilises activement la fonction de sauvegarde, les données de l'application (photos incluses) sont téléversées sous forme de fichier de sauvegarde dans une zone masquée, propre à l'application (« appDataFolder »), de ton propre compte Google Drive. Le transfert est chiffré (TLS). Nous n'avons nous-mêmes aucun accès à ces données. Dans ce cadre, Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irlande) traite des données en tant que responsable indépendant conformément à la politique de confidentialité de Google (policies.google.com/privacy). Ton compte Google est utilisé pour la connexion (Google Sign-In) ; l'application reçoit ton adresse e-mail pour afficher le compte connecté. La base juridique est ton consentement par l'utilisation active de la fonction (art. 6, par. 1, point a du RGPD). Tu peux arrêter la sauvegarde à tout moment et te déconnecter dans l'application."
+    },
+    {
+      "number": 6,
+      "heading": "Exports (PDF, CSV, calendrier)",
+      "body": "Les exports sont générés en local et ne sont partagés que lorsque tu déclenches activement la boîte de dialogue de partage. Toi seul décides à qui le fichier est envoyé."
+    },
+    {
+      "number": 7,
+      "heading": "Achats via Google Play (prévu)",
+      "body": "Les fonctions payantes sont traitées via Google Play. Google traite les données de paiement conformément à ses propres règles de confidentialité ; nous ne recevons aucune donnée de paiement, uniquement l'information sur le statut de l'achat."
+    },
+    {
+      "number": 8,
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité des données et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle de la protection des données. Comme nous ne stockons aucune donnée personnelle te concernant, ces droits relatifs à la sauvegarde s'exercent auprès de Google ou concernent les données de ton propre compte Google."
+    },
+    {
+      "number": 9,
+      "heading": "Suppression des données",
+      "body": "Tu supprimes toutes les données locales en désinstallant l'application ou via « Effacer le stockage » dans les paramètres d'applications Android. Tu supprimes une sauvegarde Drive existante dans ton compte Google (Google Drive → Paramètres → Gérer les applications → ScootKeeper → Supprimer les données d'application masquées)."
+    },
+    {
+      "number": 10,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique de confidentialité est adaptée en cas d'évolution des fonctionnalités de l'application. La version actuelle est toujours disponible à cette adresse. En cas de doute, la version allemande fait foi."
+    }
+  ]
+}
