@@ -1,0 +1,57 @@
+{
+  "title": "Informativa sulla privacy",
+  "app": "ScootKeeper",
+  "stand": "Luglio 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Titolare del trattamento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germania\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principio di base: i tuoi dati restano sul tuo dispositivo",
+      "body": "ScootKeeper è un'app offline. Tutti i dati che inserisci – profili dei veicoli, numeri di telaio, voci di manutenzione, dati di batteria e chilometraggio, valori di pressione degli pneumatici, promemoria e foto – vengono salvati esclusivamente in locale sul tuo dispositivo. Non avviene alcuna trasmissione a noi o a terzi. Non gestiamo server, non utilizziamo SDK di analisi, tracciamento o pubblicità e non creiamo profili di utilizzo."
+    },
+    {
+      "number": 3,
+      "heading": "Foto",
+      "body": "Le foto che aggiungi nell'app vengono copiate nell'area di archiviazione riservata all'app sul tuo dispositivo. L'app utilizza il selettore foto di sistema di Android; non ha accesso al resto della tua libreria multimediale."
+    },
+    {
+      "number": 4,
+      "heading": "Notifiche",
+      "body": "Le notifiche dei promemoria vengono pianificate e attivate interamente in locale sul tuo dispositivo. A tale scopo non viene stabilita alcuna connessione a server. Puoi revocare l'autorizzazione alle notifiche in qualsiasi momento nelle impostazioni di Android."
+    },
+    {
+      "number": 5,
+      "heading": "Backup Google Drive opzionale (funzione Pro)",
+      "body": "Se utilizzi attivamente la funzione di backup, i dati dell'app (foto incluse) vengono caricati come file di backup in un'area nascosta e riservata all'app (\"appDataFolder\") del tuo account Google Drive personale. Il trasferimento è crittografato (TLS). Noi stessi non abbiamo accesso a questi dati. In questo contesto Google Ireland Limited (Gordon House, Barrow Street, Dublino 4, Irlanda) tratta i dati come titolare autonomo secondo l'informativa sulla privacy di Google (policies.google.com/privacy). Per l'accesso viene utilizzato il tuo account Google (Google Sign-In); l'app riceve il tuo indirizzo e-mail per mostrare l'account collegato. La base giuridica è il tuo consenso mediante l'uso attivo della funzione (art. 6, par. 1, lett. a GDPR). Puoi interrompere il backup in qualsiasi momento e disconnetterti nell'app."
+    },
+    {
+      "number": 6,
+      "heading": "Esportazioni (PDF, CSV, calendario)",
+      "body": "Le esportazioni vengono generate in locale e condivise solo quando attivi tu stesso la finestra di condivisione. Sei tu solo a decidere a chi va il file."
+    },
+    {
+      "number": 7,
+      "heading": "Acquisti tramite Google Play (previsto)",
+      "body": "Le funzioni a pagamento vengono gestite tramite Google Play. Google tratta i dati di pagamento secondo le proprie disposizioni sulla privacy; noi non riceviamo dati di pagamento, ma solo l'informazione sullo stato dell'acquisto."
+    },
+    {
+      "number": 8,
+      "heading": "I tuoi diritti",
+      "body": "Ai sensi del GDPR hai diritto di accesso, rettifica, cancellazione, limitazione del trattamento, portabilità dei dati e opposizione, nonché il diritto di proporre reclamo a un'autorità di controllo per la protezione dei dati. Poiché non conserviamo dati personali che ti riguardano, questi diritti in relazione al backup vanno esercitati presso Google ovvero riguardano i dati del tuo account Google personale."
+    },
+    {
+      "number": 9,
+      "heading": "Cancellazione dei dati",
+      "body": "Cancelli tutti i dati locali disinstallando l'app oppure tramite \"Cancella spazio di archiviazione\" nelle impostazioni delle app di Android. Un backup Drive esistente lo elimini nel tuo account Google (Google Drive → Impostazioni → Gestisci app → ScootKeeper → Elimina i dati delle app nascosti)."
+    },
+    {
+      "number": 10,
+      "heading": "Modifiche alla presente informativa",
+      "body": "La presente informativa sulla privacy viene aggiornata in caso di modifiche alle funzionalità dell'app. La versione attuale è sempre disponibile a questo indirizzo. In caso di dubbio fa fede la versione tedesca."
+    }
+  ]
+}
