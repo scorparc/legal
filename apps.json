@@ -1,0 +1,30 @@
+{
+  "updated": "2026-07-03",
+  "note": "Zentrale Cross-Promotion-Liste für alle Apps von Marc Neumann. Jede App zeigt nur EINTRÄGE MIT active:true UND fremdem packageName (die eigene App wird anhand des packageName herausgefiltert). Sobald eine App im Play Store live ist: hier active auf true setzen + committen – die anderen Apps blenden sie beim nächsten Sync automatisch ein, ohne App-Update.",
+  "apps": [
+    {
+      "id": "scootrules",
+      "packageName": "de.scootrules.app",
+      "name": "ScootRules",
+      "tagline": "E-Scooter-Regeln für über 30 Länder – immer griffbereit",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.scootrules.app",
+      "active": false
+    },
+    {
+      "id": "plakettenalarm",
+      "packageName": "de.plakettenalarm.app",
+      "name": "PlakettenAlarm",
+      "tagline": "Nie wieder Plakette oder Versicherungsfrist verpassen",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.plakettenalarm.app",
+      "active": false
+    },
+    {
+      "id": "scootkeeper",
+      "packageName": "de.scootkeeper.app",
+      "name": "ScootKeeper",
+      "tagline": "Wartung, Akku & Kilometer deines E-Scooters im Griff",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.scootkeeper.app",
+      "active": false
+    }
+  ]
+}

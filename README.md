@@ -41,6 +41,22 @@ Basis: `https://raw.githubusercontent.com/scorparc/legal/main/`
 4. Apps holen die neue Version beim nächsten planmäßigen Sync automatisch ab
    (kein App-Update nötig).
 
+## Cross-Promotion (`apps.json`)
+
+Zentrale Liste aller eigenen Apps für gegenseitige Verlinkung. Jede App lädt
+`apps.json` (gleicher Sync-/Cache-Mechanismus wie die Rechtstexte) und zeigt in
+einem „Weitere Apps"-Bereich alle Einträge an, die
+
+1. `active: true` sind **und**
+2. einen **anderen** `packageName` als die eigene App haben (Selbst-Filter).
+
+**Neue App live schalten:** Sobald eine App im Play Store veröffentlicht ist,
+hier `"active": true` setzen und committen. Die jeweils anderen Apps blenden sie
+beim nächsten planmäßigen Sync automatisch ein – **kein App-Update nötig**.
+
+Raw-URL für In-App-Fetch:
+`https://raw.githubusercontent.com/scorparc/legal/main/apps.json`
+
 ## Play Console
 
 Bei jeder App unter „App-Inhalte → Datenschutzerklärung" die jeweilige
