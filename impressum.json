@@ -1,0 +1,26 @@
+{
+  "title": "Impressum",
+  "updated": "2026-07-03",
+  "sections": [
+    {
+      "heading": "Angaben gemäß § 5 DDG",
+      "body": "Marc Neumann\nSchwabenstraße 47\n71101 Schönaich\nDeutschland"
+    },
+    {
+      "heading": "Kontakt",
+      "body": "E-Mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "heading": "Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV",
+      "body": "Marc Neumann (Anschrift wie oben)"
+    },
+    {
+      "heading": "Verbraucherstreitbeilegung",
+      "body": "Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen (§ 36 VSBG)."
+    },
+    {
+      "heading": "Haftungshinweis",
+      "body": "Alle Inhalte dieser App wurden sorgfältig recherchiert, erfolgen jedoch ohne Gewähr und stellen keine Rechts- oder Fachberatung dar."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Datenschutzerklärung",
+  "app": "ScootRules",
+  "stand": "Juli 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Verantwortlicher",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Deutschland\nE-Mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Grundsatz",
+      "body": "ScootRules ist als Offline-Nachschlagewerk konzipiert und verwendet keine Nutzerkonten, keine Werbung und keine Analyse- oder Tracking-Dienste. Es werden keine Nutzerprofile erstellt."
+    },
+    {
+      "number": 3,
+      "heading": "Standort und Länderbestimmung (optional)",
+      "body": "Bei aktivierter Ländererkennung fragt die App eine ungefähre Standortberechtigung an und ermittelt daraus das aktuelle Land. Für die Umwandlung der Koordinaten in ein Land nutzt die App den Geocoding-Dienst des Betriebssystems. Auf den meisten Android-Geräten wird dieser von den Google-Play-Diensten bereitgestellt und verarbeitet die Koordinaten online auf Servern von Google; insoweit können die groben Koordinaten an Google übermittelt werden. Die App selbst speichert den Standort nicht und überträgt ihn an keine eigenen Server. Die Berechtigung ist freiwillig und jederzeit widerrufbar – ohne sie ist die App voll nutzbar (Land manuell wählbar)."
+    },
+    {
+      "number": 4,
+      "heading": "Regel-Updates (Internetzugriff)",
+      "body": "Zum Aktualisieren der Regelinhalte lädt die App Dateien von GitHub. Dabei wird – wie bei jedem Aufruf einer Webadresse – technisch bedingt die IP-Adresse Ihres Geräts an GitHub übertragen. Weitere Daten sendet die App nicht."
+    },
+    {
+      "number": 5,
+      "heading": "Lokale Speicherung",
+      "body": "Auf dem Gerät werden nur App-Einstellungen (Sprache, Darstellung, bestätigter Haftungshinweis, lokaler Interesse-Zähler für eine künftige Pro-Version) und der Offline-Cache der Regeldaten gespeichert. Diese Daten verlassen das Gerät nicht und werden bei der Deinstallation gelöscht."
+    },
+    {
+      "number": 6,
+      "heading": "Weitergabe an Dritte",
+      "body": "Eine Weitergabe zu Werbe- oder Analysezwecken findet nicht statt. Datenflüsse bestehen nur gegenüber den genannten Infrastruktur-Diensten (System-Geocoding über Google, Content-Auslieferung über GitHub)."
+    },
+    {
+      "number": 7,
+      "heading": "Ihre Rechte",
+      "body": "Sie haben die Rechte aus Art. 15–21 DSGVO sowie ein Beschwerderecht bei einer Aufsichtsbehörde. Da keine Daten auf eigenen Servern gespeichert werden, betreffen diese Rechte im Wesentlichen die lokal gespeicherten Daten, die Sie durch Löschen der App-Daten oder Deinstallation selbst entfernen können."
+    },
+    {
+      "number": 8,
+      "heading": "Änderungen dieser Erklärung",
+      "body": "Bei neuen Funktionen kann diese Erklärung angepasst werden. Die jeweils aktuelle Fassung ist in der App und unter dieser Adresse abrufbar."
+    },
+    {
+      "number": 9,
+      "heading": "English Summary",
+      "lang": "en",
+      "body": "ScootRules uses no user accounts, no ads and no analytics or tracking, and builds no user profiles. If you enable automatic country detection, the app requests approximate location and derives the current country to show the matching rules, using the OS geocoding service (on most Android devices provided by Google Play Services, processed online on Google servers). The app itself does not store or transmit your location. Location is optional and revocable anytime. Rule updates are downloaded from GitHub; as with any web request, GitHub technically receives the device's IP address. Local data (settings, offline cache) never leaves the device and is deleted on uninstall. Contact: marc.neumann.neu@gmail.com"
+    }
+  ]
+}
