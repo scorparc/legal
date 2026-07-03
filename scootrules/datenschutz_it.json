@@ -1,0 +1,47 @@
+{
+  "title": "Informativa sulla privacy",
+  "app": "ScootRules",
+  "stand": "Luglio 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Titolare del trattamento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germania\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principio",
+      "body": "ScootRules è concepita come strumento di consultazione offline e non utilizza account utente, pubblicità né servizi di analisi o tracciamento. Non vengono creati profili utente."
+    },
+    {
+      "number": 3,
+      "heading": "Posizione e rilevamento del paese (facoltativo)",
+      "body": "Quando il rilevamento del paese è attivo, l'app richiede un'autorizzazione alla posizione approssimativa e ne ricava il paese attuale. Per convertire le coordinate in un paese, l'app utilizza il servizio di geocodifica del sistema operativo. Sulla maggior parte dei dispositivi Android questo è fornito dai servizi Google Play ed elabora le coordinate online sui server di Google; le coordinate approssimative possono quindi essere trasmesse a Google. L'app stessa non memorizza la posizione e non la trasmette ad alcun server di nostra proprietà. L'autorizzazione è facoltativa e revocabile in qualsiasi momento – senza di essa l'app resta pienamente utilizzabile (paese selezionabile manualmente)."
+    },
+    {
+      "number": 4,
+      "heading": "Aggiornamenti delle regole (accesso a Internet)",
+      "body": "Per aggiornare i contenuti delle regole, l'app scarica file da GitHub. Come per qualsiasi richiesta a un indirizzo web, l'indirizzo IP del dispositivo viene tecnicamente trasmesso a GitHub. L'app non invia altri dati."
+    },
+    {
+      "number": 5,
+      "heading": "Archiviazione locale",
+      "body": "Sul dispositivo vengono memorizzati solo le impostazioni dell'app (lingua, aspetto, avviso di responsabilità confermato, contatore di interesse locale per una futura versione Pro) e la cache offline dei dati delle regole. Questi dati non lasciano il dispositivo e vengono eliminati con la disinstallazione."
+    },
+    {
+      "number": 6,
+      "heading": "Comunicazione a terzi",
+      "body": "Non avviene alcuna comunicazione per finalità pubblicitarie o di analisi. Esistono flussi di dati solo verso i servizi infrastrutturali menzionati (geocodifica di sistema tramite Google, distribuzione dei contenuti tramite GitHub)."
+    },
+    {
+      "number": 7,
+      "heading": "I tuoi diritti",
+      "body": "Hai i diritti di cui agli artt. 15–21 del GDPR nonché il diritto di presentare reclamo a un'autorità di controllo. Poiché non vengono memorizzati dati sui nostri server, tali diritti riguardano essenzialmente i dati memorizzati localmente, che puoi rimuovere autonomamente cancellando i dati dell'app o disinstallandola."
+    },
+    {
+      "number": 8,
+      "heading": "Modifiche alla presente informativa",
+      "body": "La presente informativa può essere adattata con l'aggiunta di nuove funzionalità. La versione attuale è disponibile nell'app e a questo indirizzo. In caso di dubbio, fa fede la versione tedesca."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Privacy Policy",
+  "app": "ScootRules",
+  "stand": "July 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nEmail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle",
+      "body": "ScootRules is designed as an offline reference tool and uses no user accounts, no advertising and no analytics or tracking services. No user profiles are created."
+    },
+    {
+      "number": 3,
+      "heading": "Location and country detection (optional)",
+      "body": "When country detection is enabled, the app requests an approximate location permission and derives the current country from it. To convert the coordinates into a country, the app uses the operating system's geocoding service. On most Android devices this is provided by Google Play Services and processes the coordinates online on Google servers; the approximate coordinates may therefore be transmitted to Google. The app itself does not store the location and does not transmit it to any of our own servers. The permission is optional and can be revoked at any time – without it the app remains fully usable (country selectable manually)."
+    },
+    {
+      "number": 4,
+      "heading": "Rule updates (internet access)",
+      "body": "To update the rule content, the app downloads files from GitHub. As with any web request, this technically transmits your device's IP address to GitHub. The app sends no further data."
+    },
+    {
+      "number": 5,
+      "heading": "Local storage",
+      "body": "Only app settings (language, appearance, confirmed disclaimer, a local interest counter for a future Pro version) and the offline cache of the rule data are stored on the device. This data never leaves the device and is deleted on uninstall."
+    },
+    {
+      "number": 6,
+      "heading": "Sharing with third parties",
+      "body": "No sharing for advertising or analytics purposes takes place. Data flows exist only towards the infrastructure services mentioned (system geocoding via Google, content delivery via GitHub)."
+    },
+    {
+      "number": 7,
+      "heading": "Your rights",
+      "body": "You have the rights under Art. 15–21 GDPR as well as the right to lodge a complaint with a supervisory authority. Since no data is stored on our own servers, these rights essentially concern the data stored locally, which you can remove yourself by clearing the app data or uninstalling."
+    },
+    {
+      "number": 8,
+      "heading": "Changes to this policy",
+      "body": "This declaration may be adapted when new features are added. The current version is available in the app and at this address. In case of doubt, the German version is authoritative."
+    }
+  ]
+}

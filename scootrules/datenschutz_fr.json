@@ -1,0 +1,47 @@
+{
+  "title": "Politique de confidentialité",
+  "app": "ScootRules",
+  "stand": "Juillet 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Allemagne\nE-mail : marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principe",
+      "body": "ScootRules est conçue comme un outil de consultation hors ligne et n'utilise aucun compte utilisateur, aucune publicité ni aucun service d'analyse ou de suivi. Aucun profil d'utilisateur n'est créé."
+    },
+    {
+      "number": 3,
+      "heading": "Localisation et détection du pays (facultatif)",
+      "body": "Lorsque la détection du pays est activée, l'application demande une autorisation de localisation approximative et en déduit le pays actuel. Pour convertir les coordonnées en un pays, l'application utilise le service de géocodage du système d'exploitation. Sur la plupart des appareils Android, celui-ci est fourni par les services Google Play et traite les coordonnées en ligne sur des serveurs de Google ; les coordonnées approximatives peuvent donc être transmises à Google. L'application elle-même n'enregistre pas la localisation et ne la transmet à aucun serveur qui nous appartienne. L'autorisation est facultative et révocable à tout moment – sans elle, l'application reste pleinement utilisable (pays sélectionnable manuellement)."
+    },
+    {
+      "number": 4,
+      "heading": "Mises à jour des règles (accès Internet)",
+      "body": "Pour mettre à jour le contenu des règles, l'application télécharge des fichiers depuis GitHub. Comme pour tout appel d'une adresse web, l'adresse IP de votre appareil est techniquement transmise à GitHub. L'application n'envoie aucune autre donnée."
+    },
+    {
+      "number": 5,
+      "heading": "Stockage local",
+      "body": "Seuls les paramètres de l'application (langue, apparence, avertissement confirmé, compteur d'intérêt local pour une future version Pro) et le cache hors ligne des données de règles sont stockés sur l'appareil. Ces données ne quittent pas l'appareil et sont supprimées lors de la désinstallation."
+    },
+    {
+      "number": 6,
+      "heading": "Transmission à des tiers",
+      "body": "Aucune transmission à des fins publicitaires ou d'analyse n'a lieu. Des flux de données n'existent qu'avec les services d'infrastructure mentionnés (géocodage système via Google, diffusion de contenu via GitHub)."
+    },
+    {
+      "number": 7,
+      "heading": "Vos droits",
+      "body": "Vous disposez des droits prévus aux art. 15 à 21 du RGPD ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Comme aucune donnée n'est stockée sur nos propres serveurs, ces droits concernent essentiellement les données stockées localement, que vous pouvez supprimer vous-même en effaçant les données de l'application ou en la désinstallant."
+    },
+    {
+      "number": 8,
+      "heading": "Modifications de la présente déclaration",
+      "body": "La présente déclaration peut être adaptée lors de l'ajout de nouvelles fonctionnalités. La version actuelle est disponible dans l'application et à cette adresse. En cas de doute, la version allemande fait foi."
+    }
+  ]
+}
