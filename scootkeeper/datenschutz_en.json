@@ -1,0 +1,57 @@
+{
+  "title": "Privacy Policy",
+  "app": "ScootKeeper",
+  "stand": "July 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nEmail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle: your data stays on your device",
+      "body": "ScootKeeper is an offline app. All data you enter – vehicle profiles, frame numbers, maintenance entries, battery and mileage data, tire pressure values, reminders and photos – is stored exclusively on your device. Nothing is transmitted to us or to third parties. We operate no servers, use no analytics, tracking or advertising SDKs, and create no usage profiles."
+    },
+    {
+      "number": 3,
+      "heading": "Photos",
+      "body": "Photos you add in the app are copied into the app's own storage area on your device. The app uses the Android system photo picker; it has no access to the rest of your media library."
+    },
+    {
+      "number": 4,
+      "heading": "Notifications",
+      "body": "Reminder notifications are scheduled and triggered entirely locally on your device. No connection to any server is established for this. You can revoke the notification permission at any time in the Android settings."
+    },
+    {
+      "number": 5,
+      "heading": "Optional Google Drive backup (Pro feature)",
+      "body": "If you actively use the backup feature, your app data (including photos) is uploaded as a backup file to a hidden, app-specific area (\"appDataFolder\") of your own Google Drive account. The transfer is encrypted (TLS). We ourselves have no access to this data. In this process, Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland) processes data as an independent controller in accordance with the Google Privacy Policy (policies.google.com/privacy). Your Google account is used for sign-in (Google Sign-In); the app receives your email address to display the connected account. The legal basis is your consent through active use of the feature (Art. 6(1)(a) GDPR). You can stop the backup at any time and sign out in the app."
+    },
+    {
+      "number": 6,
+      "heading": "Exports (PDF, CSV, calendar)",
+      "body": "Exports are generated locally and only shared when you actively trigger the share dialog. You alone decide who receives the file."
+    },
+    {
+      "number": 7,
+      "heading": "Purchases via Google Play (planned)",
+      "body": "Paid features are processed via Google Play. Google processes payment data in accordance with its own privacy terms; we receive no payment data, only information about the purchase status."
+    },
+    {
+      "number": 8,
+      "heading": "Your rights",
+      "body": "Under the GDPR you have the right of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. Since we do not store any personal data about you, these rights regarding the backup are to be directed to Google or relate to the data in your own Google account."
+    },
+    {
+      "number": 9,
+      "heading": "Data deletion",
+      "body": "You delete all local data by uninstalling the app or via \"Clear storage\" in the Android app settings. You delete an existing Drive backup in your Google account (Google Drive → Settings → Manage apps → ScootKeeper → Delete hidden app data)."
+    },
+    {
+      "number": 10,
+      "heading": "Changes to this policy",
+      "body": "This privacy policy is updated when the app's features change. The current version can always be found at this address. In case of doubt, the German version is authoritative."
+    }
+  ]
+}
