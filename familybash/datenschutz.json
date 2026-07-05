@@ -40,16 +40,21 @@
     },
     {
       "number": 8,
-      "heading": "Deine Rechte",
-      "body": "Dir stehen die Rechte aus der DSGVO zu (Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch sowie Beschwerde bei einer Aufsichtsbehörde). Da wir selbst keine personenbezogenen Daten von dir speichern, liegen deine Daten ausschließlich bei dir auf dem Gerät – du behältst jederzeit die volle Kontrolle darüber."
+      "heading": "Optionales Google-Drive-Backup",
+      "body": "Wenn du die optionale Backup-Funktion mit Google Drive aktiv nutzt, meldest du dich mit deinem Google-Konto an und deine App-Daten (Spieler, Gruppen, Einstellungen, Statistiken) werden als Sicherungsdatei in einen versteckten, app-eigenen Bereich („appDataFolder\") deines eigenen Google-Drive-Kontos hochgeladen. Die Übertragung erfolgt verschlüsselt (TLS); wir selbst erhalten keinen Zugriff auf diese Daten. Dabei verarbeitet Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland) Daten gemäß der Google-Datenschutzerklärung. Bei der Anmeldung erhält die App deine E-Mail-Adresse zur Anzeige des verbundenen Kontos. Rechtsgrundlage ist deine Einwilligung durch die aktive Nutzung der Funktion (Art. 6 Abs. 1 lit. a DSGVO). Du kannst das Cloud-Backup jederzeit in der App löschen und dich abmelden."
     },
     {
       "number": 9,
-      "heading": "Datenlöschung",
-      "body": "Alle lokalen Daten löschst du durch Deinstallation der App oder über „Speicher löschen\" in den Android-App-Einstellungen."
+      "heading": "Deine Rechte",
+      "body": "Dir stehen die Rechte aus der DSGVO zu (Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch sowie Beschwerde bei einer Aufsichtsbehörde). Da wir selbst keine personenbezogenen Daten von dir speichern, liegen deine Daten ausschließlich bei dir auf dem Gerät bzw. in deinem eigenen Google-Konto – du behältst jederzeit die volle Kontrolle darüber."
     },
     {
       "number": 10,
+      "heading": "Datenlöschung",
+      "body": "Alle lokalen Daten löschst du durch Deinstallation der App oder über „Speicher löschen\" in den Android-App-Einstellungen. Ein Cloud-Backup löschst du in der App (Daten & Backup → Cloud-Backup löschen) oder in deinem Google-Konto."
+    },
+    {
+      "number": 11,
       "heading": "Änderungen dieser Erklärung",
       "body": "Bei neuen Funktionen kann diese Erklärung angepasst werden. Die jeweils aktuelle Fassung ist in der App und unter dieser Adresse abrufbar."
     }
