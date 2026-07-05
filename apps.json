@@ -25,6 +25,14 @@
       "tagline": "Wartung, Akku & Kilometer deines E-Scooters im Griff",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.scootkeeper.app",
       "active": false
+    },
+    {
+      "id": "familybash",
+      "packageName": "de.familybash.app",
+      "name": "FamilyBash",
+      "tagline": "Party-Spiele für die ganze Familie – ein Handy, alle Generationen",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.familybash.app",
+      "active": false
     }
   ]
 }
