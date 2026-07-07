@@ -1,0 +1,62 @@
+{
+  "title": "Privacy Policy",
+  "app": "FamilyBash",
+  "standLabel": "Last updated: July 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Responsible for data processing in this app:\nMarc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nEmail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle: your data stays on your device",
+      "body": "FamilyBash is an offline party game and works without an account and without any server of our own. All data created in the app (player names, age groups, saved player groups and app settings) is stored exclusively on your device and is never transmitted to us or to third parties. If you uninstall the app, this data is deleted. We do not operate any servers, we do not use analytics, tracking or advertising SDKs, and we do not create usage profiles."
+    },
+    {
+      "number": 3,
+      "heading": "Player names and age groups",
+      "body": "To play, you create players with a freely chosen name (a first name or nickname is sufficient) and an age group. The name is only used for display during the game; the age group determines which age-appropriate content the app selects. Both remain exclusively on your device."
+    },
+    {
+      "number": 4,
+      "heading": "Loading game content (hosting)",
+      "body": "The app ships with all content included and works fully offline. Optionally (e.g. via \"Update content\") it can download updated game content as a file from our hosting. This is provided via GitHub (GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA). For technical reasons, your IP address is transmitted to GitHub in the process; this processing is based on our legitimate interest in keeping game content up to date (Art. 6(1)(f) GDPR). Data may be transferred to the USA; GitHub is certified under the EU-US Data Privacy Framework. No cookies are set and no usage profiles are created."
+    },
+    {
+      "number": 5,
+      "heading": "Children and families",
+      "body": "FamilyBash is designed as a family-friendly game for multiple generations and is often played together with children. No personal data whatsoever is collected; there is no sign-up, no contact collection, no location or contact data access. We recommend using only first names or nicknames for younger players."
+    },
+    {
+      "number": 6,
+      "heading": "No analytics or advertising trackers",
+      "body": "This app does not use any analytics tools, advertising networks or tracking. No advertising IDs are processed."
+    },
+    {
+      "number": 7,
+      "heading": "Purchases via Google Play (planned)",
+      "body": "If paid extras (e.g. a Pro upgrade or theme packs) are offered in the future, they will be handled via Google Play. Google processes payment data according to its own privacy policy; we do not receive any payment data, only the information about the purchase status."
+    },
+    {
+      "number": 8,
+      "heading": "Optional Google Drive backup",
+      "body": "If you actively use the optional backup feature with Google Drive, you sign in with your Google account and your app data (players, groups, settings, statistics) is uploaded as a backup file to a hidden, app-specific area (\"appDataFolder\") of your own Google Drive account. The transfer is encrypted (TLS); we ourselves have no access to this data. In the process, Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland) processes data in accordance with the Google Privacy Policy. When you sign in, the app receives your email address to display the connected account. The legal basis is your consent through active use of the feature (Art. 6(1)(a) GDPR). You can delete the cloud backup in the app and sign out at any time."
+    },
+    {
+      "number": 9,
+      "heading": "Your rights",
+      "body": "You have the rights granted by the GDPR (access, rectification, erasure, restriction, data portability, objection, and the right to lodge a complaint with a supervisory authority). Since we ourselves do not store any personal data about you, your data resides exclusively on your device or in your own Google account — you retain full control over it at all times."
+    },
+    {
+      "number": 10,
+      "heading": "Data deletion",
+      "body": "You delete all local data by uninstalling the app or via \"Clear storage\" in the Android app settings. You delete a cloud backup in the app (Data & Backup → Delete cloud backup) or in your Google account."
+    },
+    {
+      "number": 11,
+      "heading": "Changes to this policy",
+      "body": "This policy may be updated when new features are added. The current version is always available in the app and at this address."
+    }
+  ]
+}
