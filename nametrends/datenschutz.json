@@ -1,0 +1,52 @@
+{
+  "title": "Datenschutzerklärung",
+  "app": "NameTrends",
+  "stand": "Juli 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Verantwortlicher",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Deutschland\nE-Mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Grundprinzip: Es werden keine Daten über dich erhoben",
+      "body": "NameTrends ist eine Offline-App, die Vornamen-Statistiken aus offiziellen offenen Daten anzeigt. Die App funktioniert vollständig ohne Nutzerkonto. Deine in der App getroffenen Einstellungen (z. B. Sprache, Design) und deine Favoriten werden ausschließlich lokal auf deinem Gerät gespeichert. Es findet keine Übertragung dieser Daten an uns oder Dritte statt. Wir betreiben keine Server für Nutzerdaten, setzen keine Analyse-, Tracking- oder Werbe-SDKs ein und erstellen keine Nutzungsprofile."
+    },
+    {
+      "number": 3,
+      "heading": "Optionale Datenaktualisierung",
+      "body": "Damit die Vornamen-Datensätze aktuell bleiben, kann die App höchstens einmal alle 24 Stunden eine öffentliche Datendatei von einem öffentlichen Speicherort (GitHub) nachladen. Dabei wird ausschließlich diese Datei abgerufen; es werden keine personenbezogenen Daten übermittelt. Ohne Internetverbindung funktioniert die App vollständig mit den in der App mitgelieferten Datensätzen."
+    },
+    {
+      "number": 4,
+      "heading": "Kauf von NameTrends Pro",
+      "body": "NameTrends Pro (alle Jahrgänge, alle Regionen, Vergleich und Export) ist ein einmaliger In-App-Kauf. Die Zahlung wird ausschließlich über Google Play abgewickelt. Google verarbeitet dabei als eigenständiger Verantwortlicher die Zahlungs- und Kontodaten gemäß der Google-Datenschutzerklärung (policies.google.com/privacy). Wir erhalten von Google keine Zahlungs- oder Identitätsdaten, sondern nur die Information, ob der Kauf vorliegt. Diese Freischaltung wird lokal auf deinem Gerät gespeichert."
+    },
+    {
+      "number": 5,
+      "heading": "Herkunft der angezeigten Daten",
+      "body": "Die angezeigten Vornamen-Statistiken stammen aus offiziellen offenen Datenquellen (z. B. Land Berlin / Standesämter, veröffentlicht unter einer offenen Lizenz). Die jeweilige Quelle und Lizenz ist in der App unter „Quellen & Methodik" bei jedem Datensatz angegeben. Es handelt sich um aggregierte Statistiken ohne Bezug zu einzelnen Personen."
+    },
+    {
+      "number": 6,
+      "heading": "Keine Analyse, kein Tracking, keine Werbung",
+      "body": "NameTrends enthält keine Werbung, keine Analyse-Tools und keine Tracking-SDKs von Drittanbietern. Es wird kein Nutzungsverhalten erfasst oder ausgewertet."
+    },
+    {
+      "number": 7,
+      "heading": "Berechtigungen",
+      "body": "NameTrends fordert nur die Internet-Berechtigung an – ausschließlich für die optionale Datenaktualisierung und zum Öffnen von Quellen-Links im Browser. Es werden keine Standort-, Kamera-, Kontakt- oder sonstigen sensiblen Berechtigungen genutzt."
+    },
+    {
+      "number": 8,
+      "heading": "Deine Rechte",
+      "body": "Da wir keine personenbezogenen Daten von dir verarbeiten oder speichern, laufen Auskunfts-, Berichtigungs- und Löschansprüche gegenüber uns ins Leere. In Bezug auf den Kauf über Google Play richten sich diese Rechte an Google."
+    },
+    {
+      "number": 9,
+      "heading": "Änderungen dieser Erklärung",
+      "body": "Bei neuen Funktionen kann diese Datenschutzerklärung angepasst werden. Es gilt jeweils die in der aktuellen App-Version enthaltene Fassung."
+    }
+  ]
+}

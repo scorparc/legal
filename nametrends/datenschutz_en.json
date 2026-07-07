@@ -1,0 +1,52 @@
+{
+  "title": "Privacy Policy",
+  "app": "NameTrends",
+  "stand": "July 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle: no data is collected about you",
+      "body": "NameTrends is an offline app that shows given-name statistics from official open data. It works entirely without a user account. Your in-app settings (e.g. language, theme) and your favorites are stored only locally on your device. None of this data is transmitted to us or third parties. We run no servers for user data, use no analytics, tracking or advertising SDKs, and build no usage profiles."
+    },
+    {
+      "number": 3,
+      "heading": "Optional data update",
+      "body": "To keep the name datasets current, the app may download a public data file from a public location (GitHub) at most once every 24 hours. Only that file is fetched; no personal data is transmitted. Without an internet connection the app works fully with the datasets bundled in the app."
+    },
+    {
+      "number": 4,
+      "heading": "Purchase of NameTrends Pro",
+      "body": "NameTrends Pro (all years, all regions, compare and export) is a one-time in-app purchase. Payment is handled exclusively through Google Play. Google processes payment and account data as an independent controller under the Google Privacy Policy (policies.google.com/privacy). We receive no payment or identity data from Google, only whether the purchase exists. This unlock is stored locally on your device."
+    },
+    {
+      "number": 5,
+      "heading": "Origin of the displayed data",
+      "body": "The given-name statistics shown come from official open-data sources (e.g. the State of Berlin / registry offices, published under an open licence). The respective source and licence for each dataset is shown in the app under \"Sources & methodology\". These are aggregated statistics with no reference to individuals."
+    },
+    {
+      "number": 6,
+      "heading": "No analytics, no tracking, no ads",
+      "body": "NameTrends contains no advertising, no analytics tools and no third-party tracking SDKs. No usage behaviour is recorded or evaluated."
+    },
+    {
+      "number": 7,
+      "heading": "Permissions",
+      "body": "NameTrends requests only the internet permission — solely for the optional data update and to open source links in the browser. No location, camera, contacts or other sensitive permissions are used."
+    },
+    {
+      "number": 8,
+      "heading": "Your rights",
+      "body": "Since we do not process or store any personal data about you, rights to access, rectification and erasure against us have no subject matter. Regarding the purchase via Google Play, these rights are directed at Google."
+    },
+    {
+      "number": 9,
+      "heading": "Changes to this policy",
+      "body": "This privacy policy may be adjusted when new features are added. The version included in the current app release applies."
+    }
+  ]
+}

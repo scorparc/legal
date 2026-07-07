@@ -57,6 +57,14 @@
       "tagline": "24-Stunden-Schlafprotokoll fürs Baby – erfassen, auswerten, als PDF teilen",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.sleeplog.app",
       "active": false
+    },
+    {
+      "id": "nametrends",
+      "packageName": "de.nametrends.app",
+      "name": "NameTrends",
+      "tagline": "Vornamen-Trends aus offiziellen Daten – Ranking, Verlauf, Regionen",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.nametrends.app",
+      "active": false
     }
   ]
 }
