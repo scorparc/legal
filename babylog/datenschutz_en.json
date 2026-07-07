@@ -1,0 +1,72 @@
+{
+  "title": "Privacy Policy",
+  "app": "BabyLog",
+  "stand": "July 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nEmail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle: your data stays on your device",
+      "body": "BabyLog is an offline app. All data you enter – child profiles, photos, and entries for feeding, sleep, diapers, health (e.g. temperature, symptoms, medication, vaccinations), solids and growth, as well as reminders – is stored exclusively on your local device. Nothing is transmitted to us or third parties. We run no servers, use no analytics, tracking or advertising SDKs, and build no usage profiles."
+    },
+    {
+      "number": 3,
+      "heading": "Health-related information about your child",
+      "body": "Some entries (e.g. temperature, symptoms, medication, vaccinations) may constitute health-related information about your child. These too are stored only locally and never transmitted. You alone decide what to record, export or share."
+    },
+    {
+      "number": 4,
+      "heading": "Photos",
+      "body": "Photos you add to a child profile are copied into the app's private storage area on your device. The app uses the Android system photo picker; it has no access to the rest of your media library."
+    },
+    {
+      "number": 5,
+      "heading": "Notifications",
+      "body": "Reminder notifications (e.g. feeding interval, medication, bedtime) are scheduled and triggered entirely locally on your device. No server connection is made. You can revoke the notification permission at any time in Android settings."
+    },
+    {
+      "number": 6,
+      "heading": "Backup & restore (Pro feature)",
+      "body": "The backup feature creates a local file with your data. This file only leaves your device if you actively share it via the Android share function (e.g. to a cloud service or by email). Where you share it and how it is stored there is beyond our control; the privacy policy of the respective destination applies."
+    },
+    {
+      "number": 7,
+      "heading": "Purchases (BabyLog Pro)",
+      "body": "The optional one-time \"BabyLog Pro\" purchase is processed via Google Play Billing. The transaction and payment data are processed by Google; Google's privacy policy applies. BabyLog receives no payment data, only whether Pro is unlocked."
+    },
+    {
+      "number": 8,
+      "heading": "Permissions",
+      "body": "Notifications (local reminders), photos/media (picking a child photo), billing (Pro purchase), internet. No permissions for location, contacts, microphone, etc. are requested. No internet connection is required for the core tracking function. The internet permission is used solely for the optional, at most once-daily sync of the centrally maintained legal texts (imprint/privacy) and for opening links (e.g. the hosted version, store). No personal or usage data is transmitted."
+    },
+    {
+      "number": 9,
+      "heading": "No data collection (Play Data Safety)",
+      "body": "For the purposes of Google Play's Data Safety section, BabyLog collects and shares no user data. All processing happens exclusively on the device."
+    },
+    {
+      "number": 10,
+      "heading": "Retention and deletion",
+      "body": "Your data remains stored until you delete it in the app (e.g. individual entries or an entire child profile) or uninstall the app. Uninstalling removes all locally stored data."
+    },
+    {
+      "number": 11,
+      "heading": "Your rights",
+      "body": "Because no data is transmitted to us, we hold no personal data that could be subject to access, rectification or deletion requests. You have full control over your data directly in the app at any time."
+    },
+    {
+      "number": 12,
+      "heading": "Changes to this policy",
+      "body": "This privacy policy may be updated when the app's functionality changes. The current version is always included in the app and available at this address."
+    },
+    {
+      "number": 13,
+      "heading": "Contact",
+      "body": "For privacy questions: Marc Neumann, marc.neumann.neu@gmail.com"
+    }
+  ]
+}
