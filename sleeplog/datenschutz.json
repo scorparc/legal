@@ -1,0 +1,62 @@
+{
+  "title": "Datenschutzerklärung",
+  "app": "SleepLog",
+  "stand": "Juli 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Verantwortlicher",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Deutschland\nE-Mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Grundprinzip: Deine Daten bleiben auf deinem Gerät",
+      "body": "SleepLog ist eine Offline-App zum Führen eines 24-Stunden-Schlafprotokolls für Babys. Alle von dir erfassten Daten – Angaben zu deinen Kindern (Profile), Schlaf-, Wach- und Mahlzeit-Ereignisse mit Uhrzeit und Kategorie sowie deine Notizen – werden ausschließlich lokal auf deinem Gerät gespeichert. Es findet keine Übertragung an uns oder Dritte statt. Wir betreiben keine Server, setzen keine Analyse-, Tracking- oder Werbe-SDKs ein und erstellen keine Nutzungsprofile. Es ist kein Nutzerkonto erforderlich und es besteht keine Cloud-Anbindung."
+    },
+    {
+      "number": 3,
+      "heading": "Gesundheitsbezogene Daten",
+      "body": "Schlaf- und Mahlzeitprotokolle können gesundheitsbezogene Daten deines Kindes darstellen. Da diese Angaben ausschließlich lokal auf deinem Gerät verarbeitet und zu keinem Zeitpunkt an uns übertragen werden, haben wir keinerlei Zugriff darauf. Du allein entscheidest, welche Angaben du erfasst und ob und mit wem du sie teilst."
+    },
+    {
+      "number": 4,
+      "heading": "Kategorien und Methodik",
+      "body": "Die Kategorien zur Erfassung folgen der Methodik des 24-Stunden-Schlafprotokolls (Typ Kinderspital Zürich). Es handelt sich dabei ausschließlich um eine methodische Referenz zur Strukturierung deiner Einträge; es findet kein Datenaustausch mit dem Kinderspital Zürich oder anderen Stellen statt, und diese sind nicht in die Datenverarbeitung eingebunden."
+    },
+    {
+      "number": 5,
+      "heading": "Benachrichtigungen",
+      "body": "Etwaige Erinnerungen werden vollständig lokal auf deinem Gerät geplant und ausgelöst. Dafür wird keine Verbindung zu Servern aufgebaut. Die Berechtigung für Benachrichtigungen kannst du jederzeit in den Android-Einstellungen entziehen."
+    },
+    {
+      "number": 6,
+      "heading": "Lokale Sicherung, PDF-Export und Teilen",
+      "body": "Du kannst all deine Daten als lokale Sicherungsdatei (JSON) exportieren und wieder importieren; ebenso kannst du das Protokoll als PDF erzeugen. Diese Dateien werden lokal auf deinem Gerät erstellt und verlassen dein Gerät nur, wenn du sie über den Android-Teilen-Dialog aktiv teilst. An wen die Datei geht, bestimmst allein du."
+    },
+    {
+      "number": 7,
+      "heading": "Abruf der Rechtstexte",
+      "body": "Damit Impressum und Datenschutzerklärung aktuell bleiben, ruft die App diese Texte höchstens einmal alle 24 Stunden von einem öffentlichen Speicherort (GitHub, raw.githubusercontent.com, Betreiberin: GitHub, Inc., USA) ab. Dabei wird technisch bedingt deine IP-Adresse an GitHub übertragen. Es werden keine App- oder Nutzungsdaten und keine personenbezogenen Daten gesendet. Der Abruf ist nicht zwingend: Ohne Internetverbindung werden die mit der App ausgelieferten Fassungen angezeigt. Rechtsgrundlage ist unser berechtigtes Interesse an aktuellen Pflichtangaben (Art. 6 Abs. 1 lit. f DSGVO)."
+    },
+    {
+      "number": 8,
+      "heading": "Kauf von SleepLog Pro",
+      "body": "SleepLog Pro ist ein einmaliger In-App-Kauf – kein Abonnement. Die Zahlung wird ausschließlich über Google Play Billing abgewickelt. Dabei verarbeitet Google als Zahlungsdienstleister die Zahlungs- und Kontodaten gemäß der Google-Datenschutzerklärung (policies.google.com/privacy); wir erhalten keine Zahlungsdaten, sondern nur die Information über den Kaufstatus. Diese Freischaltung wird lokal auf deinem Gerät gespeichert."
+    },
+    {
+      "number": 9,
+      "heading": "Deine Rechte",
+      "body": "Du hast nach der DSGVO das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutz-Aufsichtsbehörde. Da wir keine personenbezogenen Daten von dir speichern, kannst du diese Rechte weitgehend direkt in der App und auf deinem Gerät ausüben – etwa durch Löschen eines Kindes oder Eintrags oder durch Deinstallation. Für Anliegen erreichst du uns unter der im Impressum genannten Adresse."
+    },
+    {
+      "number": 10,
+      "heading": "Datenlöschung",
+      "body": "Alle lokalen Daten löschst du in der App (einzelne Einträge oder ganze Kind-Profile) oder durch Deinstallation der App bzw. über \"Speicher löschen\" in den Android-App-Einstellungen."
+    },
+    {
+      "number": 11,
+      "heading": "Änderungen dieser Erklärung",
+      "body": "Diese Datenschutzerklärung wird bei Funktionsänderungen der App angepasst. Die jeweils aktuelle Fassung findest du unter dieser Adresse."
+    }
+  ]
+}

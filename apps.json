@@ -49,6 +49,14 @@
       "tagline": "Milchzähne & Zahnwechsel liebevoll dokumentieren – offline",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.zahntagebuch.app",
       "active": false
+    },
+    {
+      "id": "sleeplog",
+      "packageName": "de.sleeplog.app",
+      "name": "SleepLog",
+      "tagline": "24-Stunden-Schlafprotokoll fürs Baby – erfassen, auswerten, als PDF teilen",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.sleeplog.app",
+      "active": false
     }
   ]
 }
