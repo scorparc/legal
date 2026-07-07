@@ -1,0 +1,72 @@
+{
+  "title": "Privacy Policy",
+  "app": "BonSafe",
+  "stand": "July 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nEmail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle: your data stays on your device",
+      "body": "BonSafe is an offline app for managing receipts and warranties. All data you enter – retailer, purchase date, amount, item name, category, notes, warranty and return deadlines, and photos of your receipts – is stored solely on your device. Nothing is transmitted to us or third parties. We run no servers, use no analytics, tracking or advertising SDKs, and build no usage profiles. No user account is required."
+    },
+    {
+      "number": 3,
+      "heading": "Photos",
+      "body": "Photos you add to a receipt are copied into the app's private storage area on your device. The app uses the camera only after you explicitly choose it via the system camera dialog, and the Android system photo picker for the gallery; it has no access to the rest of your media library."
+    },
+    {
+      "number": 4,
+      "heading": "Notifications",
+      "body": "Reminders for expiring warranty or return deadlines are scheduled and triggered entirely locally on your device. No server connection is made for this. You can revoke the notification permission at any time in your Android settings."
+    },
+    {
+      "number": 5,
+      "heading": "Optional Google Drive backup (Pro feature)",
+      "body": "If you actively use the backup feature, your app data (receipts including photos) is uploaded as a backup file into a hidden, app-private area (\"appDataFolder\") of your own Google Drive account. The transfer is encrypted (TLS). We ourselves have no access to this data. Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Ireland) processes data as an independent controller in accordance with the Google Privacy Policy (policies.google.com/privacy). Google Sign-In is used for authentication; the app receives your email address to display the connected account. The legal basis is your consent through active use of the feature (Art. 6(1)(a) GDPR). You can stop the backup at any time, sign out in the app, and remove the backup via \"Delete backup\"."
+    },
+    {
+      "number": 6,
+      "heading": "Local backup and PDF export",
+      "body": "You can export all your receipts as a local backup file and import it again; you can also generate a single receipt as a PDF. These files are created locally on your device and are only shared if you actively trigger the share dialog. You alone decide where the file goes."
+    },
+    {
+      "number": 7,
+      "heading": "Purchasing BonSafe Pro",
+      "body": "BonSafe Pro (unlimited receipts and Drive backup) is a one-time in-app purchase. Payment is handled exclusively via Google Play. Google processes the payment and account data as an independent controller in accordance with the Google Privacy Policy. We receive no payment or identity data from Google, only whether the purchase exists. This unlock is stored locally on your device."
+    },
+    {
+      "number": 8,
+      "heading": "Updating the legal texts",
+      "body": "To keep the legal notice and privacy policy current, the app fetches these texts from a public location (GitHub) at most once every 24 hours. Only the text files are retrieved; no personal data is transmitted. Without an internet connection, the versions bundled with the app are shown."
+    },
+    {
+      "number": 9,
+      "heading": "Permissions",
+      "body": "BonSafe requests only the necessary permissions: notifications (for deadline reminders) and – only while actively used – the camera via the system dialog. No location, contacts or other sensitive permissions are used."
+    },
+    {
+      "number": 10,
+      "heading": "No analytics, no tracking, no ads",
+      "body": "BonSafe contains no advertising, no analytics tools and no third-party tracking SDKs. No usage behaviour is collected or evaluated."
+    },
+    {
+      "number": 11,
+      "heading": "Your rights",
+      "body": "As we do not process or store any personal data about you, requests for access, rectification or erasure directed at us have no subject matter. With regard to a Google Drive backup, these rights are directed to Google or to the data in your own Google account."
+    },
+    {
+      "number": 12,
+      "heading": "Deleting data",
+      "body": "You can delete individual receipts in the app. You remove all local data by uninstalling the app or via \"Clear storage\" in the Android app settings. You delete an existing Drive backup directly in the app via \"Delete backup\" or in your Google account under Google Drive → Settings → Manage apps → BonSafe."
+    },
+    {
+      "number": 13,
+      "heading": "Changes to this policy",
+      "body": "This privacy policy will be adjusted as needed, e.g. for new features. The current version is available in the app and at the address linked in the Play Store description."
+    }
+  ]
+}

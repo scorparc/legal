@@ -1,0 +1,62 @@
+{
+  "title": "Privacy Policy",
+  "app": "ZahnTagebuch",
+  "stand": "July 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle: your data stays on your device",
+      "body": "ZahnTagebuch is an offline app for documenting baby teeth and the change of teeth. All data you enter – children's names and birth dates, profile photos, tooth events (eruption, wobbling, loss, permanent tooth) with dates, notes, optional tooth-fairy amounts, tooth photos and reminders – is stored exclusively locally on your device. Nothing is transmitted to us or third parties. We run no servers, use no analytics, tracking or advertising SDKs, and build no usage profiles. No user account is required."
+    },
+    {
+      "number": 3,
+      "heading": "Data about children",
+      "body": "The app is intended for parents documenting their children's dental development. Any information you enter about children stays – like all other data – exclusively on your device and is never collected or viewed by us. You alone decide what to record."
+    },
+    {
+      "number": 4,
+      "heading": "Photos",
+      "body": "Photos you add to a child or a tooth are copied into the app's private storage area on your device. The app uses the camera only after your explicit choice via the system camera dialog and the Android system photo picker for the gallery; it has no access to the rest of your media library."
+    },
+    {
+      "number": 5,
+      "heading": "Notifications",
+      "body": "Reminders for dentist appointments or expected teeth are scheduled and triggered entirely locally on your device. No server connection is used. You can revoke the notification permission at any time in the Android settings."
+    },
+    {
+      "number": 6,
+      "heading": "Local backup, sharing and tooth-chart image",
+      "body": "You can export all your data as a local backup file (JSON, including photos) and import it again; you can also generate the tooth chart as an image. These files are created locally on your device and only shared if you actively trigger the share dialog. You alone decide who receives the file."
+    },
+    {
+      "number": 7,
+      "heading": "Fetching the legal texts",
+      "body": "To keep the imprint and privacy policy current, the app fetches these texts from a public location (GitHub Pages / raw.githubusercontent.com, operated by GitHub, Inc., USA) at most once every 24 hours. This technically transmits your IP address to GitHub. No app or usage data is sent. The fetch is not mandatory: without an internet connection the versions bundled with the app are shown. The legal basis is our legitimate interest in up-to-date mandatory information (Art. 6(1)(f) GDPR)."
+    },
+    {
+      "number": 8,
+      "heading": "Purchase of ZahnTagebuch Pro",
+      "body": "ZahnTagebuch Pro (multiple children, photos and backup) is a one-time in-app purchase – not a subscription. Payment is handled exclusively via Google Play. Google processes payment and account data according to its own privacy terms; we receive no payment data, only the purchase status."
+    },
+    {
+      "number": 9,
+      "heading": "Your rights",
+      "body": "Under the GDPR you have the right to access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection authority. As we store no personal data of yours, you have full control over your data directly in the app and on your device."
+    },
+    {
+      "number": 10,
+      "heading": "Deleting data",
+      "body": "You delete all local data in the app (individual entries or whole child profiles) or by uninstalling the app or via \"Clear storage\" in the Android app settings."
+    },
+    {
+      "number": 11,
+      "heading": "Changes to this policy",
+      "body": "This privacy policy will be updated when the app's features change. The current version is always available at this address."
+    }
+  ]
+}

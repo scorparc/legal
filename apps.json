@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03",
+  "updated": "2026-07-06",
   "note": "Zentrale Cross-Promotion-Liste für alle Apps von Marc Neumann. Jede App zeigt nur EINTRÄGE MIT active:true UND fremdem packageName (die eigene App wird anhand des packageName herausgefiltert). Sobald eine App im Play Store live ist: hier active auf true setzen + committen – die anderen Apps blenden sie beim nächsten Sync automatisch ein, ohne App-Update.",
   "apps": [
     {
@@ -32,6 +32,22 @@
       "name": "FamilyBash",
       "tagline": "Party-Spiele für die ganze Familie – ein Handy, alle Generationen",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.familybash.app",
+      "active": false
+    },
+    {
+      "id": "bonsafe",
+      "packageName": "de.bonsafe.app",
+      "name": "BonSafe",
+      "tagline": "Belege & Garantien im Blick – Fristen nie mehr verpassen",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.bonsafe.app",
+      "active": false
+    },
+    {
+      "id": "zahntagebuch",
+      "packageName": "de.zahntagebuch.app",
+      "name": "ZahnTagebuch",
+      "tagline": "Milchzähne & Zahnwechsel liebevoll dokumentieren – offline",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.zahntagebuch.app",
       "active": false
     }
   ]

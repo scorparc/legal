@@ -1,0 +1,72 @@
+{
+  "title": "Datenschutzerklärung",
+  "app": "BonSafe",
+  "stand": "Juli 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Verantwortlicher",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Deutschland\nE-Mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Grundprinzip: Deine Daten bleiben auf deinem Gerät",
+      "body": "BonSafe ist eine Offline-App zur Verwaltung von Kassenbons und Garantien. Alle von dir erfassten Daten – Händler, Kaufdatum, Betrag, Artikelbezeichnung, Kategorie, Notizen, Garantie- und Rückgabefristen sowie Fotos deiner Belege – werden ausschließlich lokal auf deinem Gerät gespeichert. Es findet keine Übertragung an uns oder Dritte statt. Wir betreiben keine Server, setzen keine Analyse-, Tracking- oder Werbe-SDKs ein und erstellen keine Nutzungsprofile. Es ist kein Nutzerkonto erforderlich."
+    },
+    {
+      "number": 3,
+      "heading": "Fotos",
+      "body": "Fotos, die du zu einem Beleg hinzufügst, werden in den app-eigenen Speicherbereich deines Geräts kopiert. Die App nutzt die Kamera nur nach deiner ausdrücklichen Auswahl über den System-Kameradialog sowie den Android-Systemfotowähler für die Galerie; sie hat keinen Zugriff auf deine übrige Mediathek."
+    },
+    {
+      "number": 4,
+      "heading": "Benachrichtigungen",
+      "body": "Erinnerungen an ablaufende Garantie- oder Rückgabefristen werden vollständig lokal auf deinem Gerät geplant und ausgelöst. Dafür wird keine Verbindung zu Servern aufgebaut. Die Berechtigung für Benachrichtigungen kannst du jederzeit in den Android-Einstellungen entziehen."
+    },
+    {
+      "number": 5,
+      "heading": "Optionales Google-Drive-Backup (Pro-Funktion)",
+      "body": "Wenn du die Backup-Funktion aktiv nutzt, werden deine App-Daten (Belege inklusive Fotos) als Sicherungsdatei in einen versteckten, app-eigenen Bereich (\"appDataFolder\") deines eigenen Google-Drive-Kontos hochgeladen. Die Übertragung erfolgt verschlüsselt (TLS). Wir selbst erhalten keinen Zugriff auf diese Daten. Dabei verarbeitet Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland) als eigenständiger Verantwortlicher Daten gemäß der Google-Datenschutzerklärung (policies.google.com/privacy). Für die Anmeldung wird dein Google-Konto verwendet (Google Sign-In); die App erhält dabei deine E-Mail-Adresse zur Anzeige des verbundenen Kontos. Rechtsgrundlage ist deine Einwilligung durch aktive Nutzung der Funktion (Art. 6 Abs. 1 lit. a DSGVO). Du kannst das Backup jederzeit beenden, dich in der App abmelden und die Sicherung über \"Sicherung löschen\" entfernen."
+    },
+    {
+      "number": 6,
+      "heading": "Lokale Sicherung und PDF-Export",
+      "body": "Du kannst all deine Belege als lokale Sicherungsdatei exportieren und wieder importieren; ebenso kannst du einen einzelnen Beleg als PDF erzeugen. Diese Dateien werden lokal auf deinem Gerät erstellt und nur dann geteilt, wenn du den Teilen-Dialog aktiv auslöst. An wen die Datei geht, bestimmst allein du."
+    },
+    {
+      "number": 7,
+      "heading": "Kauf von BonSafe Pro",
+      "body": "BonSafe Pro (unbegrenzte Belege und Drive-Backup) ist ein einmaliger In-App-Kauf. Die Zahlung wird ausschließlich über Google Play abgewickelt. Google verarbeitet dabei als eigenständiger Verantwortlicher die Zahlungs- und Kontodaten gemäß der Google-Datenschutzerklärung. Wir erhalten von Google keine Zahlungs- oder Identitätsdaten, sondern nur die Information, ob der Kauf vorliegt. Diese Freischaltung wird lokal auf deinem Gerät gespeichert."
+    },
+    {
+      "number": 8,
+      "heading": "Aktualisierung der Rechtstexte",
+      "body": "Damit Impressum und Datenschutzerklärung aktuell bleiben, lädt die App diese Texte höchstens einmal alle 24 Stunden von einem öffentlichen Speicherort (GitHub) nach. Dabei werden ausschließlich die Textdateien abgerufen; es werden keine personenbezogenen Daten übermittelt. Ohne Internetverbindung werden die in der App mitgelieferten Fassungen angezeigt."
+    },
+    {
+      "number": 9,
+      "heading": "Berechtigungen",
+      "body": "BonSafe fordert nur die notwendigen Berechtigungen an: Benachrichtigungen (für Fristerinnerungen) und – nur bei aktiver Nutzung – die Kamera über den System-Dialog. Es werden keine Standort-, Kontakt- oder sonstigen sensiblen Berechtigungen genutzt."
+    },
+    {
+      "number": 10,
+      "heading": "Keine Analyse, kein Tracking, keine Werbung",
+      "body": "BonSafe enthält keine Werbung, keine Analyse-Tools und keine Tracking-SDKs von Drittanbietern. Es wird kein Nutzungsverhalten erfasst oder ausgewertet."
+    },
+    {
+      "number": 11,
+      "heading": "Deine Rechte",
+      "body": "Da wir keine personenbezogenen Daten von dir verarbeiten oder speichern, laufen Auskunfts-, Berichtigungs- und Löschansprüche gegenüber uns ins Leere. In Bezug auf ein Google-Drive-Backup richten sich diese Rechte an Google bzw. an die Daten in deinem eigenen Google-Konto."
+    },
+    {
+      "number": 12,
+      "heading": "Datenlöschung",
+      "body": "Einzelne Belege kannst du in der App löschen. Alle lokalen Daten entfernst du durch Deinstallation der App oder über \"Speicher löschen\" in den Android-App-Einstellungen. Ein vorhandenes Drive-Backup löschst du direkt in der App über \"Sicherung löschen\" oder in deinem Google-Konto unter Google Drive → Einstellungen → Apps verwalten → BonSafe."
+    },
+    {
+      "number": 13,
+      "heading": "Änderungen dieser Erklärung",
+      "body": "Diese Datenschutzerklärung wird bei Bedarf angepasst, etwa bei neuen Funktionen. Die jeweils aktuelle Fassung ist in der App und unter der in der Play-Store-Beschreibung verlinkten Adresse abrufbar."
+    }
+  ]
+}
