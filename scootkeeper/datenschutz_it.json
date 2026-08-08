@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-08-08.3",
   "language": "it",
   "title": "Informativa sulla privacy",
   "app": "ScootKeeper",
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Backup Google Drive facoltativo (funzione Pro)",
-      "body": "Se utilizzi attivamente il backup, i dati dell'app, comprese le foto, vengono caricati nell'area nascosta appDataFolder del tuo account Google Drive. Il trasferimento è crittografato (TLS). Non abbiamo accesso al backup. Google Ireland Limited tratta i dati dell'account come titolare autonomo. Puoi interrompere il backup e disconnetterti."
+      "body": "Se utilizzi attivamente il backup, i dati dell'app, comprese le foto, vengono caricati nell'area nascosta appDataFolder del tuo account Google Drive. Il trasferimento è crittografato (TLS). Non abbiamo accesso al backup. Google Ireland Limited tratta i dati dell'account come titolare autonomo. Accedi con Google Sign-In; il tuo indirizzo email Google viene usato solo per mostrare l'account collegato. Puoi interrompere il backup e disconnetterti."
     },
     {
       "number": 6,
@@ -38,8 +38,8 @@
     },
     {
       "number": 7,
-      "heading": "Acquisti tramite Google Play",
-      "body": "Le funzioni Pro a pagamento sono gestite tramite Google Play Billing. Google tratta i dati di pagamento e dell'account; riceviamo solo lo stato dell'acquisto o dell'abbonamento."
+      "heading": "Google Play: acquisto e valutazione",
+      "body": "Le funzioni Pro a pagamento sono gestite tramite Google Play Billing. Google tratta i dati di pagamento e dell'account; riceviamo solo lo stato dell'acquisto o dell'abbonamento. Dopo diverse voci di manutenzione registrate, l'app può aprire una volta la funzione di valutazione fornita da Google Play. L'app non trasmette dati di veicolo, manutenzione o backup tramite tale funzione."
     },
     {
       "number": 8,

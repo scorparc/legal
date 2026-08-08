@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-08-08.3",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "ScootKeeper",
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Optionales Google-Drive-Backup (Pro-Funktion)",
-      "body": "Wenn du die Backup-Funktion aktiv nutzt, werden deine App-Daten einschließlich Fotos als Sicherungsdatei in den versteckten, app-eigenen Bereich (\"appDataFolder\") deines Google-Drive-Kontos hochgeladen. Die Übertragung erfolgt verschlüsselt (TLS). Wir erhalten keinen Zugriff auf die Sicherung. Google Ireland Limited verarbeitet Kontodaten als eigenständiger Verantwortlicher. Du kannst das Backup beenden und dich abmelden."
+      "body": "Wenn du die Backup-Funktion aktiv nutzt, werden deine App-Daten einschließlich Fotos als Sicherungsdatei in den versteckten, app-eigenen Bereich (\"appDataFolder\") deines Google-Drive-Kontos hochgeladen. Die Übertragung erfolgt verschlüsselt (TLS). Wir erhalten keinen Zugriff auf die Sicherung. Google Ireland Limited verarbeitet Kontodaten als eigenständiger Verantwortlicher. Für die Anmeldung nutzt du Google Sign-In; deine Google-E-Mail-Adresse wird nur zur Anzeige des verbundenen Kontos verwendet. Du kannst das Backup beenden und dich abmelden."
     },
     {
       "number": 6,
@@ -38,8 +38,8 @@
     },
     {
       "number": 7,
-      "heading": "Käufe über Google Play",
-      "body": "Kostenpflichtige Pro-Funktionen werden über Google Play Billing abgewickelt. Google verarbeitet Zahlungs- und Kontodaten; wir erhalten nur den Kauf- beziehungsweise Abostatus."
+      "heading": "Google Play: Kauf und Bewertung",
+      "body": "Kostenpflichtige Pro-Funktionen werden über Google Play Billing abgewickelt. Google verarbeitet Zahlungs- und Kontodaten; wir erhalten nur den Kauf- beziehungsweise Abostatus. Nach mehreren erfassten Wartungseinträgen kann die App einmalig die von Google Play bereitgestellte Bewertungsfunktion öffnen. Darüber übermittelt die App keine Fahrzeug-, Wartungs- oder Backupdaten."
     },
     {
       "number": 8,

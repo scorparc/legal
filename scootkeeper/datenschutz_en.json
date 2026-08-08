@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-08-08.3",
   "language": "en",
   "title": "Privacy Policy",
   "app": "ScootKeeper",
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Optional Google Drive backup (Pro feature)",
-      "body": "If you actively use the backup feature, app data including photos is uploaded as a backup file to the hidden app-specific appDataFolder of your Google Drive account. The transfer is encrypted (TLS). We have no access to the backup. Google Ireland Limited processes account data as an independent controller. You can stop the backup and sign out."
+      "body": "If you actively use the backup feature, app data including photos is uploaded as a backup file to the hidden app-specific appDataFolder of your Google Drive account. The transfer is encrypted (TLS). We have no access to the backup. Google Ireland Limited processes account data as an independent controller. You sign in with Google Sign-In; your Google email address is used only to display the connected account. You can stop the backup and sign out."
     },
     {
       "number": 6,
@@ -38,8 +38,8 @@
     },
     {
       "number": 7,
-      "heading": "Purchases via Google Play",
-      "body": "Paid Pro features are processed through Google Play Billing. Google processes payment and account data; we receive only the purchase or subscription status."
+      "heading": "Google Play: purchase and review",
+      "body": "Paid Pro features are processed through Google Play Billing. Google processes payment and account data; we receive only the purchase or subscription status. After several recorded maintenance entries, the app may open the review feature provided by Google Play once. The app does not transmit vehicle, maintenance or backup data through it."
     },
     {
       "number": 8,

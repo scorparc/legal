@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-08-08.3",
   "language": "fr",
   "title": "Politique de confidentialité",
   "app": "ScootKeeper",
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Sauvegarde Google Drive facultative (fonction Pro)",
-      "body": "Si tu utilises activement la sauvegarde, les données de l'application, photos comprises, sont téléversées dans la zone masquée appDataFolder de ton compte Google Drive. Le transfert est chiffré (TLS). Nous n'avons pas accès à la sauvegarde. Google Ireland Limited traite les données du compte en tant que responsable indépendant. Tu peux arrêter la sauvegarde et te déconnecter."
+      "body": "Si tu utilises activement la sauvegarde, les données de l'application, photos comprises, sont téléversées dans la zone masquée appDataFolder de ton compte Google Drive. Le transfert est chiffré (TLS). Nous n'avons pas accès à la sauvegarde. Google Ireland Limited traite les données du compte en tant que responsable indépendant. Tu te connectes avec Google Sign-In ; ton adresse e-mail Google sert uniquement à afficher le compte connecté. Tu peux arrêter la sauvegarde et te déconnecter."
     },
     {
       "number": 6,
@@ -38,8 +38,8 @@
     },
     {
       "number": 7,
-      "heading": "Achats via Google Play",
-      "body": "Les fonctions Pro payantes sont traitées via Google Play Billing. Google traite les données de paiement et du compte ; nous recevons uniquement le statut d'achat ou d'abonnement."
+      "heading": "Google Play : achat et évaluation",
+      "body": "Les fonctions Pro payantes sont traitées via Google Play Billing. Google traite les données de paiement et du compte ; nous recevons uniquement le statut d'achat ou d'abonnement. Après plusieurs entrées d'entretien enregistrées, l'application peut ouvrir une fois la fonction d'évaluation fournie par Google Play. L'application ne transmet aucune donnée de véhicule, d'entretien ou de sauvegarde par ce biais."
     },
     {
       "number": 8,
