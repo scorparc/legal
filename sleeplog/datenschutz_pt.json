@@ -13,28 +13,28 @@
     },
     {
       "number": 2,
-      "heading": "Registo local do sono",
-      "body": "SleepLog guarda apenas localmente perfis de crianças, horas de sono e vigília, alimentações, notas e lembretes. Os registos podem conter informação relacionada com a saúde; não existe conta nem servidor próprio."
+      "heading": "Dados locais de crianças e de registo",
+      "body": "O SleepLog guarda numa base de dados local do dispositivo os perfis das crianças introduzidos (nome e data de nascimento), eventos de sono, vigília, alimentação, choro e outros eventos com horários, comentários rápidos opcionais e notas livres, bem como marcadores de doença, dentição ou infeção. As definições e o estado local de desbloqueio do SleepLog Pro também são guardados no dispositivo. Estes dados dizem respeito a crianças e podem ser relacionados com a saúde. São tratados apenas localmente para vistas, avaliações e registos PDF; a aplicação não nos transmite esses dados. Não existem conta de utilizador nem servidor próprio."
     },
     {
       "number": 3,
-      "heading": "Exportação, Pro e eliminação",
-      "body": "As exportações PDF, impressão e JSON são criadas localmente e partilhadas apenas através do diálogo do sistema que abres. SleepLog Pro é uma compra única no Google Play; a Google trata dados de pagamento e conta. Elimina registos na aplicação ou todos os dados através do Android."
+      "heading": "Notificações, fuso horário e ficheiros",
+      "body": "Se ativar lembretes, a aplicação agenda e mostra uma notificação local diária; no Android solicita autorização para notificações. Para a agendar à hora correta lê o identificador de fuso horário. O código não solicita autorização de localização nem usa dados geográficos. O SleepLog pode exportar e importar dados como cópia JSON ou CSV e gerar, imprimir ou partilhar PDFs através da janela de sistema que abre. Os ficheiros são criados local ou temporariamente e chegam à aplicação ou destinatário escolhido apenas através da sua seleção. A aplicação não contém câmara nem função de fotos."
     },
     {
       "number": 4,
-      "heading": "Consulta e atualização dos textos legais",
-      "body": "Para manter atualizados o aviso legal e a política de privacidade, a aplicação consulta os textos legais públicos do GitHub Pages ou raw.githubusercontent.com no máximo uma vez a cada 24 horas. Tecnicamente, isto transmite o teu endereço IP ao GitHub. Não nos são enviados conteúdos da aplicação nem um perfil de utilização. Sem ligação à Internet são apresentadas as versões incluídas na aplicação. A consulta baseia-se no nosso interesse legítimo em manter atualizada a informação obrigatória (art. 6.º, n.º 1, alínea f, do RGPD)."
+      "heading": "SleepLog Pro e Google Play Billing",
+      "body": "O SleepLog Pro é uma compra única na aplicação. A aplicação consulta o Google Play sobre a disponibilidade do produto e pode iniciar compras ou restauros através do Google Play Billing. A Google trata os dados de pagamento e conta necessários segundo as suas próprias regras de privacidade. A aplicação guarda localmente o estado de desbloqueio; nenhum servidor próprio trata dados de pagamento."
     },
     {
       "number": 5,
-      "heading": "Os teus direitos",
-      "body": "Nos termos do RGPD tens, em particular, direito de acesso, retificação, apagamento, limitação do tratamento, portabilidade e oposição, bem como o direito de apresentar uma reclamação junto de uma autoridade de controlo. Os dados da aplicação são geralmente guardados localmente sob o teu controlo, pelo que podes consultá-los, alterá-los ou eliminá-los aí. Para os dados de uma conta Google utilizada voluntariamente, o contacto competente é o Google."
+      "heading": "Obtenções GitHub, ligações externas e ausência de análise",
+      "body": "A aplicação carrega os textos legais primeiro de uma cache local e depois dos ficheiros JSON incluídos. Em segundo plano tenta atualizar o aviso legal e a política para todos os idiomas suportados a partir de raw.githubusercontent.com/scorparc/legal. Após uma sincronização totalmente bem-sucedida, isto ocorre no máximo a cada 24 horas; após erros de rede, HTTP ou JSON, cache e alternativa mantêm-se válidas e é possível uma nova tentativa. O endereço IP é tecnicamente transmitido à GitHub, não os dados de registo, crianças ou utilização. Também pode ser carregada uma lista de outras aplicações. Um toque pode abrir GitHub Pages, o site metodológico do Kinderspital Zürich ou páginas de loja; aplicam-se as regras de cada serviço. Não estão configurados serviços de análise, publicidade, comunicação de falhas ou rastreamento. Não existe integração Google Drive ou outro backup em nuvem; backups e transferências Android estão desativados. A base jurídica da obtenção GitHub é o nosso interesse legítimo em informações obrigatórias atualizadas (art. 6.º, n.º 1, al. f) do RGPD)."
     },
     {
       "number": 6,
-      "heading": "Alterações a esta política",
-      "body": "Esta política é atualizada quando mudam a aplicação, os serviços utilizados ou o tratamento de dados. A versão atual está disponível na aplicação e no endereço indicado."
+      "heading": "Eliminação e os seus direitos",
+      "body": "Pode eliminar entradas ou perfis de crianças na aplicação e remover dados locais nas definições do dispositivo. O RGPD confere-lhe, em particular, os direitos de acesso, retificação, apagamento, limitação, portabilidade e oposição, bem como o direito de reclamar junto de uma autoridade de controlo. Se os dados estiverem apenas no dispositivo, pode consultá-los, alterá-los ou eliminá-los. A Google é o contacto competente para dados tratados no âmbito de uma compra. Esta política é atualizada quando mudam funções, serviços ou tratamentos; a versão atual está disponível na aplicação e, se desejar, no navegador no idioma escolhido."
     }
   ]
 }

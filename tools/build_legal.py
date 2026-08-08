@@ -14,8 +14,7 @@ import shutil
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[2]
-LEGAL = ROOT / "legal"
+LEGAL = Path(__file__).resolve().parents[1]
 VERSION = "2026-08-08.2"
 APP_VERSIONS = {"scootrules": "2026-08-08.3"}
 LANGUAGES = ("de", "en", "es", "fr", "it", "pt")
@@ -31,20 +30,6 @@ APPS = {
     "sleeplog": "SleepLog",
     "snackblocker": "SnackBlocker",
 }
-APP_ASSETS = {
-    "bonsafe": ROOT / "BonSafe" / "assets" / "legal",
-    "scootkeeper": ROOT / "ScootKeeper" / "assets" / "legal",
-    "plakettenalarm": ROOT / "PlakettenAlarm" / "assets" / "legal",
-    "zahntagebuch": ROOT / "ZahnTagebuch" / "assets" / "legal",
-    "babylog": ROOT / "babylog" / "assets" / "legal",
-    "familybash": ROOT / "FamilyBash" / "assets" / "legal",
-    "nametrends": ROOT / "NameTrends" / "assets" / "legal",
-    "scootrules": ROOT / "ScootRules" / "app" / "assets" / "legal",
-    "sleeplog": ROOT / "SleepLog" / "assets" / "legal",
-    "snackblocker": ROOT / "SnackBlocker" / "assets" / "legal",
-}
-
-
 def suffix(language: str) -> str:
     return "" if language == "de" else f"_{language}"
 
@@ -618,6 +603,14 @@ SCOOTRULES_RIGHTS = {
 
 
 def make_privacy(app_slug: str, language: str) -> dict:
+    # SleepLog's data flows require a reviewed, app-specific policy. Its JSON
+    # is canonical; this builder only turns it into HTML and optional assets.
+    if app_slug == "sleeplog":
+        source = LEGAL / app_slug / f"datenschutz{suffix(language)}.json"
+        document = json.loads(source.read_text(encoding="utf-8"))
+        if document.get("language") != language:
+            raise ValueError(f"{source}: unexpected language")
+        return document
     common = COMMON[language]
     app_heading, app_body = (
         SNACKBLOCKER_DATA[language]
@@ -704,7 +697,14 @@ def write_html(path: Path, document: dict, kind: str) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--app", choices=APPS, help="Build one app's privacy texts only.")
+    parser.add_argument(
+        "--assets-dir",
+        type=Path,
+        help="Optional app assets/legal directory to receive the selected app's fallbacks.",
+    )
     args = parser.parse_args()
+    if args.assets_dir and not args.app:
+        parser.error("--assets-dir requires --app")
     app_slugs = (args.app,) if args.app else APPS
 
     for language in LANGUAGES:
@@ -720,17 +720,13 @@ def main() -> None:
             write_json(folder / f"{filename}.json", privacy)
             write_html(folder / f"{filename}.html", privacy, "datenschutz")
 
-    # Bundle the same canonical JSON in every app for offline use. A targeted
-    # build deliberately leaves the shared imprint and unrelated apps intact.
-    assets = {args.app: APP_ASSETS[args.app]} if args.app else APP_ASSETS
-    for app_slug, asset_dir in assets.items():
-        asset_dir.mkdir(parents=True, exist_ok=True)
+    if args.assets_dir:
+        args.assets_dir.mkdir(parents=True, exist_ok=True)
         for language in LANGUAGES:
             privacy_name = f"datenschutz{suffix(language)}.json"
-            if not args.app:
-                imprint_name = f"impressum{suffix(language)}.json"
-                shutil.copy2(LEGAL / imprint_name, asset_dir / imprint_name)
-            shutil.copy2(LEGAL / app_slug / privacy_name, asset_dir / privacy_name)
+            imprint_name = f"impressum{suffix(language)}.json"
+            shutil.copy2(LEGAL / imprint_name, args.assets_dir / imprint_name)
+            shutil.copy2(LEGAL / args.app / privacy_name, args.assets_dir / privacy_name)
 
 
 if __name__ == "__main__":

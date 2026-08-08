@@ -13,28 +13,28 @@
     },
     {
       "number": 2,
-      "heading": "Journal de sommeil local",
-      "body": "SleepLog conserve uniquement en local les profils d'enfants, heures de sommeil et d'éveil, repas, notes et rappels. Les données peuvent contenir des informations liées à la santé ; aucun compte ni serveur propre n'est utilisé."
+      "heading": "Données locales concernant les enfants et le journal",
+      "body": "SleepLog enregistre dans une base de données locale les profils d'enfants saisis (nom et date de naissance), les événements de sommeil, d'éveil, d'alimentation, de pleurs et autres événements avec horaires, les commentaires rapides facultatifs et notes libres, ainsi que les marqueurs de maladie, dentition ou infection. Les réglages et l'état local de déverrouillage de SleepLog Pro sont aussi enregistrés sur l'appareil. Ces données concernent des enfants et peuvent être relatives à la santé. Elles ne sont traitées que localement pour les vues, évaluations et journaux PDF ; l'application ne nous les transmet pas. Il n'existe ni compte utilisateur ni serveur propre."
     },
     {
       "number": 3,
-      "heading": "Export, Pro et suppression",
-      "body": "Les exports PDF, impression et JSON sont créés en local et partagés uniquement via la boîte de dialogue système que tu ouvres. SleepLog Pro est un achat unique Google Play ; Google traite les données de paiement et du compte. Supprime les données dans l'application ou via Android."
+      "heading": "Notifications, fuseau horaire et fichiers",
+      "body": "Si vous activez les rappels, l'application programme et affiche une notification locale quotidienne ; sur Android, elle demande l'autorisation de notification. Pour la programmer à la bonne heure, elle lit l'identifiant de fuseau horaire. Le code ne demande pas d'autorisation de localisation et n'utilise pas de données géographiques. SleepLog peut exporter et importer les données sous forme de sauvegarde JSON ou CSV, et générer, imprimer ou partager des PDF via la boîte de dialogue système ouverte par vous. Les fichiers sont créés localement ou temporairement et ne parviennent à l'application ou au destinataire choisi que par votre sélection. L'application ne comporte ni caméra ni fonction photo."
     },
     {
       "number": 4,
-      "heading": "Consultation et mise à jour des textes légaux",
-      "body": "Pour maintenir à jour les mentions légales et la politique de confidentialité, l'application consulte les textes légaux publics de GitHub Pages ou raw.githubusercontent.com au maximum une fois toutes les 24 heures. Cette opération transmet techniquement ton adresse IP à GitHub. Aucun contenu de l'application ni profil d'utilisation ne nous est transmis. Sans connexion Internet, les versions intégrées à l'application sont affichées. La consultation repose sur notre intérêt légitime à maintenir à jour les informations obligatoires (art. 6, par. 1, point f du RGPD)."
+      "heading": "SleepLog Pro et Google Play Billing",
+      "body": "SleepLog Pro est un achat unique intégré à l'application. L'application interroge Google Play sur la disponibilité du produit et peut lancer des achats ou restaurations par Google Play Billing. Google traite les données de paiement et de compte nécessaires selon ses propres règles de confidentialité. L'application enregistre l'état de déverrouillage localement ; aucun serveur propre ne traite de données de paiement."
     },
     {
       "number": 5,
-      "heading": "Tes droits",
-      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Pour les données d'un compte Google utilisé volontairement, Google est l'interlocuteur compétent."
+      "heading": "Récupérations GitHub, liens externes et absence d'analyse",
+      "body": "L'application charge les textes juridiques d'abord depuis un cache local puis depuis les fichiers JSON intégrés. En arrière-plan, elle tente de mettre à jour les mentions légales et la politique de confidentialité pour toutes les langues prises en charge depuis raw.githubusercontent.com/scorparc/legal. Après une synchronisation entièrement réussie, cela a lieu au plus une fois toutes les 24 heures ; après des erreurs réseau, HTTP ou JSON, le cache et la solution de secours restent valides et une tentative ultérieure est possible. L'adresse IP est techniquement transmise à GitHub, mais pas les données de journal, d'enfants ou d'utilisation. Une liste d'autres applications peut aussi y être chargée. Un tap peut ouvrir GitHub Pages, le site de méthodologie du Kinderspital Zürich ou des pages de boutique ; les règles de chaque service s'appliquent. Aucun service d'analyse, publicité, rapport de panne ou suivi n'est configuré. Il n'y a pas d'intégration Google Drive ou autre sauvegarde cloud ; les sauvegardes et transferts Android sont désactivés. La base juridique de la récupération GitHub est notre intérêt légitime à disposer d'informations obligatoires à jour (art. 6, par. 1, f RGPD)."
     },
     {
       "number": 6,
-      "heading": "Modifications de cette politique",
-      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible dans l'application et à l'adresse indiquée."
+      "heading": "Suppression et vos droits",
+      "body": "Vous pouvez supprimer des entrées ou profils d'enfants dans l'application et supprimer les données locales dans les réglages de l'appareil. Le RGPD vous confère notamment les droits d'accès, rectification, effacement, limitation, portabilité et opposition, ainsi que le droit de réclamation auprès d'une autorité de contrôle. Si les données sont uniquement sur votre appareil, vous pouvez les consulter, modifier ou supprimer. Google est le contact compétent pour les données traitées dans le cadre d'un achat. Cette politique est mise à jour en cas de changement de fonctions, services ou traitements ; la version actuelle est disponible dans l'application et, si vous le souhaitez, dans le navigateur dans la langue choisie."
     }
   ]
 }
