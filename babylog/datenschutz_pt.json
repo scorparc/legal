@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "pt",
+  "title": "Política de privacidade",
+  "app": "BabyLog",
+  "stand": "8 de agosto de 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsável pelo tratamento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Alemanha\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Registos locais do bebé",
+      "body": "BabyLog guarda apenas localmente perfis, alimentação, sono, fraldas, crescimento, temperatura, sintomas, medicação, vacinas, notas e fotografias. Estes registos podem conter dados de saúde de uma criança; não existe conta nem servidor próprio."
+    },
+    {
+      "number": 3,
+      "heading": "Pro, cópia e eliminação",
+      "body": "BabyLog Pro é uma compra única no Google Play; a Google trata os dados de pagamento e da conta. Exportações CSV/PDF, cópias locais e partilhas só ocorrem após a tua escolha ativa. Elimina registos na aplicação ou todos os dados através do Android."
+    },
+    {
+      "number": 4,
+      "heading": "Consulta e atualização dos textos legais",
+      "body": "Para manter atualizados o aviso legal e a política de privacidade, a aplicação consulta os textos legais públicos do GitHub Pages ou raw.githubusercontent.com no máximo uma vez a cada 24 horas. Tecnicamente, isto transmite o teu endereço IP ao GitHub. Não nos são enviados conteúdos da aplicação nem um perfil de utilização. Sem ligação à Internet são apresentadas as versões incluídas na aplicação. A consulta baseia-se no nosso interesse legítimo em manter atualizada a informação obrigatória (art. 6.º, n.º 1, alínea f, do RGPD)."
+    },
+    {
+      "number": 5,
+      "heading": "Os teus direitos",
+      "body": "Nos termos do RGPD tens, em particular, direito de acesso, retificação, apagamento, limitação do tratamento, portabilidade e oposição, bem como o direito de apresentar uma reclamação junto de uma autoridade de controlo. Os dados da aplicação são geralmente guardados localmente sob o teu controlo, pelo que podes consultá-los, alterá-los ou eliminá-los aí. Para os dados de uma conta Google utilizada voluntariamente, o contacto competente é o Google."
+    },
+    {
+      "number": 6,
+      "heading": "Alterações a esta política",
+      "body": "Esta política é atualizada quando mudam a aplicação, os serviços utilizados ou o tratamento de dados. A versão atual está disponível na aplicação e no endereço indicado."
+    }
+  ]
+}

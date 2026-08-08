@@ -1,7 +1,10 @@
 {
+  "schemaVersion": 1,
+  "version": "2026-08-08.3",
+  "language": "fr",
   "title": "Politique de confidentialité",
   "app": "ScootRules",
-  "stand": "Juillet 2026",
+  "stand": "8 août 2026",
   "sections": [
     {
       "number": 1,
@@ -10,38 +13,28 @@
     },
     {
       "number": 2,
-      "heading": "Principe",
-      "body": "ScootRules est conçue comme un outil de consultation hors ligne et n'utilise aucun compte utilisateur, aucune publicité ni aucun service d'analyse ou de suivi. Aucun profil d'utilisateur n'est créé."
+      "heading": "Réglages locaux et recherche de localisation",
+      "body": "ScootRules conserve localement sur l'appareil la langue, l'apparence, la confirmation de l'avertissement de responsabilité ainsi que les caches de contenu et de textes juridiques. Après l'octroi de l'autorisation de localisation, l'application peut utiliser le géocodage du système Android pour convertir une position approximative en pays. L'application ne conserve ni les coordonnées ni le pays détecté."
     },
     {
       "number": 3,
-      "heading": "Localisation et détection du pays (facultatif)",
-      "body": "Lorsque la détection du pays est activée, l'application demande une autorisation de localisation approximative et en déduit le pays actuel. Pour convertir les coordonnées en un pays, l'application utilise le service de géocodage du système d'exploitation. Sur la plupart des appareils Android, celui-ci est fourni par les services Google Play et traite les coordonnées en ligne sur des serveurs de Google ; les coordonnées approximatives peuvent donc être transmises à Google. L'application elle-même n'enregistre pas la localisation et ne la transmet à aucun serveur qui nous appartienne. L'autorisation est facultative et révocable à tout moment – sans elle, l'application reste pleinement utilisable (pays sélectionnable manuellement)."
+      "heading": "Requêtes GitHub, liens externes et absence d'autres fonctions de données",
+      "body": "Les règles par pays et les textes juridiques sont mis à jour via HTTPS depuis des sources GitHub publiques au plus une fois toutes les 24 heures. GitHub reçoit l'adresse IP pour des raisons techniques. Si tu ouvres une source, une référence à une autre application ou un texte juridique dans le navigateur, l'application ne démarre une application externe qu'après ton action ; ses informations de confidentialité s'appliquent alors. Dans ses fonctions actuelles, ScootRules ne traite pas de données d'enfants ou de santé, de photos ou de fichiers, de notifications, d'achats Google Play ni de sauvegardes cloud. Il n'y a ni compte utilisateur ni service d'analyse, de publicité ou de suivi."
     },
     {
       "number": 4,
-      "heading": "Mises à jour des règles (accès Internet)",
-      "body": "Pour mettre à jour le contenu des règles, l'application télécharge des fichiers depuis GitHub. Comme pour tout appel d'une adresse web, l'adresse IP de votre appareil est techniquement transmise à GitHub. L'application n'envoie aucune autre donnée."
+      "heading": "Consultation et mise à jour des textes légaux",
+      "body": "Pour maintenir à jour les mentions légales et la politique de confidentialité, l'application télécharge les versions JSON uniquement depuis raw.githubusercontent.com au maximum une fois toutes les 24 heures et les conserve localement. Cette opération transmet techniquement ton adresse IP à GitHub. Sans connexion Internet, les versions intégrées à l'application sont affichées. Si tu sélectionnes « Ouvrir dans le navigateur », la version HTML correspondante est ouverte via GitHub Pages dans une application externe. La consultation repose sur notre intérêt légitime à maintenir à jour les informations obligatoires (art. 6, par. 1, point f du RGPD)."
     },
     {
       "number": 5,
-      "heading": "Stockage local",
-      "body": "Seuls les paramètres de l'application (langue, apparence, avertissement confirmé, compteur d'intérêt local pour une future version Pro) et le cache hors ligne des données de règles sont stockés sur l'appareil. Ces données ne quittent pas l'appareil et sont supprimées lors de la désinstallation."
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Lorsque des fournisseurs externes traitent des données après l'ouverture volontaire de liens, leurs informations de confidentialité s'appliquent."
     },
     {
       "number": 6,
-      "heading": "Transmission à des tiers",
-      "body": "Aucune transmission à des fins publicitaires ou d'analyse n'a lieu. Des flux de données n'existent qu'avec les services d'infrastructure mentionnés (géocodage système via Google, diffusion de contenu via GitHub)."
-    },
-    {
-      "number": 7,
-      "heading": "Vos droits",
-      "body": "Vous disposez des droits prévus aux art. 15 à 21 du RGPD ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Comme aucune donnée n'est stockée sur nos propres serveurs, ces droits concernent essentiellement les données stockées localement, que vous pouvez supprimer vous-même en effaçant les données de l'application ou en la désinstallant."
-    },
-    {
-      "number": 8,
-      "heading": "Modifications de la présente déclaration",
-      "body": "La présente déclaration peut être adaptée lors de l'ajout de nouvelles fonctionnalités. La version actuelle est disponible dans l'application et à cette adresse. En cas de doute, la version allemande fait foi."
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible dans l'application et à l'adresse indiquée."
     }
   ]
 }

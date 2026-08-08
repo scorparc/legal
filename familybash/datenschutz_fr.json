@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "FamilyBash",
+  "stand": "8 août 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Allemagne\nE-mail : marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Jeu de fête local",
+      "body": "FamilyBash traite uniquement en local sur un appareil les noms des joueurs, groupes d'âge, état du jeu et réglages. L'application est destinée aux familles et aux enfants ; aucun compte ni profil d'analyse ou de publicité n'est utilisé."
+    },
+    {
+      "number": 3,
+      "heading": "Contenu, Drive et suppression",
+      "body": "Les nouveaux contenus peuvent être récupérés sur GitHub au maximum une fois par jour ; GitHub reçoit l'adresse IP. La sauvegarde Pro facultative utilise l'appDataFolder de Google Drive ; Google traite les données de compte et de paiement. Supprime les données dans l'application ou le compte Google."
+    },
+    {
+      "number": 4,
+      "heading": "Consultation et mise à jour des textes légaux",
+      "body": "Pour maintenir à jour les mentions légales et la politique de confidentialité, l'application consulte les textes légaux publics de GitHub Pages ou raw.githubusercontent.com au maximum une fois toutes les 24 heures. Cette opération transmet techniquement ton adresse IP à GitHub. Aucun contenu de l'application ni profil d'utilisation ne nous est transmis. Sans connexion Internet, les versions intégrées à l'application sont affichées. La consultation repose sur notre intérêt légitime à maintenir à jour les informations obligatoires (art. 6, par. 1, point f du RGPD)."
+    },
+    {
+      "number": 5,
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Pour les données d'un compte Google utilisé volontairement, Google est l'interlocuteur compétent."
+    },
+    {
+      "number": 6,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible dans l'application et à l'adresse indiquée."
+    }
+  ]
+}

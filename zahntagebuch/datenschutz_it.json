@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "it",
+  "title": "Informativa sulla privacy",
+  "app": "ZahnTagebuch",
+  "stand": "8 agosto 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Titolare del trattamento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germania\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principio di base: archiviazione locale e trasferimenti facoltativi",
+      "body": "ZahnTagebuch è un'app offline per documentare i denti da latte e il cambio della dentizione. Nomi e date di nascita dei bambini, foto del profilo, eventi dentali datati, note, importi facoltativi della fatina dei denti, foto dentali e promemoria vengono inizialmente salvati in locale. Non è necessario alcun account. I dati lasciano il dispositivo solo quando condividi un backup locale tramite il dialogo di sistema o avvii consapevolmente un backup Google Drive. Le registrazioni possono contenere informazioni personali e relative alla salute dei bambini."
+    },
+    {
+      "number": 3,
+      "heading": "Foto",
+      "body": "Le foto vengono trattate solo quando selezioni attivamente la funzione. Sono conservate nell'area di archiviazione dell'app sul tuo dispositivo. L'app utilizza il selettore foto o il dialogo della fotocamera di sistema di Android e non accede al resto della tua libreria multimediale."
+    },
+    {
+      "number": 4,
+      "heading": "Notifiche",
+      "body": "I promemoria vengono pianificati e attivati interamente in locale sul tuo dispositivo. Non viene utilizzato alcun server push o per le notifiche. Puoi revocare l'autorizzazione in qualsiasi momento nelle impostazioni di Android."
+    },
+    {
+      "number": 5,
+      "heading": "Backup locale, condivisione e Google Drive",
+      "body": "Puoi esportare e importare i dati, comprese le foto, come file di backup locale o generare lo schema dentale come immagine. La condivisione avviene solo tramite il dialogo di sistema che apri attivamente. Quando avvii consapevolmente un backup Google Drive, i dati vengono trasferiti nell'area nascosta appDataFolder del tuo account Google Drive. L'app non può accedere ad altri file Drive. Puoi eliminare il backup Drive nell'app in qualsiasi momento."
+    },
+    {
+      "number": 6,
+      "heading": "Google Play: acquisto e valutazione",
+      "body": "ZahnTagebuch Pro è un acquisto in-app una tantum. Google Play tratta i dati di pagamento e dell'account; l'app memorizza solo lo stato dell'acquisto. Dopo il terzo dente registrato, l'app può aprire una volta la funzione di valutazione fornita da Google Play. L'app non trasmette dati dentali, di profilo o di backup tramite tale funzione."
+    },
+    {
+      "number": 7,
+      "heading": "Cancellazione dei dati",
+      "body": "Elimina singole registrazioni o profili dei bambini nell'app. Rimuovi tutti i dati locali disinstallando l'app o usando l'opzione per cancellare lo spazio di archiviazione di Android. Elimina un backup Drive nell'app o nel tuo account Google."
+    },
+    {
+      "number": 8,
+      "heading": "Recupero e aggiornamento dei testi legali",
+      "body": "Per mantenere aggiornati le note legali e l'informativa sulla privacy, l'app recupera i testi legali pubblici da GitHub Pages o raw.githubusercontent.com al massimo una volta ogni 24 ore. Tecnicamente ciò trasmette il tuo indirizzo IP a GitHub. A noi non vengono trasmessi contenuti dell'app né profili di utilizzo. Senza connessione Internet vengono mostrate le versioni incluse nell'app. Il recupero si basa sul nostro legittimo interesse a mantenere aggiornate le informazioni obbligatorie (art. 6, par. 1, lett. f GDPR)."
+    },
+    {
+      "number": 9,
+      "heading": "I tuoi diritti",
+      "body": "Ai sensi del GDPR hai in particolare diritto di accesso, rettifica, cancellazione, limitazione del trattamento, portabilità e opposizione, nonché il diritto di proporre reclamo a un'autorità di controllo. I dati dell'app sono generalmente conservati localmente sotto il tuo controllo, quindi puoi consultarli, modificarli o eliminarli lì. Per i dati di un account Google utilizzato volontariamente, il referente competente è Google."
+    },
+    {
+      "number": 10,
+      "heading": "Modifiche alla presente informativa",
+      "body": "La presente informativa viene aggiornata quando cambiano l'app, i servizi utilizzati o il trattamento dei dati. La versione attuale è disponibile nell'app e all'indirizzo indicato."
+    }
+  ]
+}

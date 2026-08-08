@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "fr",
+  "title": "Mentions légales",
+  "updated": "2026-08-07",
+  "sections": [
+    {
+      "heading": "Informations conformément à l'article 5 DDG",
+      "body": "Marc Neumann\nSchwabenstraße 47\n71101 Schönaich\nAllemagne"
+    },
+    {
+      "heading": "Contact",
+      "body": "E-mail : marc.neumann.neu@gmail.com"
+    },
+    {
+      "heading": "Responsable du contenu conformément à l'article 18, paragraphe 2, MStV",
+      "body": "Marc Neumann (adresse indiquée ci-dessus)"
+    },
+    {
+      "heading": "Règlement des litiges de consommation",
+      "body": "Nous ne sommes ni disposés ni tenus de participer à une procédure de règlement des litiges devant un organisme de médiation de la consommation (article 36 VSBG)."
+    },
+    {
+      "heading": "Clause de non-responsabilité",
+      "body": "Le contenu des applications est préparé avec soin, mais fourni sans garantie et ne constitue pas un conseil juridique ou professionnel."
+    }
+  ]
+}

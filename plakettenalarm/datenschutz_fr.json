@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "PlakettenAlarm",
+  "stand": "8 août 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Allemagne\nE-mail : marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principe de base : tes données restent sur ton appareil",
+      "body": "PlakettenAlarm fonctionne sans compte et sans serveur propre. Les véhicules, assureurs, numéros eVB ou de certificat d'assurance, photos de documents et état des listes sont conservés exclusivement en local et ne nous sont pas transmis."
+    },
+    {
+      "number": 3,
+      "heading": "Photos",
+      "body": "Les photos ne sont traitées que lorsque tu sélectionnes activement la fonction. Elles sont conservées dans l'espace de stockage propre à l'application sur ton appareil. L'application utilise le sélecteur de photos ou la boîte de dialogue de caméra du système Android et n'accède pas au reste de ta photothèque."
+    },
+    {
+      "number": 4,
+      "heading": "Notifications",
+      "body": "Les rappels sont planifiés et déclenchés entièrement en local sur ton appareil. Aucun serveur push ou de notifications n'est utilisé. Tu peux retirer l'autorisation à tout moment dans les paramètres Android."
+    },
+    {
+      "number": 5,
+      "heading": "Consultation de la liste des fournisseurs et des textes légaux",
+      "body": "Au démarrage, l'application consulte les informations actuelles sur les fournisseurs et les textes légaux depuis GitHub Pages ou raw.githubusercontent.com. Cette opération transmet techniquement ton adresse IP à GitHub. Aucune donnée de l'application ni profil d'utilisation ne nous est envoyé. Les contenus sont aussi disponibles hors ligne grâce à la copie intégrée."
+    },
+    {
+      "number": 6,
+      "heading": "Liens externes et identifiants partenaires",
+      "body": "Lorsque tu ouvres une offre, tu quittes l'application et la politique du fournisseur s'applique. Les liens peuvent contenir un identifiant partenaire pour attribuer la visite ; nous n'envoyons pas au fournisseur d'autres données de l'application."
+    },
+    {
+      "number": 7,
+      "heading": "Aucun outil d'analyse ni traceur publicitaire",
+      "body": "L'application n'utilise aucun outil d'analyse, réseau publicitaire ou suivi et ne traite aucun identifiant publicitaire."
+    },
+    {
+      "number": 8,
+      "heading": "Suppression des données",
+      "body": "Supprime les véhicules et photos de documents individuellement dans l'application. Supprime toutes les données locales en désinstallant l'application ou via l'effacement du stockage Android."
+    },
+    {
+      "number": 9,
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Pour les données d'un compte Google utilisé volontairement, Google est l'interlocuteur compétent."
+    },
+    {
+      "number": 10,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible dans l'application et à l'adresse indiquée."
+    }
+  ]
+}

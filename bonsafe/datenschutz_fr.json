@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "BonSafe",
+  "stand": "8 août 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Allemagne\nE-mail : marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principe de base : tes données restent sur ton appareil",
+      "body": "BonSafe est une application hors ligne pour les tickets et les garanties. Le commerçant, la date d'achat, le montant, l'article, les catégories, les notes, les délais de garantie et de retour ainsi que les photos des tickets sont conservés exclusivement en local. Aucun compte n'est nécessaire. Nous n'exploitons pas de serveur propre et n'utilisons aucun SDK d'analyse, de suivi ou de publicité."
+    },
+    {
+      "number": 3,
+      "heading": "Photos",
+      "body": "Les photos ne sont traitées que lorsque tu sélectionnes activement la fonction. Elles sont conservées dans l'espace de stockage propre à l'application sur ton appareil. L'application utilise le sélecteur de photos ou la boîte de dialogue de caméra du système Android et n'accède pas au reste de ta photothèque."
+    },
+    {
+      "number": 4,
+      "heading": "Notifications",
+      "body": "Les rappels sont planifiés et déclenchés entièrement en local sur ton appareil. Aucun serveur push ou de notifications n'est utilisé. Tu peux retirer l'autorisation à tout moment dans les paramètres Android."
+    },
+    {
+      "number": 5,
+      "heading": "Sauvegarde Google Drive facultative (fonction Pro)",
+      "body": "Si tu utilises activement la sauvegarde, les tickets, photos comprises, sont téléversés sous forme de fichier dans la zone masquée appDataFolder de ton compte Google Drive. Le transfert est chiffré (TLS). Nous n'avons pas accès à la sauvegarde. Google Ireland Limited traite les données du compte en tant que responsable indépendant selon sa politique de confidentialité. L'application reçoit ton adresse e-mail pour afficher le compte connecté. Tu peux arrêter la sauvegarde, te déconnecter et la supprimer."
+    },
+    {
+      "number": 6,
+      "heading": "Achats via Google Play",
+      "body": "BonSafe Pro est un achat intégré unique. Google traite les données de paiement et du compte en tant que responsable indépendant. Nous ne recevons que le statut de l'achat ; l'activation est conservée en local."
+    },
+    {
+      "number": 7,
+      "heading": "Sauvegarde locale, export et partage",
+      "body": "Les fichiers de sauvegarde et les PDF sont créés en local. Ils ne sont partagés que lorsque tu ouvres activement la boîte de dialogue système ; tu choisis le destinataire."
+    },
+    {
+      "number": 8,
+      "heading": "Suppression des données",
+      "body": "Supprime les tickets individuels dans l'application. Supprime toutes les données locales en désinstallant l'application ou via l'option d'effacement du stockage Android. Supprime une sauvegarde Drive dans l'application ou dans ton compte Google, sous Google Drive → Paramètres → Gérer les applications → BonSafe."
+    },
+    {
+      "number": 9,
+      "heading": "Références à d'autres applications",
+      "body": "Les paramètres peuvent afficher une rubrique \"Autres applications\". La liste utilisée est téléchargée avec les textes juridiques depuis le même dépôt public, au maximum une fois toutes les 24 heures ; la même remarque concernant ton adresse IP s'applique que pour le téléchargement des textes juridiques. Aucune information te concernant ou concernant tes tickets n'est transmise, et la liste n'est pas personnalisée. L'ouverture d'une entrée lance le Google Play Store, dont Google est responsable de manière indépendante. La base légale est notre intérêt légitime à informer sur nos propres applications (art. 6, § 1, point f, RGPD)."
+    },
+    {
+      "number": 10,
+      "heading": "Consultation et mise à jour des textes légaux",
+      "body": "Pour maintenir à jour les mentions légales et la politique de confidentialité, l'application consulte les textes légaux publics de GitHub Pages ou raw.githubusercontent.com au maximum une fois toutes les 24 heures. Cette opération transmet techniquement ton adresse IP à GitHub. Aucun contenu de l'application ni profil d'utilisation ne nous est transmis. Sans connexion Internet, les versions intégrées à l'application sont affichées. La consultation repose sur notre intérêt légitime à maintenir à jour les informations obligatoires (art. 6, par. 1, point f du RGPD)."
+    },
+    {
+      "number": 11,
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Pour les données d'un compte Google utilisé volontairement, Google est l'interlocuteur compétent."
+    },
+    {
+      "number": 12,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible dans l'application et à l'adresse indiquée."
+    }
+  ]
+}

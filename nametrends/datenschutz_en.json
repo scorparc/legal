@@ -1,52 +1,40 @@
 {
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "en",
   "title": "Privacy Policy",
   "app": "NameTrends",
-  "stand": "July 2026",
+  "stand": "8 August 2026",
   "sections": [
     {
       "number": 1,
       "heading": "Controller",
-      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nE-mail: marc.neumann.neu@gmail.com"
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nEmail: marc.neumann.neu@gmail.com"
     },
     {
       "number": 2,
-      "heading": "Core principle: no data is collected about you",
-      "body": "NameTrends is an offline app that shows given-name statistics from official open data. It works entirely without a user account. Your in-app settings (e.g. language, theme) and your favorites are stored only locally on your device. None of this data is transmitted to us or third parties. We run no servers for user data, use no analytics, tracking or advertising SDKs, and build no usage profiles."
+      "heading": "Local name statistics",
+      "body": "NameTrends processes searches, favourites and settings locally. The displayed first-name statistics come from aggregated public data; no individual birth or registration data is collected and no user account is required."
     },
     {
       "number": 3,
-      "heading": "Optional data update",
-      "body": "To keep the name datasets current, the app may download a public data file from a public location (GitHub) at most once every 24 hours. Only that file is fetched; no personal data is transmitted. Without an internet connection the app works fully with the datasets bundled in the app."
+      "heading": "Data updates, purchase and deletion",
+      "body": "Aggregated name data and legal texts may be updated from GitHub at most daily; GitHub receives the IP address. NameTrends Pro is a one-time Google Play purchase. Delete favourites and settings in the app or by uninstalling."
     },
     {
       "number": 4,
-      "heading": "Purchase of NameTrends Pro",
-      "body": "NameTrends Pro (all years, all regions, compare and export) is a one-time in-app purchase. Payment is handled exclusively through Google Play. Google processes payment and account data as an independent controller under the Google Privacy Policy (policies.google.com/privacy). We receive no payment or identity data from Google, only whether the purchase exists. This unlock is stored locally on your device."
+      "heading": "Fetching and updating the legal texts",
+      "body": "To keep the legal notice and privacy policy current, the app fetches the public legal texts from GitHub Pages or raw.githubusercontent.com at most once every 24 hours. This technically transmits your IP address to GitHub. No app content or usage profile is transmitted to us. Without an internet connection, the versions bundled with the app are shown. The fetch is based on our legitimate interest in keeping mandatory information current (Art. 6(1)(f) GDPR)."
     },
     {
       "number": 5,
-      "heading": "Origin of the displayed data",
-      "body": "The given-name statistics shown come from official open-data sources (e.g. the State of Berlin / registry offices, published under an open licence). The respective source and licence for each dataset is shown in the app under \"Sources & methodology\". These are aggregated statistics with no reference to individuals."
+      "heading": "Your rights",
+      "body": "Under the GDPR you have, in particular, the rights of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. App data is generally stored locally under your control, so you can inspect, change or delete it there. For data in a Google account used voluntarily, Google is the relevant contact."
     },
     {
       "number": 6,
-      "heading": "No analytics, no tracking, no ads",
-      "body": "NameTrends contains no advertising, no analytics tools and no third-party tracking SDKs. No usage behaviour is recorded or evaluated."
-    },
-    {
-      "number": 7,
-      "heading": "Permissions",
-      "body": "NameTrends requests only the internet permission — solely for the optional data update and to open source links in the browser. No location, camera, contacts or other sensitive permissions are used."
-    },
-    {
-      "number": 8,
-      "heading": "Your rights",
-      "body": "Since we do not process or store any personal data about you, rights to access, rectification and erasure against us have no subject matter. Regarding the purchase via Google Play, these rights are directed at Google."
-    },
-    {
-      "number": 9,
       "heading": "Changes to this policy",
-      "body": "This privacy policy may be adjusted when new features are added. The version included in the current app release applies."
+      "body": "This privacy policy is updated when the app, the services used or the data processing changes. The current version is available in the app and at the linked address."
     }
   ]
 }

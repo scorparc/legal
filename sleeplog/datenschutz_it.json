@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "it",
+  "title": "Informativa sulla privacy",
+  "app": "SleepLog",
+  "stand": "8 agosto 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Titolare del trattamento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germania\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Diario del sonno locale",
+      "body": "SleepLog salva solo localmente profili dei bambini, orari di sonno e veglia, poppate, note e promemoria. Le registrazioni possono contenere informazioni relative alla salute; non esistono account o server propri."
+    },
+    {
+      "number": 3,
+      "heading": "Esportazione, Pro e cancellazione",
+      "body": "Le esportazioni PDF, stampa e JSON vengono create localmente e condivise solo tramite il dialogo di sistema che apri. SleepLog Pro è un acquisto una tantum su Google Play; Google tratta dati di pagamento e account. Elimina i dati nell'app o tramite Android."
+    },
+    {
+      "number": 4,
+      "heading": "Recupero e aggiornamento dei testi legali",
+      "body": "Per mantenere aggiornati le note legali e l'informativa sulla privacy, l'app recupera i testi legali pubblici da GitHub Pages o raw.githubusercontent.com al massimo una volta ogni 24 ore. Tecnicamente ciò trasmette il tuo indirizzo IP a GitHub. A noi non vengono trasmessi contenuti dell'app né profili di utilizzo. Senza connessione Internet vengono mostrate le versioni incluse nell'app. Il recupero si basa sul nostro legittimo interesse a mantenere aggiornate le informazioni obbligatorie (art. 6, par. 1, lett. f GDPR)."
+    },
+    {
+      "number": 5,
+      "heading": "I tuoi diritti",
+      "body": "Ai sensi del GDPR hai in particolare diritto di accesso, rettifica, cancellazione, limitazione del trattamento, portabilità e opposizione, nonché il diritto di proporre reclamo a un'autorità di controllo. I dati dell'app sono generalmente conservati localmente sotto il tuo controllo, quindi puoi consultarli, modificarli o eliminarli lì. Per i dati di un account Google utilizzato volontariamente, il referente competente è Google."
+    },
+    {
+      "number": 6,
+      "heading": "Modifiche alla presente informativa",
+      "body": "La presente informativa viene aggiornata quando cambiano l'app, i servizi utilizzati o il trattamento dei dati. La versione attuale è disponibile nell'app e all'indirizzo indicato."
+    }
+  ]
+}

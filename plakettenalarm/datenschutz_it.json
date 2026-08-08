@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "it",
+  "title": "Informativa sulla privacy",
+  "app": "PlakettenAlarm",
+  "stand": "8 agosto 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Titolare del trattamento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germania\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principio di base: i tuoi dati restano sul dispositivo",
+      "body": "PlakettenAlarm funziona senza account e senza un proprio server. Veicoli, assicuratori, numeri eVB o di polizza, foto dei documenti e stato delle checklist vengono salvati esclusivamente in locale e non ci vengono trasmessi."
+    },
+    {
+      "number": 3,
+      "heading": "Foto",
+      "body": "Le foto vengono trattate solo quando selezioni attivamente la funzione. Sono conservate nell'area di archiviazione dell'app sul tuo dispositivo. L'app utilizza il selettore foto o il dialogo della fotocamera di sistema di Android e non accede al resto della tua libreria multimediale."
+    },
+    {
+      "number": 4,
+      "heading": "Notifiche",
+      "body": "I promemoria vengono pianificati e attivati interamente in locale sul tuo dispositivo. Non viene utilizzato alcun server push o per le notifiche. Puoi revocare l'autorizzazione in qualsiasi momento nelle impostazioni di Android."
+    },
+    {
+      "number": 5,
+      "heading": "Recupero dell'elenco dei fornitori e dei testi legali",
+      "body": "All'avvio l'app recupera le informazioni aggiornate sui fornitori e i testi legali da GitHub Pages o raw.githubusercontent.com. Tecnicamente ciò trasmette il tuo indirizzo IP a GitHub. A noi non vengono inviati dati dell'app né profili di utilizzo. I contenuti sono disponibili anche offline tramite la copia inclusa."
+    },
+    {
+      "number": 6,
+      "heading": "Link esterni e identificativi dei partner",
+      "body": "Quando apri un'offerta lasci l'app e si applica l'informativa del fornitore. I link possono contenere un identificativo del partner per attribuire la visita; non inviamo al fornitore altri dati dell'app."
+    },
+    {
+      "number": 7,
+      "heading": "Nessuna analisi o pubblicità tracciante",
+      "body": "L'app non utilizza strumenti di analisi, reti pubblicitarie o tracciamento e non tratta identificativi pubblicitari."
+    },
+    {
+      "number": 8,
+      "heading": "Cancellazione dei dati",
+      "body": "Elimina singolarmente veicoli e foto dei documenti nell'app. Rimuovi tutti i dati locali disinstallando l'app o usando l'opzione per cancellare lo spazio di archiviazione di Android."
+    },
+    {
+      "number": 9,
+      "heading": "I tuoi diritti",
+      "body": "Ai sensi del GDPR hai in particolare diritto di accesso, rettifica, cancellazione, limitazione del trattamento, portabilità e opposizione, nonché il diritto di proporre reclamo a un'autorità di controllo. I dati dell'app sono generalmente conservati localmente sotto il tuo controllo, quindi puoi consultarli, modificarli o eliminarli lì. Per i dati di un account Google utilizzato volontariamente, il referente competente è Google."
+    },
+    {
+      "number": 10,
+      "heading": "Modifiche alla presente informativa",
+      "body": "La presente informativa viene aggiornata quando cambiano l'app, i servizi utilizzati o il trattamento dei dati. La versione attuale è disponibile nell'app e all'indirizzo indicato."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "pt",
+  "title": "Política de privacidade",
+  "app": "ScootKeeper",
+  "stand": "8 de agosto de 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsável pelo tratamento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Alemanha\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Princípio fundamental: os teus dados ficam no dispositivo",
+      "body": "ScootKeeper é uma aplicação offline. Perfis de veículos, números de quadro, registos de manutenção, dados da bateria e quilometragem, pressão dos pneus, lembretes e fotografias são guardados exclusivamente localmente. Não operamos um servidor próprio nem utilizamos SDK de análise, rastreio ou publicidade."
+    },
+    {
+      "number": 3,
+      "heading": "Fotografias",
+      "body": "As fotografias só são tratadas quando selecionas ativamente a função. São guardadas na área de armazenamento própria da aplicação no teu dispositivo. A aplicação utiliza o seletor de fotografias ou o diálogo da câmara do sistema Android e não acede ao resto da tua biblioteca multimédia."
+    },
+    {
+      "number": 4,
+      "heading": "Notificações",
+      "body": "Os lembretes são agendados e acionados integralmente no teu dispositivo. Não é utilizado qualquer servidor push ou de notificações. Podes retirar a permissão a qualquer momento nas definições do Android."
+    },
+    {
+      "number": 5,
+      "heading": "Cópia opcional no Google Drive (função Pro)",
+      "body": "Se utilizares ativamente a cópia, os dados da aplicação, incluindo fotografias, são carregados para a área oculta appDataFolder da tua conta Google Drive. A transferência é cifrada (TLS). Não temos acesso à cópia. A Google Ireland Limited trata os dados da conta como responsável independente. Podes parar a cópia e terminar sessão."
+    },
+    {
+      "number": 6,
+      "heading": "Exportações e partilha",
+      "body": "As exportações PDF, CSV e de calendário são criadas localmente e só são partilhadas quando abres ativamente o diálogo de partilha do sistema. Escolhes o destinatário."
+    },
+    {
+      "number": 7,
+      "heading": "Compras através do Google Play",
+      "body": "As funções Pro pagas são processadas através do Google Play Billing. A Google trata os dados de pagamento e da conta; recebemos apenas o estado da compra ou da subscrição."
+    },
+    {
+      "number": 8,
+      "heading": "Eliminação de dados",
+      "body": "Remove todos os dados locais desinstalando a aplicação ou usando a opção de limpar o armazenamento do Android. Elimina uma cópia do Drive na tua conta Google, em Google Drive → Definições → Gerir aplicações → ScootKeeper."
+    },
+    {
+      "number": 9,
+      "heading": "Consulta e atualização dos textos legais",
+      "body": "Para manter atualizados o aviso legal e a política de privacidade, a aplicação consulta os textos legais públicos do GitHub Pages ou raw.githubusercontent.com no máximo uma vez a cada 24 horas. Tecnicamente, isto transmite o teu endereço IP ao GitHub. Não nos são enviados conteúdos da aplicação nem um perfil de utilização. Sem ligação à Internet são apresentadas as versões incluídas na aplicação. A consulta baseia-se no nosso interesse legítimo em manter atualizada a informação obrigatória (art. 6.º, n.º 1, alínea f, do RGPD)."
+    },
+    {
+      "number": 10,
+      "heading": "Os teus direitos",
+      "body": "Nos termos do RGPD tens, em particular, direito de acesso, retificação, apagamento, limitação do tratamento, portabilidade e oposição, bem como o direito de apresentar uma reclamação junto de uma autoridade de controlo. Os dados da aplicação são geralmente guardados localmente sob o teu controlo, pelo que podes consultá-los, alterá-los ou eliminá-los aí. Para os dados de uma conta Google utilizada voluntariamente, o contacto competente é o Google."
+    },
+    {
+      "number": 11,
+      "heading": "Alterações a esta política",
+      "body": "Esta política é atualizada quando mudam a aplicação, os serviços utilizados ou o tratamento de dados. A versão atual está disponível na aplicação e no endereço indicado."
+    }
+  ]
+}

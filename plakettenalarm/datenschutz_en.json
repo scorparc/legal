@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "en",
+  "title": "Privacy Policy",
+  "app": "PlakettenAlarm",
+  "stand": "8 August 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nEmail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle: your data stays on your device",
+      "body": "PlakettenAlarm works without an account and without its own server. Vehicles, insurers, eVB or insurance-certificate numbers, document photos and checklist status are stored exclusively locally and are not transmitted to us."
+    },
+    {
+      "number": 3,
+      "heading": "Photos",
+      "body": "Photos are processed only when you actively select the feature. They are stored in the app's private storage area on your device. The app uses the Android system photo picker or system camera dialog and has no access to the rest of your media library."
+    },
+    {
+      "number": 4,
+      "heading": "Notifications",
+      "body": "Reminders are scheduled and triggered entirely locally on your device. No push or notification server is used for this. You can revoke the permission at any time in Android settings."
+    },
+    {
+      "number": 5,
+      "heading": "Fetching the provider list and legal texts",
+      "body": "At startup the app fetches current provider information and the legal texts from GitHub Pages or raw.githubusercontent.com. This technically transmits your IP address to GitHub. No app data or usage profile is sent to us. Provider and legal texts are also available offline from the bundled fallback."
+    },
+    {
+      "number": 6,
+      "heading": "External links and partner identifiers",
+      "body": "When you open an offer, you leave the app and the provider's privacy policy applies. Links may contain a partner identifier used to attribute the visit; we do not send the provider additional app data."
+    },
+    {
+      "number": 7,
+      "heading": "No analytics or advertising trackers",
+      "body": "The app uses no analytics tools, advertising networks or tracking and processes no advertising IDs."
+    },
+    {
+      "number": 8,
+      "heading": "Deleting data",
+      "body": "Delete individual vehicles and document photos in the app. Remove all local data by uninstalling the app or using Android's Clear storage option."
+    },
+    {
+      "number": 9,
+      "heading": "Your rights",
+      "body": "Under the GDPR you have, in particular, the rights of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. App data is generally stored locally under your control, so you can inspect, change or delete it there. For data in a Google account used voluntarily, Google is the relevant contact."
+    },
+    {
+      "number": 10,
+      "heading": "Changes to this policy",
+      "body": "This privacy policy is updated when the app, the services used or the data processing changes. The current version is available in the app and at the linked address."
+    }
+  ]
+}

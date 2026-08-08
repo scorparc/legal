@@ -1,6 +1,9 @@
 {
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "de",
   "title": "Impressum",
-  "updated": "2026-07-03",
+  "updated": "2026-08-07",
   "sections": [
     {
       "heading": "Angaben gemäß § 5 DDG",
@@ -20,7 +23,7 @@
     },
     {
       "heading": "Haftungshinweis",
-      "body": "Alle Inhalte dieser App wurden sorgfältig recherchiert, erfolgen jedoch ohne Gewähr und stellen keine Rechts- oder Fachberatung dar."
+      "body": "Alle Inhalte der Apps werden sorgfältig recherchiert, erfolgen jedoch ohne Gewähr und stellen keine Rechts- oder Fachberatung dar."
     }
   ]
 }

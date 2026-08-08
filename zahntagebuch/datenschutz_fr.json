@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "ZahnTagebuch",
+  "stand": "8 août 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Allemagne\nE-mail : marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principe de base : stockage local et transferts facultatifs",
+      "body": "ZahnTagebuch est une application hors ligne destinée à documenter les dents de lait et le changement de dentition. Les noms et dates de naissance des enfants, photos de profil, événements dentaires datés, notes, montants facultatifs de la petite souris, photos dentaires et rappels sont d'abord conservés en local. Aucun compte n'est nécessaire. Les données ne quittent l'appareil que lorsque tu partages une sauvegarde locale via la boîte de dialogue système ou que tu lances volontairement une sauvegarde Google Drive. Les saisies peuvent contenir des informations personnelles et liées à la santé des enfants."
+    },
+    {
+      "number": 3,
+      "heading": "Photos",
+      "body": "Les photos ne sont traitées que lorsque tu sélectionnes activement la fonction. Elles sont conservées dans l'espace de stockage propre à l'application sur ton appareil. L'application utilise le sélecteur de photos ou la boîte de dialogue de caméra du système Android et n'accède pas au reste de ta photothèque."
+    },
+    {
+      "number": 4,
+      "heading": "Notifications",
+      "body": "Les rappels sont planifiés et déclenchés entièrement en local sur ton appareil. Aucun serveur push ou de notifications n'est utilisé. Tu peux retirer l'autorisation à tout moment dans les paramètres Android."
+    },
+    {
+      "number": 5,
+      "heading": "Sauvegarde locale, partage et Google Drive",
+      "body": "Tu peux exporter et importer tes données, photos comprises, dans un fichier de sauvegarde local ou générer le schéma dentaire comme image. Le partage ne se fait que par la boîte de dialogue système que tu ouvres activement. Lorsque tu lances volontairement une sauvegarde Google Drive, les données sont transférées dans la zone masquée appDataFolder de ton compte Google Drive. L'application ne peut pas accéder aux autres fichiers Drive. Tu peux supprimer la sauvegarde Drive dans l'application à tout moment."
+    },
+    {
+      "number": 6,
+      "heading": "Google Play : achat et évaluation",
+      "body": "ZahnTagebuch Pro est un achat intégré unique. Google Play traite les données de paiement et du compte ; l'application ne conserve que le statut de l'achat. Après la troisième dent enregistrée, l'application peut ouvrir une fois la fonction d'évaluation fournie par Google Play. L'application ne transmet aucune donnée dentaire, de profil ou de sauvegarde par cette fonction."
+    },
+    {
+      "number": 7,
+      "heading": "Suppression des données",
+      "body": "Supprime les entrées ou profils d'enfants individuels dans l'application. Supprime toutes les données locales en désinstallant l'application ou via l'effacement du stockage Android. Supprime une sauvegarde Drive dans l'application ou dans ton compte Google."
+    },
+    {
+      "number": 8,
+      "heading": "Consultation et mise à jour des textes légaux",
+      "body": "Pour maintenir à jour les mentions légales et la politique de confidentialité, l'application consulte les textes légaux publics de GitHub Pages ou raw.githubusercontent.com au maximum une fois toutes les 24 heures. Cette opération transmet techniquement ton adresse IP à GitHub. Aucun contenu de l'application ni profil d'utilisation ne nous est transmis. Sans connexion Internet, les versions intégrées à l'application sont affichées. La consultation repose sur notre intérêt légitime à maintenir à jour les informations obligatoires (art. 6, par. 1, point f du RGPD)."
+    },
+    {
+      "number": 9,
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Pour les données d'un compte Google utilisé volontairement, Google est l'interlocuteur compétent."
+    },
+    {
+      "number": 10,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible dans l'application et à l'adresse indiquée."
+    }
+  ]
+}

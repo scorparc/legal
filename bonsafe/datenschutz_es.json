@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "es",
+  "title": "Política de privacidad",
+  "app": "BonSafe",
+  "stand": "8 de agosto de 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable del tratamiento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Alemania\nCorreo electrónico: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principio básico: tus datos permanecen en tu dispositivo",
+      "body": "BonSafe es una aplicación sin conexión para recibos y garantías. El comercio, la fecha de compra, el importe, el artículo, las categorías, las notas, los plazos de garantía y devolución y las fotos de los recibos se guardan únicamente de forma local. No se necesita una cuenta. No operamos un servidor propio ni utilizamos SDK de análisis, seguimiento o publicidad."
+    },
+    {
+      "number": 3,
+      "heading": "Fotos",
+      "body": "Las fotos solo se procesan cuando eliges activamente esta función. Se guardan en el área de almacenamiento propia de la aplicación en tu dispositivo. La aplicación utiliza el selector de fotos o el diálogo de cámara del sistema Android y no accede al resto de tu biblioteca multimedia."
+    },
+    {
+      "number": 4,
+      "heading": "Notificaciones",
+      "body": "Los recordatorios se programan y activan íntegramente en tu dispositivo. No se utiliza ningún servidor de notificaciones o push. Puedes retirar el permiso en cualquier momento en los ajustes de Android."
+    },
+    {
+      "number": 5,
+      "heading": "Copia opcional en Google Drive (función Pro)",
+      "body": "Si utilizas activamente la función de copia, los recibos, incluidas las fotos, se cargan como archivo de copia en el área oculta appDataFolder de tu cuenta de Google Drive. La transferencia está cifrada (TLS). No tenemos acceso a la copia. Google Ireland Limited trata los datos de la cuenta como responsable independiente según su política de privacidad. La aplicación recibe tu correo electrónico para mostrar la cuenta conectada. Puedes detener la copia, cerrar sesión y eliminarla."
+    },
+    {
+      "number": 6,
+      "heading": "Compras mediante Google Play",
+      "body": "BonSafe Pro es una compra única dentro de la aplicación. Google gestiona los datos de pago y de la cuenta como responsable independiente. Solo recibimos el estado de la compra; la activación se guarda localmente."
+    },
+    {
+      "number": 7,
+      "heading": "Copia local, exportación y uso compartido",
+      "body": "Los archivos de copia y los PDF se crean localmente. Solo se comparten cuando abres activamente el diálogo del sistema; tú eliges el destinatario."
+    },
+    {
+      "number": 8,
+      "heading": "Eliminación de datos",
+      "body": "Puedes eliminar recibos individuales en la aplicación. Elimina todos los datos locales desinstalando la aplicación o usando la opción de borrar almacenamiento de Android. Elimina la copia de Drive en la aplicación o en tu cuenta de Google, en Google Drive → Ajustes → Gestionar aplicaciones → BonSafe."
+    },
+    {
+      "number": 9,
+      "heading": "Referencias a otras aplicaciones",
+      "body": "En los ajustes puede aparecer una sección \"Más aplicaciones\". La lista utilizada se descarga junto con los textos legales desde el mismo repositorio público, como máximo una vez cada 24 horas; se aplica la misma indicación sobre tu dirección IP que en la descarga de los textos legales. No se transmite ningún dato sobre ti ni sobre tus recibos, y la lista no está personalizada. Si abres una entrada, se inicia Google Play Store, del que Google es responsable de forma independiente. La base jurídica es nuestro interés legítimo en informar sobre nuestras propias aplicaciones (art. 6(1)(f) RGPD)."
+    },
+    {
+      "number": 10,
+      "heading": "Consulta y actualización de los textos legales",
+      "body": "Para mantener actualizado el aviso legal y la política de privacidad, la aplicación consulta los textos legales públicos de GitHub Pages o raw.githubusercontent.com como máximo una vez cada 24 horas. Esto transmite técnicamente tu dirección IP a GitHub. No nos envías contenido de la aplicación ni un perfil de uso. Sin conexión a Internet se muestran las versiones incluidas en la aplicación. La consulta se basa en nuestro interés legítimo por mantener actualizada la información obligatoria (art. 6, apdo. 1, letra f del RGPD)."
+    },
+    {
+      "number": 11,
+      "heading": "Tus derechos",
+      "body": "Conforme al RGPD tienes, en particular, derecho de acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición, así como derecho a presentar una reclamación ante una autoridad de control. Los datos de la aplicación se guardan normalmente de forma local bajo tu control, por lo que puedes consultarlos, modificarlos o eliminarlos allí. Para los datos de una cuenta de Google utilizada voluntariamente, el contacto competente es Google."
+    },
+    {
+      "number": 12,
+      "heading": "Cambios de esta política",
+      "body": "Esta política se actualizará cuando cambien la aplicación, los servicios utilizados o el tratamiento de datos. La versión actual está disponible en la aplicación y en la dirección enlazada."
+    }
+  ]
+}

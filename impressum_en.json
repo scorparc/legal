@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "en",
+  "title": "Legal Notice",
+  "updated": "2026-08-07",
+  "sections": [
+    {
+      "heading": "Information pursuant to Section 5 DDG",
+      "body": "Marc Neumann\nSchwabenstraße 47\n71101 Schönaich\nGermany"
+    },
+    {
+      "heading": "Contact",
+      "body": "Email: marc.neumann.neu@gmail.com"
+    },
+    {
+      "heading": "Responsible for content pursuant to Section 18(2) MStV",
+      "body": "Marc Neumann (address as above)"
+    },
+    {
+      "heading": "Consumer dispute resolution",
+      "body": "We are neither willing nor obliged to participate in dispute resolution proceedings before a consumer arbitration board (Section 36 VSBG)."
+    },
+    {
+      "heading": "Disclaimer",
+      "body": "All app content is researched with care, but is provided without guarantee and does not constitute legal or professional advice."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "NameTrends",
+  "stand": "8 août 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Allemagne\nE-mail : marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Statistiques locales de prénoms",
+      "body": "NameTrends traite localement les recherches, favoris et réglages. Les statistiques affichées proviennent de données publiques agrégées ; aucune donnée individuelle de naissance ou d'état civil n'est collectée et aucun compte n'est requis."
+    },
+    {
+      "number": 3,
+      "heading": "Mises à jour, achat et suppression",
+      "body": "Les données agrégées de prénoms et les textes légaux peuvent être mis à jour depuis GitHub au maximum une fois par jour ; GitHub reçoit l'adresse IP. NameTrends Pro est un achat unique Google Play. Supprime favoris et réglages dans l'application ou en la désinstallant."
+    },
+    {
+      "number": 4,
+      "heading": "Consultation et mise à jour des textes légaux",
+      "body": "Pour maintenir à jour les mentions légales et la politique de confidentialité, l'application consulte les textes légaux publics de GitHub Pages ou raw.githubusercontent.com au maximum une fois toutes les 24 heures. Cette opération transmet techniquement ton adresse IP à GitHub. Aucun contenu de l'application ni profil d'utilisation ne nous est transmis. Sans connexion Internet, les versions intégrées à l'application sont affichées. La consultation repose sur notre intérêt légitime à maintenir à jour les informations obligatoires (art. 6, par. 1, point f du RGPD)."
+    },
+    {
+      "number": 5,
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Pour les données d'un compte Google utilisé volontairement, Google est l'interlocuteur compétent."
+    },
+    {
+      "number": 6,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible dans l'application et à l'adresse indiquée."
+    }
+  ]
+}

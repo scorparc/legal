@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "it",
+  "title": "Informativa sulla privacy",
+  "app": "BonSafe",
+  "stand": "8 agosto 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Titolare del trattamento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germania\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principio di base: i tuoi dati restano sul dispositivo",
+      "body": "BonSafe è un'app offline per ricevute e garanzie. Esercente, data di acquisto, importo, articolo, categorie, note, scadenze di garanzia e reso e foto delle ricevute vengono salvati esclusivamente in locale. Non è necessario alcun account. Non gestiamo un nostro server e non utilizziamo SDK di analisi, tracciamento o pubblicità."
+    },
+    {
+      "number": 3,
+      "heading": "Foto",
+      "body": "Le foto vengono trattate solo quando selezioni attivamente la funzione. Sono conservate nell'area di archiviazione dell'app sul tuo dispositivo. L'app utilizza il selettore foto o il dialogo della fotocamera di sistema di Android e non accede al resto della tua libreria multimediale."
+    },
+    {
+      "number": 4,
+      "heading": "Notifiche",
+      "body": "I promemoria vengono pianificati e attivati interamente in locale sul tuo dispositivo. Non viene utilizzato alcun server push o per le notifiche. Puoi revocare l'autorizzazione in qualsiasi momento nelle impostazioni di Android."
+    },
+    {
+      "number": 5,
+      "heading": "Backup Google Drive facoltativo (funzione Pro)",
+      "body": "Se utilizzi attivamente il backup, le ricevute, comprese le foto, vengono caricate come file nell'area nascosta appDataFolder del tuo account Google Drive. Il trasferimento è crittografato (TLS). Non abbiamo accesso al backup. Google Ireland Limited tratta i dati dell'account come titolare autonomo secondo la propria informativa. L'app riceve il tuo indirizzo e-mail per mostrare l'account collegato. Puoi interrompere il backup, disconnetterti ed eliminarlo."
+    },
+    {
+      "number": 6,
+      "heading": "Acquisti tramite Google Play",
+      "body": "BonSafe Pro è un acquisto in-app una tantum. Google gestisce i dati di pagamento e dell'account come titolare autonomo. Riceviamo solo lo stato dell'acquisto; lo sblocco viene salvato localmente."
+    },
+    {
+      "number": 7,
+      "heading": "Backup locale, esportazione e condivisione",
+      "body": "I file di backup e i PDF vengono creati localmente. Vengono condivisi solo quando apri attivamente il dialogo di condivisione del sistema; scegli tu il destinatario."
+    },
+    {
+      "number": 8,
+      "heading": "Cancellazione dei dati",
+      "body": "Elimina le ricevute singole nell'app. Rimuovi tutti i dati locali disinstallando l'app o usando l'opzione per cancellare lo spazio di archiviazione di Android. Elimina un backup Drive nell'app o nel tuo account Google, in Google Drive → Impostazioni → Gestisci app → BonSafe."
+    },
+    {
+      "number": 9,
+      "heading": "Riferimenti ad altre app",
+      "body": "Nelle impostazioni può comparire una sezione \"Altre app\". L'elenco utilizzato viene scaricato insieme ai testi legali dallo stesso repository pubblico, al massimo una volta ogni 24 ore; vale la stessa indicazione sull'indirizzo IP prevista per il recupero dei testi legali. Non vengono trasmessi dati su di te o sulle tue ricevute e l'elenco non è personalizzato. Aprendo una voce si avvia il Google Play Store, di cui Google è titolare autonomo. La base giuridica è il nostro legittimo interesse a informare sulle nostre app (art. 6, par. 1, lett. f, GDPR)."
+    },
+    {
+      "number": 10,
+      "heading": "Recupero e aggiornamento dei testi legali",
+      "body": "Per mantenere aggiornati le note legali e l'informativa sulla privacy, l'app recupera i testi legali pubblici da GitHub Pages o raw.githubusercontent.com al massimo una volta ogni 24 ore. Tecnicamente ciò trasmette il tuo indirizzo IP a GitHub. A noi non vengono trasmessi contenuti dell'app né profili di utilizzo. Senza connessione Internet vengono mostrate le versioni incluse nell'app. Il recupero si basa sul nostro legittimo interesse a mantenere aggiornate le informazioni obbligatorie (art. 6, par. 1, lett. f GDPR)."
+    },
+    {
+      "number": 11,
+      "heading": "I tuoi diritti",
+      "body": "Ai sensi del GDPR hai in particolare diritto di accesso, rettifica, cancellazione, limitazione del trattamento, portabilità e opposizione, nonché il diritto di proporre reclamo a un'autorità di controllo. I dati dell'app sono generalmente conservati localmente sotto il tuo controllo, quindi puoi consultarli, modificarli o eliminarli lì. Per i dati di un account Google utilizzato volontariamente, il referente competente è Google."
+    },
+    {
+      "number": 12,
+      "heading": "Modifiche alla presente informativa",
+      "body": "La presente informativa viene aggiornata quando cambiano l'app, i servizi utilizzati o il trattamento dei dati. La versione attuale è disponibile nell'app e all'indirizzo indicato."
+    }
+  ]
+}

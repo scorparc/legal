@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "effective": "2026-08-08",
+  "languages": [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "pt"
+  ],
+  "imprint": "impressum.json",
+  "apps": {
+    "bonsafe": "bonsafe/datenschutz.json",
+    "scootkeeper": "scootkeeper/datenschutz.json",
+    "plakettenalarm": "plakettenalarm/datenschutz.json",
+    "zahntagebuch": "zahntagebuch/datenschutz.json",
+    "babylog": "babylog/datenschutz.json",
+    "familybash": "familybash/datenschutz.json",
+    "nametrends": "nametrends/datenschutz.json",
+    "scootrules": "scootrules/datenschutz.json",
+    "sleeplog": "sleeplog/datenschutz.json",
+    "snackblocker": "snackblocker/datenschutz.json"
+  },
+  "sync": {
+    "intervalHours": 24,
+    "source": "https://raw.githubusercontent.com/scorparc/legal/main",
+    "publicBase": "https://scorparc.github.io/legal"
+  },
+  "notes": [
+    "JSON is the canonical in-app representation; HTML is generated from the same data.",
+    "The German version is the legal master; translations are provided for accessibility.",
+    "Each app must keep its bundled assets and Google Play Data safety declaration aligned with its actual implementation."
+  ]
+}

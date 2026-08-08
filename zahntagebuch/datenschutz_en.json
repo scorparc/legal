@@ -1,62 +1,60 @@
 {
+  "schemaVersion": 1,
+  "version": "2026-08-08.2",
+  "language": "en",
   "title": "Privacy Policy",
   "app": "ZahnTagebuch",
-  "stand": "July 2026",
+  "stand": "8 August 2026",
   "sections": [
     {
       "number": 1,
       "heading": "Controller",
-      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nE-mail: marc.neumann.neu@gmail.com"
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nEmail: marc.neumann.neu@gmail.com"
     },
     {
       "number": 2,
-      "heading": "Core principle: your data stays on your device",
-      "body": "ZahnTagebuch is an offline app for documenting baby teeth and the change of teeth. All data you enter – children's names and birth dates, profile photos, tooth events (eruption, wobbling, loss, permanent tooth) with dates, notes, optional tooth-fairy amounts, tooth photos and reminders – is stored exclusively locally on your device. Nothing is transmitted to us or third parties. We run no servers, use no analytics, tracking or advertising SDKs, and build no usage profiles. No user account is required."
+      "heading": "Core principle: local storage and optional transfers",
+      "body": "ZahnTagebuch is an offline app for documenting baby teeth and the change of teeth. Children's names and birth dates, profile photos, dated tooth events, notes, optional tooth-fairy amounts, tooth photos and reminders are initially stored locally. No user account is required. Data leaves the device only when you share a local backup through the system share dialog or explicitly start a Google Drive backup. Entries may contain personal and health-related information about children."
     },
     {
       "number": 3,
-      "heading": "Data about children",
-      "body": "The app is intended for parents documenting their children's dental development. Any information you enter about children stays – like all other data – exclusively on your device and is never collected or viewed by us. You alone decide what to record."
+      "heading": "Photos",
+      "body": "Photos are processed only when you actively select the feature. They are stored in the app's private storage area on your device. The app uses the Android system photo picker or system camera dialog and has no access to the rest of your media library."
     },
     {
       "number": 4,
-      "heading": "Photos",
-      "body": "Photos you add to a child or a tooth are copied into the app's private storage area on your device. The app uses the camera only after your explicit choice via the system camera dialog and the Android system photo picker for the gallery; it has no access to the rest of your media library."
+      "heading": "Notifications",
+      "body": "Reminders are scheduled and triggered entirely locally on your device. No push or notification server is used for this. You can revoke the permission at any time in Android settings."
     },
     {
       "number": 5,
-      "heading": "Notifications",
-      "body": "Reminders for dentist appointments or expected teeth are scheduled and triggered entirely locally on your device. No server connection is used. You can revoke the notification permission at any time in the Android settings."
+      "heading": "Local backup, sharing and Google Drive",
+      "body": "You can export and import your data including photos as a local backup file or generate the tooth chart as an image. Sharing occurs only through the system share dialog that you actively open. When you explicitly start a Google Drive backup, the data is transferred to the hidden app-specific appDataFolder of your Google Drive account. The app cannot access other Drive files. You can delete the Drive backup in the app at any time."
     },
     {
       "number": 6,
-      "heading": "Local backup, sharing and tooth-chart image",
-      "body": "You can export all your data as a local backup file (JSON, including photos) and import it again; you can also generate the tooth chart as an image. These files are created locally on your device and only shared if you actively trigger the share dialog. You alone decide who receives the file."
+      "heading": "Google Play: purchase and review",
+      "body": "ZahnTagebuch Pro is a one-time in-app purchase. Google Play processes payment and account data; the app stores only the purchase status. After the third recorded tooth, the app may open the review feature provided by Google Play once. The app does not transmit tooth, profile or backup data through it."
     },
     {
       "number": 7,
-      "heading": "Fetching the legal texts",
-      "body": "To keep the imprint and privacy policy current, the app fetches these texts from a public location (GitHub Pages / raw.githubusercontent.com, operated by GitHub, Inc., USA) at most once every 24 hours. This technically transmits your IP address to GitHub. No app or usage data is sent. The fetch is not mandatory: without an internet connection the versions bundled with the app are shown. The legal basis is our legitimate interest in up-to-date mandatory information (Art. 6(1)(f) GDPR)."
+      "heading": "Deleting data",
+      "body": "Delete individual entries or child profiles in the app. Remove all local data by uninstalling the app or using Android's Clear storage option. Delete a Drive backup in the app or in your Google account."
     },
     {
       "number": 8,
-      "heading": "Purchase of ZahnTagebuch Pro",
-      "body": "ZahnTagebuch Pro (multiple children, photos and backup) is a one-time in-app purchase – not a subscription. Payment is handled exclusively via Google Play. Google processes payment and account data according to its own privacy terms; we receive no payment data, only the purchase status."
+      "heading": "Fetching and updating the legal texts",
+      "body": "To keep the legal notice and privacy policy current, the app fetches the public legal texts from GitHub Pages or raw.githubusercontent.com at most once every 24 hours. This technically transmits your IP address to GitHub. No app content or usage profile is transmitted to us. Without an internet connection, the versions bundled with the app are shown. The fetch is based on our legitimate interest in keeping mandatory information current (Art. 6(1)(f) GDPR)."
     },
     {
       "number": 9,
       "heading": "Your rights",
-      "body": "Under the GDPR you have the right to access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection authority. As we store no personal data of yours, you have full control over your data directly in the app and on your device."
+      "body": "Under the GDPR you have, in particular, the rights of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. App data is generally stored locally under your control, so you can inspect, change or delete it there. For data in a Google account used voluntarily, Google is the relevant contact."
     },
     {
       "number": 10,
-      "heading": "Deleting data",
-      "body": "You delete all local data in the app (individual entries or whole child profiles) or by uninstalling the app or via \"Clear storage\" in the Android app settings."
-    },
-    {
-      "number": 11,
       "heading": "Changes to this policy",
-      "body": "This privacy policy will be updated when the app's features change. The current version is always available at this address."
+      "body": "This privacy policy is updated when the app, the services used or the data processing changes. The current version is available in the app and at the linked address."
     }
   ]
 }
