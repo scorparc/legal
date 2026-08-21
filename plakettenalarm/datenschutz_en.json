@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-08-08.3",
   "language": "en",
   "title": "Privacy Policy",
   "app": "PlakettenAlarm",
@@ -28,8 +28,8 @@
     },
     {
       "number": 5,
-      "heading": "Fetching the provider list and legal texts",
-      "body": "At startup the app fetches current provider information and the legal texts from GitHub Pages or raw.githubusercontent.com. This technically transmits your IP address to GitHub. No app data or usage profile is sent to us. Provider and legal texts are also available offline from the bundled fallback."
+      "heading": "Fetching the provider list, legal texts and app list",
+      "body": "At startup the app fetches current provider information, the legal texts and the list of our other apps from GitHub Pages or raw.githubusercontent.com. This technically transmits your IP address to GitHub. No app data or usage profile is sent to us. All content is also available offline from the bundled fallback."
     },
     {
       "number": 6,
@@ -38,21 +38,26 @@
     },
     {
       "number": 7,
+      "heading": "Google Play: review prompt",
+      "body": "Once you have fully completed the season checklist, the app may open the review function provided by Google Play once per insurance year. Google Play decides whether the dialog actually appears. The app transmits no vehicle, insurance or usage data in the process."
+    },
+    {
+      "number": 8,
       "heading": "No analytics or advertising trackers",
       "body": "The app uses no analytics tools, advertising networks or tracking and processes no advertising IDs."
     },
     {
-      "number": 8,
+      "number": 9,
       "heading": "Deleting data",
       "body": "Delete individual vehicles and document photos in the app. Remove all local data by uninstalling the app or using Android's Clear storage option."
     },
     {
-      "number": 9,
+      "number": 10,
       "heading": "Your rights",
-      "body": "Under the GDPR you have, in particular, the rights of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. App data is generally stored locally under your control, so you can inspect, change or delete it there. For data in a Google account used voluntarily, Google is the relevant contact."
+      "body": "Under the GDPR you have, in particular, the rights of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. App data is generally stored locally under your control, so you can inspect, change or delete it there. Where external providers process data after you voluntarily open links, their privacy information applies."
     },
     {
-      "number": 10,
+      "number": 11,
       "heading": "Changes to this policy",
       "body": "This privacy policy is updated when the app, the services used or the data processing changes. The current version is available in the app and at the linked address."
     }

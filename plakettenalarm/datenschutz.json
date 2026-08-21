@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-08-08.3",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "PlakettenAlarm",
@@ -28,8 +28,8 @@
     },
     {
       "number": 5,
-      "heading": "Abruf der Anbieterliste und Rechtstexte",
-      "body": "Beim Start lädt die App aktuelle Anbieterinformationen und die Rechtstexte von GitHub Pages beziehungsweise raw.githubusercontent.com. Technisch bedingt wird dabei deine IP-Adresse an GitHub übertragen. Es werden keine App-Daten oder Nutzungsprofile an uns gesendet. Die Anbieter- und Rechtstexte sind auch offline aus dem App-Fallback verfügbar."
+      "heading": "Abruf der Anbieterliste, Rechtstexte und App-Liste",
+      "body": "Beim Start lädt die App aktuelle Anbieterinformationen, die Rechtstexte und die Liste unserer weiteren Apps von GitHub Pages beziehungsweise raw.githubusercontent.com. Technisch bedingt wird dabei deine IP-Adresse an GitHub übertragen. Es werden keine App-Daten oder Nutzungsprofile an uns gesendet. Alle Inhalte sind auch offline aus dem App-Fallback verfügbar."
     },
     {
       "number": 6,
@@ -38,21 +38,26 @@
     },
     {
       "number": 7,
+      "heading": "Google Play: Bewertungsfunktion",
+      "body": "Wenn du die Saison-Checkliste vollständig abgehakt hast, kann die App einmal pro Verkehrsjahr die von Google Play bereitgestellte Bewertungsfunktion öffnen. Ob der Dialog tatsächlich erscheint, entscheidet Google Play. Die App übermittelt dabei keine Fahrzeug-, Versicherungs- oder Nutzungsdaten."
+    },
+    {
+      "number": 8,
       "heading": "Keine Analyse- oder Werbe-Tracker",
       "body": "Die App verwendet keine Analyse-Tools, keine Werbenetzwerke und kein Tracking. Es werden keine Werbe-IDs verarbeitet."
     },
     {
-      "number": 8,
+      "number": 9,
       "heading": "Datenlöschung",
       "body": "Einzelne Fahrzeuge und Dokumentfotos kannst du in der App löschen. Alle lokalen Daten entfernst du durch Deinstallation oder über \"Speicher löschen\" in Android."
     },
     {
-      "number": 9,
+      "number": 10,
       "heading": "Deine Rechte",
-      "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Für Daten in einem freiwillig genutzten Google-Konto ist Google der zuständige Ansprechpartner."
+      "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Soweit externe Anbieter bei freiwillig geöffneten Links Daten verarbeiten, gelten deren Datenschutzhinweise."
     },
     {
-      "number": 10,
+      "number": 11,
       "heading": "Änderungen dieser Erklärung",
       "body": "Diese Datenschutzerklärung wird bei Änderungen der App, der eingesetzten Dienste oder der Datenverarbeitung angepasst. Die jeweils aktuelle Fassung ist in der App und unter der verlinkten Adresse abrufbar."
     }

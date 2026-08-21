@@ -16,7 +16,11 @@ from pathlib import Path
 
 LEGAL = Path(__file__).resolve().parents[1]
 VERSION = "2026-08-08.2"
-APP_VERSIONS = {"scootrules": "2026-08-08.3", "scootkeeper": "2026-08-08.3"}
+APP_VERSIONS = {
+    "scootrules": "2026-08-08.3",
+    "scootkeeper": "2026-08-08.3",
+    "plakettenalarm": "2026-08-08.3",
+}
 LANGUAGES = ("de", "en", "es", "fr", "it", "pt")
 APPS = {
     "bonsafe": "BonSafe",
@@ -401,38 +405,44 @@ FEATURES = {
     },
     "plakettenalarm": {
         "de": [
-            ("Abruf der Anbieterliste und Rechtstexte", "Beim Start lädt die App aktuelle Anbieterinformationen und die Rechtstexte von GitHub Pages beziehungsweise raw.githubusercontent.com. Technisch bedingt wird dabei deine IP-Adresse an GitHub übertragen. Es werden keine App-Daten oder Nutzungsprofile an uns gesendet. Die Anbieter- und Rechtstexte sind auch offline aus dem App-Fallback verfügbar."),
+            ("Abruf der Anbieterliste, Rechtstexte und App-Liste", "Beim Start lädt die App aktuelle Anbieterinformationen, die Rechtstexte und die Liste unserer weiteren Apps von GitHub Pages beziehungsweise raw.githubusercontent.com. Technisch bedingt wird dabei deine IP-Adresse an GitHub übertragen. Es werden keine App-Daten oder Nutzungsprofile an uns gesendet. Alle Inhalte sind auch offline aus dem App-Fallback verfügbar."),
             ("Externe Links und Partner-Kennungen", "Wenn du ein Angebot öffnest, verlässt du die App und es gilt die Datenschutzerklärung des jeweiligen Anbieters. Die Links können eine Partner-Kennung (Affiliate-Kennung) enthalten. Sie dient der Zuordnung des Aufrufs; wir übermitteln dem Anbieter keine zusätzlichen App-Daten."),
+            ("Google Play: Bewertungsfunktion", "Wenn du die Saison-Checkliste vollständig abgehakt hast, kann die App einmal pro Verkehrsjahr die von Google Play bereitgestellte Bewertungsfunktion öffnen. Ob der Dialog tatsächlich erscheint, entscheidet Google Play. Die App übermittelt dabei keine Fahrzeug-, Versicherungs- oder Nutzungsdaten."),
             ("Keine Analyse- oder Werbe-Tracker", "Die App verwendet keine Analyse-Tools, keine Werbenetzwerke und kein Tracking. Es werden keine Werbe-IDs verarbeitet."),
             ("Datenlöschung", "Einzelne Fahrzeuge und Dokumentfotos kannst du in der App löschen. Alle lokalen Daten entfernst du durch Deinstallation oder über \"Speicher löschen\" in Android."),
         ],
         "en": [
-            ("Fetching the provider list and legal texts", "At startup the app fetches current provider information and the legal texts from GitHub Pages or raw.githubusercontent.com. This technically transmits your IP address to GitHub. No app data or usage profile is sent to us. Provider and legal texts are also available offline from the bundled fallback."),
+            ("Fetching the provider list, legal texts and app list", "At startup the app fetches current provider information, the legal texts and the list of our other apps from GitHub Pages or raw.githubusercontent.com. This technically transmits your IP address to GitHub. No app data or usage profile is sent to us. All content is also available offline from the bundled fallback."),
             ("External links and partner identifiers", "When you open an offer, you leave the app and the provider's privacy policy applies. Links may contain a partner identifier used to attribute the visit; we do not send the provider additional app data."),
+            ("Google Play: review prompt", "Once you have fully completed the season checklist, the app may open the review function provided by Google Play once per insurance year. Google Play decides whether the dialog actually appears. The app transmits no vehicle, insurance or usage data in the process."),
             ("No analytics or advertising trackers", "The app uses no analytics tools, advertising networks or tracking and processes no advertising IDs."),
             ("Deleting data", "Delete individual vehicles and document photos in the app. Remove all local data by uninstalling the app or using Android's Clear storage option."),
         ],
         "es": [
-            ("Consulta de la lista de proveedores y de los textos legales", "Al iniciar, la aplicación consulta información actual de proveedores y los textos legales desde GitHub Pages o raw.githubusercontent.com. Esto transmite técnicamente tu dirección IP a GitHub. No nos envías datos de la aplicación ni un perfil de uso. La información también está disponible sin conexión mediante la copia incluida."),
+            ("Consulta de la lista de proveedores, los textos legales y la lista de aplicaciones", "Al iniciar, la aplicación consulta información actual de proveedores, los textos legales y la lista de nuestras otras aplicaciones desde GitHub Pages o raw.githubusercontent.com. Esto transmite técnicamente tu dirección IP a GitHub. No nos envías datos de la aplicación ni un perfil de uso. Todo el contenido también está disponible sin conexión mediante la copia incluida."),
             ("Enlaces externos e identificadores de socios", "Al abrir una oferta sales de la aplicación y se aplica la política de privacidad del proveedor. Los enlaces pueden contener un identificador de socio para atribuir la visita; no enviamos al proveedor datos adicionales de la aplicación."),
+            ("Google Play: función de valoración", "Cuando hayas completado por entero la lista de comprobación de la temporada, la aplicación puede abrir una vez por año de seguro la función de valoración proporcionada por Google Play. Google Play decide si el diálogo aparece realmente. La aplicación no transmite datos del vehículo, del seguro ni de uso."),
             ("Sin análisis ni rastreadores publicitarios", "La aplicación no utiliza herramientas de análisis, redes publicitarias ni seguimiento y no procesa identificadores publicitarios."),
             ("Eliminación de datos", "Puedes eliminar vehículos y fotos de documentos individuales en la aplicación. Elimina todos los datos locales desinstalando la aplicación o usando la opción de borrar almacenamiento de Android."),
         ],
         "fr": [
-            ("Consultation de la liste des fournisseurs et des textes légaux", "Au démarrage, l'application consulte les informations actuelles sur les fournisseurs et les textes légaux depuis GitHub Pages ou raw.githubusercontent.com. Cette opération transmet techniquement ton adresse IP à GitHub. Aucune donnée de l'application ni profil d'utilisation ne nous est envoyé. Les contenus sont aussi disponibles hors ligne grâce à la copie intégrée."),
+            ("Consultation de la liste des fournisseurs, des textes légaux et de la liste des applications", "Au démarrage, l'application consulte les informations actuelles sur les fournisseurs, les textes légaux et la liste de nos autres applications depuis GitHub Pages ou raw.githubusercontent.com. Cette opération transmet techniquement ton adresse IP à GitHub. Aucune donnée de l'application ni profil d'utilisation ne nous est envoyé. Tous les contenus sont aussi disponibles hors ligne grâce à la copie intégrée."),
             ("Liens externes et identifiants partenaires", "Lorsque tu ouvres une offre, tu quittes l'application et la politique du fournisseur s'applique. Les liens peuvent contenir un identifiant partenaire pour attribuer la visite ; nous n'envoyons pas au fournisseur d'autres données de l'application."),
+            ("Google Play : fonction d'évaluation", "Une fois la liste de contrôle de la saison entièrement cochée, l'application peut ouvrir une fois par année d'assurance la fonction d'évaluation fournie par Google Play. C'est Google Play qui décide si la boîte de dialogue s'affiche réellement. L'application ne transmet aucune donnée de véhicule, d'assurance ou d'utilisation."),
             ("Aucun outil d'analyse ni traceur publicitaire", "L'application n'utilise aucun outil d'analyse, réseau publicitaire ou suivi et ne traite aucun identifiant publicitaire."),
             ("Suppression des données", "Supprime les véhicules et photos de documents individuellement dans l'application. Supprime toutes les données locales en désinstallant l'application ou via l'effacement du stockage Android."),
         ],
         "it": [
-            ("Recupero dell'elenco dei fornitori e dei testi legali", "All'avvio l'app recupera le informazioni aggiornate sui fornitori e i testi legali da GitHub Pages o raw.githubusercontent.com. Tecnicamente ciò trasmette il tuo indirizzo IP a GitHub. A noi non vengono inviati dati dell'app né profili di utilizzo. I contenuti sono disponibili anche offline tramite la copia inclusa."),
+            ("Recupero dell'elenco dei fornitori, dei testi legali e dell'elenco delle app", "All'avvio l'app recupera le informazioni aggiornate sui fornitori, i testi legali e l'elenco delle nostre altre app da GitHub Pages o raw.githubusercontent.com. Tecnicamente ciò trasmette il tuo indirizzo IP a GitHub. A noi non vengono inviati dati dell'app né profili di utilizzo. Tutti i contenuti sono disponibili anche offline tramite la copia inclusa."),
             ("Link esterni e identificativi dei partner", "Quando apri un'offerta lasci l'app e si applica l'informativa del fornitore. I link possono contenere un identificativo del partner per attribuire la visita; non inviamo al fornitore altri dati dell'app."),
+            ("Google Play: funzione di valutazione", "Quando hai completato interamente la lista di controllo stagionale, l'app può aprire una volta per anno assicurativo la funzione di valutazione fornita da Google Play. È Google Play a decidere se la finestra viene effettivamente mostrata. L'app non trasmette dati del veicolo, dell'assicurazione o di utilizzo."),
             ("Nessuna analisi o pubblicità tracciante", "L'app non utilizza strumenti di analisi, reti pubblicitarie o tracciamento e non tratta identificativi pubblicitari."),
             ("Cancellazione dei dati", "Elimina singolarmente veicoli e foto dei documenti nell'app. Rimuovi tutti i dati locali disinstallando l'app o usando l'opzione per cancellare lo spazio di archiviazione di Android."),
         ],
         "pt": [
-            ("Consulta da lista de fornecedores e dos textos legais", "No arranque, a aplicação consulta informações atualizadas dos fornecedores e os textos legais no GitHub Pages ou raw.githubusercontent.com. Tecnicamente, isto transmite o teu endereço IP ao GitHub. Não nos são enviados dados da aplicação nem um perfil de utilização. Os conteúdos também estão disponíveis offline através da cópia incluída."),
+            ("Consulta da lista de fornecedores, dos textos legais e da lista de aplicações", "No arranque, a aplicação consulta informações atualizadas dos fornecedores, os textos legais e a lista das nossas outras aplicações no GitHub Pages ou raw.githubusercontent.com. Tecnicamente, isto transmite o teu endereço IP ao GitHub. Não nos são enviados dados da aplicação nem um perfil de utilização. Todos os conteúdos também estão disponíveis offline através da cópia incluída."),
             ("Ligações externas e identificadores de parceiros", "Quando abres uma oferta, sais da aplicação e aplica-se a política de privacidade do fornecedor. As ligações podem conter um identificador de parceiro para atribuir a visita; não enviamos ao fornecedor outros dados da aplicação."),
+            ("Google Play: função de avaliação", "Depois de concluíres integralmente a lista de verificação da época, a aplicação pode abrir uma vez por ano de seguro a função de avaliação disponibilizada pelo Google Play. É o Google Play que decide se a caixa de diálogo é efetivamente apresentada. A aplicação não transmite dados do veículo, do seguro ou de utilização."),
             ("Sem análise nem rastreadores publicitários", "A aplicação não utiliza ferramentas de análise, redes publicitárias ou rastreio e não trata identificadores publicitários."),
             ("Eliminação de dados", "Elimina veículos e fotografias de documentos individualmente na aplicação. Remove todos os dados locais desinstalando a aplicação ou usando a opção de limpar o armazenamento do Android."),
         ],
@@ -592,7 +602,11 @@ SCOOTRULES_SYNC = {
     "pt": "Para manter atualizados o aviso legal e a política de privacidade, a aplicação transfere as versões JSON apenas de raw.githubusercontent.com no máximo uma vez a cada 24 horas e guarda-as localmente. Tecnicamente, isto transmite o teu endereço IP ao GitHub. Sem ligação à Internet são apresentadas as versões incluídas na aplicação. Se selecionares « Abrir no navegador », a versão HTML correspondente é aberta através do GitHub Pages numa aplicação externa. A consulta baseia-se no nosso interesse legítimo em manter atualizada a informação obrigatória (art. 6.º, n.º 1, alínea f, do RGPD).",
 }
 
-SCOOTRULES_RIGHTS = {
+# Rechte-Text für Apps ohne Google-Konto-/Backup-Funktion: statt eines Hinweises
+# auf ein Google-Konto (den diese Apps gar nicht nutzen) verweist er auf die
+# Anbieter freiwillig geöffneter externer Links. Genutzt von ScootRules und
+# PlakettenAlarm.
+LINK_ONLY_RIGHTS = {
     "de": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Soweit externe Anbieter bei freiwillig geöffneten Links Daten verarbeiten, gelten deren Datenschutzhinweise.",
     "en": "Under the GDPR you have, in particular, the rights of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. App data is generally stored locally under your control, so you can inspect, change or delete it there. Where external providers process data after you voluntarily open links, their privacy information applies.",
     "es": "Conforme al RGPD tienes, en particular, derecho de acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición, así como derecho a presentar una reclamación ante una autoridad de control. Los datos de la aplicación se guardan normalmente de forma local bajo tu control, por lo que puedes consultarlos, modificarlos o eliminarlos allí. Cuando proveedores externos tratan datos tras abrir voluntariamente enlaces, se aplica su información de privacidad.",
@@ -640,7 +654,7 @@ def make_privacy(app_slug: str, language: str) -> dict:
         sections.append({"number": len(sections) + 1, "heading": common["sync_h"], "body": sync_body})
     rights_body = (
         SNACKBLOCKER_RIGHTS[language] if app_slug == "snackblocker"
-        else SCOOTRULES_RIGHTS[language] if app_slug == "scootrules"
+        else LINK_ONLY_RIGHTS[language] if app_slug in {"scootrules", "plakettenalarm"}
         else common["rights_b"]
     )
     sections.extend(

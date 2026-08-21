@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-08-08.3",
   "language": "es",
   "title": "Política de privacidad",
   "app": "PlakettenAlarm",
@@ -28,8 +28,8 @@
     },
     {
       "number": 5,
-      "heading": "Consulta de la lista de proveedores y de los textos legales",
-      "body": "Al iniciar, la aplicación consulta información actual de proveedores y los textos legales desde GitHub Pages o raw.githubusercontent.com. Esto transmite técnicamente tu dirección IP a GitHub. No nos envías datos de la aplicación ni un perfil de uso. La información también está disponible sin conexión mediante la copia incluida."
+      "heading": "Consulta de la lista de proveedores, los textos legales y la lista de aplicaciones",
+      "body": "Al iniciar, la aplicación consulta información actual de proveedores, los textos legales y la lista de nuestras otras aplicaciones desde GitHub Pages o raw.githubusercontent.com. Esto transmite técnicamente tu dirección IP a GitHub. No nos envías datos de la aplicación ni un perfil de uso. Todo el contenido también está disponible sin conexión mediante la copia incluida."
     },
     {
       "number": 6,
@@ -38,21 +38,26 @@
     },
     {
       "number": 7,
+      "heading": "Google Play: función de valoración",
+      "body": "Cuando hayas completado por entero la lista de comprobación de la temporada, la aplicación puede abrir una vez por año de seguro la función de valoración proporcionada por Google Play. Google Play decide si el diálogo aparece realmente. La aplicación no transmite datos del vehículo, del seguro ni de uso."
+    },
+    {
+      "number": 8,
       "heading": "Sin análisis ni rastreadores publicitarios",
       "body": "La aplicación no utiliza herramientas de análisis, redes publicitarias ni seguimiento y no procesa identificadores publicitarios."
     },
     {
-      "number": 8,
+      "number": 9,
       "heading": "Eliminación de datos",
       "body": "Puedes eliminar vehículos y fotos de documentos individuales en la aplicación. Elimina todos los datos locales desinstalando la aplicación o usando la opción de borrar almacenamiento de Android."
     },
     {
-      "number": 9,
+      "number": 10,
       "heading": "Tus derechos",
-      "body": "Conforme al RGPD tienes, en particular, derecho de acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición, así como derecho a presentar una reclamación ante una autoridad de control. Los datos de la aplicación se guardan normalmente de forma local bajo tu control, por lo que puedes consultarlos, modificarlos o eliminarlos allí. Para los datos de una cuenta de Google utilizada voluntariamente, el contacto competente es Google."
+      "body": "Conforme al RGPD tienes, en particular, derecho de acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición, así como derecho a presentar una reclamación ante una autoridad de control. Los datos de la aplicación se guardan normalmente de forma local bajo tu control, por lo que puedes consultarlos, modificarlos o eliminarlos allí. Cuando proveedores externos tratan datos tras abrir voluntariamente enlaces, se aplica su información de privacidad."
     },
     {
-      "number": 10,
+      "number": 11,
       "heading": "Cambios de esta política",
       "body": "Esta política se actualizará cuando cambien la aplicación, los servicios utilizados o el tratamiento de datos. La versión actual está disponible en la aplicación y en la dirección enlazada."
     }
