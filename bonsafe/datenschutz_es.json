@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-07.1",
   "language": "es",
   "title": "Política de privacidad",
   "app": "BonSafe",
-  "stand": "8 de agosto de 2026",
+  "stand": "7 de septiembre de 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Copia opcional en Google Drive (función Pro)",
-      "body": "Si utilizas activamente la función de copia, los recibos, incluidas las fotos, se cargan como archivo de copia en el área oculta appDataFolder de tu cuenta de Google Drive. La transferencia está cifrada (TLS). No tenemos acceso a la copia. Google Ireland Limited trata los datos de la cuenta como responsable independiente según su política de privacidad. La aplicación recibe tu correo electrónico para mostrar la cuenta conectada. Puedes detener la copia, cerrar sesión y eliminarla."
+      "body": "Si utilizas activamente la función de copia, los recibos, incluidas las fotos, se cargan como archivo de copia en el área oculta appDataFolder de tu cuenta de Google Drive. La transferencia está cifrada (TLS). No tenemos acceso a la copia. Google Ireland Limited trata los datos de la cuenta como responsable independiente según su política de privacidad. La aplicación recibe tu correo electrónico para mostrar la cuenta conectada. Puedes detener la copia, cerrar sesión y eliminarla. Una vez configurada, la aplicación actualiza la copia automáticamente al iniciarse cuando la última tiene más de siete días. Siempre se sobrescribe el mismo archivo; no se conservan versiones anteriores."
     },
     {
       "number": 6,
@@ -44,7 +44,7 @@
     {
       "number": 8,
       "heading": "Eliminación de datos",
-      "body": "Puedes eliminar recibos individuales en la aplicación. Elimina todos los datos locales desinstalando la aplicación o usando la opción de borrar almacenamiento de Android. Elimina la copia de Drive en la aplicación o en tu cuenta de Google, en Google Drive → Ajustes → Gestionar aplicaciones → BonSafe."
+      "body": "Puedes eliminar recibos individuales en la aplicación. Elimina todos los datos locales desinstalando la aplicación o usando la opción de borrar almacenamiento de Android. Elimina la copia de Drive en la aplicación o en tu cuenta de Google, en Google Drive → Ajustes → Gestionar aplicaciones → BonSafe. Los recibos eliminados van primero a la papelera y se pueden restaurar durante 30 días; después se borran definitivamente del dispositivo junto con sus fotos. También puedes eliminarlos de forma definitiva desde la papelera."
     },
     {
       "number": 9,

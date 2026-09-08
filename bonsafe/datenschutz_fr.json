@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-07.1",
   "language": "fr",
   "title": "Politique de confidentialité",
   "app": "BonSafe",
-  "stand": "8 août 2026",
+  "stand": "7 septembre 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Sauvegarde Google Drive facultative (fonction Pro)",
-      "body": "Si tu utilises activement la sauvegarde, les tickets, photos comprises, sont téléversés sous forme de fichier dans la zone masquée appDataFolder de ton compte Google Drive. Le transfert est chiffré (TLS). Nous n'avons pas accès à la sauvegarde. Google Ireland Limited traite les données du compte en tant que responsable indépendant selon sa politique de confidentialité. L'application reçoit ton adresse e-mail pour afficher le compte connecté. Tu peux arrêter la sauvegarde, te déconnecter et la supprimer."
+      "body": "Si tu utilises activement la sauvegarde, les tickets, photos comprises, sont téléversés sous forme de fichier dans la zone masquée appDataFolder de ton compte Google Drive. Le transfert est chiffré (TLS). Nous n'avons pas accès à la sauvegarde. Google Ireland Limited traite les données du compte en tant que responsable indépendant selon sa politique de confidentialité. L'application reçoit ton adresse e-mail pour afficher le compte connecté. Tu peux arrêter la sauvegarde, te déconnecter et la supprimer. Une fois configurée, l'application met à jour la sauvegarde automatiquement au démarrage dès que la dernière date de plus de sept jours. Le même fichier est toujours écrasé ; les versions antérieures ne sont pas conservées."
     },
     {
       "number": 6,
@@ -44,7 +44,7 @@
     {
       "number": 8,
       "heading": "Suppression des données",
-      "body": "Supprime les tickets individuels dans l'application. Supprime toutes les données locales en désinstallant l'application ou via l'option d'effacement du stockage Android. Supprime une sauvegarde Drive dans l'application ou dans ton compte Google, sous Google Drive → Paramètres → Gérer les applications → BonSafe."
+      "body": "Supprime les tickets individuels dans l'application. Supprime toutes les données locales en désinstallant l'application ou via l'option d'effacement du stockage Android. Supprime une sauvegarde Drive dans l'application ou dans ton compte Google, sous Google Drive → Paramètres → Gérer les applications → BonSafe. Les tickets supprimés vont d'abord à la corbeille et y restent restaurables pendant 30 jours ; ils sont ensuite définitivement effacés de l'appareil avec leurs photos. Tu peux aussi les supprimer immédiatement depuis la corbeille."
     },
     {
       "number": 9,

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-07.1",
   "language": "en",
   "title": "Privacy Policy",
   "app": "BonSafe",
-  "stand": "8 August 2026",
+  "stand": "7 September 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Optional Google Drive backup (Pro feature)",
-      "body": "If you actively use the backup feature, receipts including photos are uploaded as a backup file to the hidden app-specific appDataFolder of your Google Drive account. The transfer is encrypted (TLS). We have no access to the backup. Google Ireland Limited processes account data as an independent controller under Google's privacy policy. The app receives your email address to display the connected account. You can stop the backup, sign out and delete the backup."
+      "body": "If you actively use the backup feature, receipts including photos are uploaded as a backup file to the hidden app-specific appDataFolder of your Google Drive account. The transfer is encrypted (TLS). We have no access to the backup. Google Ireland Limited processes account data as an independent controller under Google's privacy policy. The app receives your email address to display the connected account. You can stop the backup, sign out and delete the backup. Once set up, the app refreshes the backup automatically on launch as soon as the last one is more than seven days old. It always overwrites the same file; older versions are not kept."
     },
     {
       "number": 6,
@@ -44,7 +44,7 @@
     {
       "number": 8,
       "heading": "Deleting data",
-      "body": "Delete individual receipts in the app. Remove all local data by uninstalling or using Android's Clear storage option. Delete a Drive backup in the app or in your Google account under Google Drive → Settings → Manage apps → BonSafe."
+      "body": "Delete individual receipts in the app. Remove all local data by uninstalling or using Android's Clear storage option. Delete a Drive backup in the app or in your Google account under Google Drive → Settings → Manage apps → BonSafe. Deleted receipts first move to the trash and stay restorable there for 30 days; after that they are permanently removed from the device together with their photos. You can also delete them permanently right away from the trash."
     },
     {
       "number": 9,

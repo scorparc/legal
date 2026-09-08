@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-07.1",
   "language": "pt",
   "title": "Política de privacidade",
   "app": "BonSafe",
-  "stand": "8 de agosto de 2026",
+  "stand": "7 de setembro de 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Cópia opcional no Google Drive (função Pro)",
-      "body": "Se utilizares ativamente a função de cópia, os recibos, incluindo fotografias, são carregados como ficheiro para a área oculta appDataFolder da tua conta Google Drive. A transferência é cifrada (TLS). Não temos acesso à cópia. A Google Ireland Limited trata os dados da conta como responsável independente segundo a política de privacidade da Google. A aplicação recebe o teu e-mail para apresentar a conta ligada. Podes parar a cópia, terminar sessão e eliminá-la."
+      "body": "Se utilizares ativamente a função de cópia, os recibos, incluindo fotografias, são carregados como ficheiro para a área oculta appDataFolder da tua conta Google Drive. A transferência é cifrada (TLS). Não temos acesso à cópia. A Google Ireland Limited trata os dados da conta como responsável independente segundo a política de privacidade da Google. A aplicação recebe o teu e-mail para apresentar a conta ligada. Podes parar a cópia, terminar sessão e eliminá-la. Depois de configurada, a aplicação atualiza a cópia automaticamente ao iniciar quando a última tem mais de sete dias. É sempre substituído o mesmo ficheiro; versões anteriores não são guardadas."
     },
     {
       "number": 6,
@@ -44,7 +44,7 @@
     {
       "number": 8,
       "heading": "Eliminação de dados",
-      "body": "Elimina recibos individuais na aplicação. Remove todos os dados locais desinstalando a aplicação ou usando a opção de limpar o armazenamento do Android. Elimina uma cópia do Drive na aplicação ou na tua conta Google, em Google Drive → Definições → Gerir aplicações → BonSafe."
+      "body": "Elimina recibos individuais na aplicação. Remove todos os dados locais desinstalando a aplicação ou usando a opção de limpar o armazenamento do Android. Elimina uma cópia do Drive na aplicação ou na tua conta Google, em Google Drive → Definições → Gerir aplicações → BonSafe. Os recibos eliminados vão primeiro para a reciclagem e podem ser repostos durante 30 dias; depois são removidos definitivamente do dispositivo juntamente com as fotografias. Na reciclagem também os podes eliminar de imediato."
     },
     {
       "number": 9,

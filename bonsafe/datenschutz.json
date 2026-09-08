@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-07.1",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "BonSafe",
-  "stand": "8. August 2026",
+  "stand": "7. September 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Optionales Google-Drive-Backup (Pro-Funktion)",
-      "body": "Wenn du die Backup-Funktion aktiv nutzt, werden deine Belege einschließlich Fotos als Sicherungsdatei in den versteckten, app-eigenen Bereich (\"appDataFolder\") deines Google-Drive-Kontos hochgeladen. Die Übertragung erfolgt verschlüsselt (TLS). Wir selbst erhalten keinen Zugriff. Google Ireland Limited verarbeitet Kontodaten als eigenständiger Verantwortlicher gemäß der Google-Datenschutzerklärung. Für die Anmeldung erhält die App deine E-Mail-Adresse zur Anzeige des verbundenen Kontos. Du kannst das Backup beenden, dich abmelden und die Sicherung löschen."
+      "body": "Wenn du die Backup-Funktion aktiv nutzt, werden deine Belege einschließlich Fotos als Sicherungsdatei in den versteckten, app-eigenen Bereich (\"appDataFolder\") deines Google-Drive-Kontos hochgeladen. Die Übertragung erfolgt verschlüsselt (TLS). Wir selbst erhalten keinen Zugriff. Google Ireland Limited verarbeitet Kontodaten als eigenständiger Verantwortlicher gemäß der Google-Datenschutzerklärung. Für die Anmeldung erhält die App deine E-Mail-Adresse zur Anzeige des verbundenen Kontos. Du kannst das Backup beenden, dich abmelden und die Sicherung löschen. Ist die Sicherung eingerichtet, aktualisiert die App sie beim Start automatisch, sobald die letzte Sicherung mehr als sieben Tage zurückliegt. Dabei wird stets dieselbe Datei überschrieben; ältere Stände werden nicht aufbewahrt."
     },
     {
       "number": 6,
@@ -44,7 +44,7 @@
     {
       "number": 8,
       "heading": "Datenlöschung",
-      "body": "Einzelne Belege löschst du in der App. Alle lokalen Daten entfernst du durch Deinstallation oder über \"Speicher löschen\" in Android. Ein Drive-Backup löschst du in der App oder in deinem Google-Konto unter Google Drive → Einstellungen → Apps verwalten → BonSafe."
+      "body": "Einzelne Belege löschst du in der App. Alle lokalen Daten entfernst du durch Deinstallation oder über \"Speicher löschen\" in Android. Ein Drive-Backup löschst du in der App oder in deinem Google-Konto unter Google Drive → Einstellungen → Apps verwalten → BonSafe. Gelöschte Belege wandern zunächst in den Papierkorb und bleiben dort 30 Tage lang wiederherstellbar; danach werden sie samt ihren Fotos endgültig vom Gerät entfernt. Im Papierkorb kannst du sie auch sofort endgültig löschen."
     },
     {
       "number": 9,

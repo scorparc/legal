@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-07.1",
   "language": "it",
   "title": "Informativa sulla privacy",
   "app": "BonSafe",
-  "stand": "8 agosto 2026",
+  "stand": "7 settembre 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Backup Google Drive facoltativo (funzione Pro)",
-      "body": "Se utilizzi attivamente il backup, le ricevute, comprese le foto, vengono caricate come file nell'area nascosta appDataFolder del tuo account Google Drive. Il trasferimento è crittografato (TLS). Non abbiamo accesso al backup. Google Ireland Limited tratta i dati dell'account come titolare autonomo secondo la propria informativa. L'app riceve il tuo indirizzo e-mail per mostrare l'account collegato. Puoi interrompere il backup, disconnetterti ed eliminarlo."
+      "body": "Se utilizzi attivamente il backup, le ricevute, comprese le foto, vengono caricate come file nell'area nascosta appDataFolder del tuo account Google Drive. Il trasferimento è crittografato (TLS). Non abbiamo accesso al backup. Google Ireland Limited tratta i dati dell'account come titolare autonomo secondo la propria informativa. L'app riceve il tuo indirizzo e-mail per mostrare l'account collegato. Puoi interrompere il backup, disconnetterti ed eliminarlo. Una volta configurato, l'app aggiorna il backup automaticamente all'avvio quando l'ultimo risale a più di sette giorni fa. Viene sempre sovrascritto lo stesso file; le versioni precedenti non vengono conservate."
     },
     {
       "number": 6,
@@ -44,7 +44,7 @@
     {
       "number": 8,
       "heading": "Cancellazione dei dati",
-      "body": "Elimina le ricevute singole nell'app. Rimuovi tutti i dati locali disinstallando l'app o usando l'opzione per cancellare lo spazio di archiviazione di Android. Elimina un backup Drive nell'app o nel tuo account Google, in Google Drive → Impostazioni → Gestisci app → BonSafe."
+      "body": "Elimina le ricevute singole nell'app. Rimuovi tutti i dati locali disinstallando l'app o usando l'opzione per cancellare lo spazio di archiviazione di Android. Elimina un backup Drive nell'app o nel tuo account Google, in Google Drive → Impostazioni → Gestisci app → BonSafe. Gli scontrini eliminati finiscono prima nel cestino e restano ripristinabili per 30 giorni; poi vengono rimossi definitivamente dal dispositivo insieme alle foto. Dal cestino puoi anche eliminarli subito in modo definitivo."
     },
     {
       "number": 9,
