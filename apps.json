@@ -8,7 +8,14 @@
       "name": "ScootRules",
       "tagline": "E-Scooter-Regeln für 8 europäische Länder – offline griffbereit",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.scootrules.app",
-      "active": false
+      "active": false,
+      "taglines": {
+        "en": "E-scooter rules for 8 European countries · offline at hand",
+        "es": "Normas de patinetes en 8 países europeos · siempre sin conexión",
+        "fr": "Règles des trottinettes dans 8 pays européens · hors ligne",
+        "it": "Regole per monopattini in 8 paesi europei · sempre offline",
+        "pt": "Regras de trotinetes em 8 países europeus · offline à mão"
+      }
     },
     {
       "id": "plakettenalarm",
@@ -16,7 +23,14 @@
       "name": "PlakettenAlarm",
       "tagline": "Nie wieder Plakette oder Versicherungsfrist verpassen",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.plakettenalarm.app",
-      "active": false
+      "active": false,
+      "taglines": {
+        "en": "Never miss an emissions sticker or insurance deadline again",
+        "es": "No vuelvas a perder la etiqueta ni el plazo del seguro",
+        "fr": "Ne rate plus jamais une vignette ou une échéance d'assurance",
+        "it": "Mai più scadenze di bollino o assicurazione dimenticate",
+        "pt": "Nunca mais percas o selo ou o prazo do seguro"
+      }
     },
     {
       "id": "scootkeeper",
@@ -24,7 +38,14 @@
       "name": "ScootKeeper",
       "tagline": "Wartung, Akku & Kilometer deines E-Scooters im Griff",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.scootkeeper.app",
-      "active": false
+      "active": false,
+      "taglines": {
+        "en": "Maintenance, battery and mileage of your e-scooter under control",
+        "es": "Mantenimiento, batería y kilómetros de tu patinete bajo control",
+        "fr": "Entretien, batterie et kilomètres de ta trottinette maîtrisés",
+        "it": "Manutenzione, batteria e chilometri del monopattino sotto controllo",
+        "pt": "Manutenção, bateria e quilómetros da tua trotinete sob controlo"
+      }
     },
     {
       "id": "familybash",
@@ -32,7 +53,14 @@
       "name": "FamilyBash",
       "tagline": "Party-Spiele für die ganze Familie – ein Handy, alle Generationen",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.familybash.app",
-      "active": false
+      "active": false,
+      "taglines": {
+        "en": "Party games for the whole family · one phone, every generation",
+        "es": "Juegos de fiesta para toda la familia · un móvil, todas las generaciones",
+        "fr": "Jeux de soirée pour toute la famille · un téléphone, toutes les générations",
+        "it": "Giochi di gruppo per tutta la famiglia · un telefono, tutte le generazioni",
+        "pt": "Jogos de festa para toda a família · um telemóvel, todas as gerações"
+      }
     },
     {
       "id": "bonsafe",
@@ -40,7 +68,14 @@
       "name": "BonSafe",
       "tagline": "Belege & Garantien im Blick – Fristen nie mehr verpassen",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.bonsafe.app",
-      "active": false
+      "active": false,
+      "taglines": {
+        "en": "Receipts and warranties at a glance · never miss a deadline",
+        "es": "Recibos y garantías a la vista · no pierdas ningún plazo",
+        "fr": "Tickets et garanties en un coup d'œil · plus aucune échéance ratée",
+        "it": "Scontrini e garanzie sempre sott'occhio · nessuna scadenza persa",
+        "pt": "Recibos e garantias à vista · nunca mais percas um prazo"
+      }
     },
     {
       "id": "zahntagebuch",
@@ -48,7 +83,14 @@
       "name": "ZahnTagebuch",
       "tagline": "Milchzähne & Zahnwechsel liebevoll dokumentieren – offline",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.zahntagebuch.app",
-      "active": false
+      "active": false,
+      "taglines": {
+        "en": "Lovingly document baby teeth and the change of teeth · offline",
+        "es": "Documenta con cariño los dientes de leche y su cambio · sin conexión",
+        "fr": "Documente avec soin les dents de lait et leur remplacement · hors ligne",
+        "it": "Documenta con cura i denti da latte e la permuta · offline",
+        "pt": "Documenta com carinho os dentes de leite e a troca · offline"
+      }
     },
     {
       "id": "sleeplog",
@@ -56,7 +98,14 @@
       "name": "SleepLog",
       "tagline": "24-Stunden-Schlafprotokoll fürs Baby – erfassen, auswerten, als PDF teilen",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.sleeplog.app",
-      "active": false
+      "active": false,
+      "taglines": {
+        "en": "24-hour sleep log for your baby · record, review, share as PDF",
+        "es": "Registro de sueño de 24 horas del bebé · anota, analiza y comparte en PDF",
+        "fr": "Journal de sommeil 24 h pour bébé · noter, analyser, partager en PDF",
+        "it": "Diario del sonno 24 ore del bebè · registra, analizza, condividi in PDF",
+        "pt": "Registo de sono de 24 horas do bebé · regista, analisa, partilha em PDF"
+      }
     },
     {
       "id": "nametrends",
@@ -64,7 +113,14 @@
       "name": "NameTrends",
       "tagline": "Vornamen-Trends aus offiziellen Daten – Ranking, Verlauf, Regionen",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.nametrends.app",
-      "active": false
+      "active": false,
+      "taglines": {
+        "en": "First-name trends from official data · ranking, history, regions",
+        "es": "Tendencias de nombres con datos oficiales · ranking, evolución, regiones",
+        "fr": "Tendances des prénoms d'après les données officielles · classement, historique, régions",
+        "it": "Tendenze dei nomi dai dati ufficiali · classifica, andamento, regioni",
+        "pt": "Tendências de nomes a partir de dados oficiais · ranking, evolução, regiões"
+      }
     }
   ]
 }
