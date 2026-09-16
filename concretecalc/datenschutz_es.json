@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-09-16.1",
+  "language": "es",
+  "title": "Política de privacidad",
+  "app": "ConcreteCalc",
+  "stand": "16 de septiembre de 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable del tratamiento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Alemania\nCorreo electrónico: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principio básico: tus datos permanecen en tu dispositivo",
+      "body": "ConcreteCalc calcula volúmenes de hormigón, sacos, cantidades de bloques y costes de material íntegramente en el dispositivo. Las medidas, los precios y los resultados solo se procesan como estado actual de la pantalla. De forma permanente solo se guardan la apariencia elegida, la reserva predeterminada y el último estado Pro confirmado. No hay cuenta de usuario, ni servidor propio, ni SDK de análisis o informes de fallos. Las copias de seguridad de Android están desactivadas."
+    },
+    {
+      "number": 3,
+      "heading": "Publicidad y consentimiento",
+      "body": "La versión gratuita muestra anuncios de Google AdMob. Antes de la primera solicitud de anuncios, la Google User Messaging Platform (UMP) comprueba si se necesita consentimiento y presenta el formulario de Google. Solo después se inicia el SDK de publicidad. Según la declaración de datos de Google, pueden tratarse la dirección IP y la ubicación aproximada derivada de ella, los identificadores de publicidad y de conjunto de aplicaciones, las interacciones con los anuncios y datos de diagnóstico con fines de publicidad, medición y prevención del fraude. Tus medidas, precios y resultados no se transmiten a Google. Puedes cambiar tu decisión en la aplicación en Ajustes → Configuración de privacidad, si UMP ofrece este acceso; además puedes restablecer o eliminar el identificador de publicidad en los ajustes de Android."
+    },
+    {
+      "number": 4,
+      "heading": "Compras a través de Google Play",
+      "body": "ConcreteCalc Pro elimina toda la publicidad y es una compra única dentro de la aplicación, sin suscripción. Google gestiona el pago y los datos de la cuenta como responsable independiente. La aplicación solo recibe el identificador del producto, el estado de la compra, el estado de confirmación y un token de compra para confirmarla, nunca datos de pago. El estado desbloqueado se guarda localmente y se vuelve a consultar en Google Play con regularidad para que también surtan efecto los reembolsos."
+    },
+    {
+      "number": 5,
+      "heading": "Compartir un resultado",
+      "body": "Solo cuando eliges «Compartir resultado» la aplicación entrega el texto del resultado junto con tus datos al diálogo de compartir de Android. Tú eliges la aplicación receptora; a su tratamiento se aplica su propia política de privacidad."
+    },
+    {
+      "number": 6,
+      "heading": "Eliminación de datos",
+      "body": "Las entradas desaparecen en cuanto las modificas o cierras la aplicación. Elimina los ajustes guardados y el estado Pro local en Android → Aplicaciones → ConcreteCalc → Borrar almacenamiento, o desinstalando la aplicación. El derecho Pro adquirido permanece en tu cuenta de Google Play y puede restaurarse en la aplicación."
+    },
+    {
+      "number": 7,
+      "heading": "Tus derechos",
+      "body": "Conforme al RGPD tienes, en particular, derecho de acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición, así como derecho a presentar una reclamación ante una autoridad de control. Los datos de la aplicación se guardan normalmente de forma local bajo tu control, por lo que puedes consultarlos, modificarlos o eliminarlos allí. Para los datos de una cuenta de Google utilizada voluntariamente, el contacto competente es Google."
+    },
+    {
+      "number": 8,
+      "heading": "Cambios de esta política",
+      "body": "Esta política se actualizará cuando cambien la aplicación, los servicios utilizados o el tratamiento de datos. La versión actual está disponible en la aplicación y en la dirección enlazada."
+    }
+  ]
+}

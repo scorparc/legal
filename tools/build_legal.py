@@ -21,10 +21,12 @@ APP_VERSIONS = {
     "scootkeeper": "2026-08-08.3",
     "plakettenalarm": "2026-08-08.3",
     "bonsafe": "2026-09-07.1",
+    "concretecalc": "2026-09-16.1",
 }
 LANGUAGES = ("de", "en", "es", "fr", "it", "pt")
 APPS = {
     "bonsafe": "BonSafe",
+    "concretecalc": "ConcreteCalc",
     "scootkeeper": "ScootKeeper",
     "plakettenalarm": "PlakettenAlarm",
     "zahntagebuch": "ZahnTagebuch",
@@ -246,6 +248,14 @@ COMMON = {
 
 
 APP_DATA = {
+    "concretecalc": {
+        "de": ("Grundprinzip: Deine Eingaben bleiben auf deinem Gerät", "ConcreteCalc berechnet Betonvolumen, Betonsäcke, Steinbedarf und Materialkosten vollständig auf dem Gerät. Maße, Preise und Ergebnisse werden nur im laufenden Bildschirmzustand verarbeitet. Dauerhaft gespeichert werden lediglich die gewählte Darstellung, die Standardreserve und der zuletzt bestätigte Pro-Status. Es gibt kein Nutzerkonto, keinen eigenen Server und keine Analyse- oder Crash-Reporting-SDKs. Android-Backups sind deaktiviert."),
+        "en": ("Core principle: your entries stay on your device", "ConcreteCalc calculates concrete volumes, bags, block quantities and material costs entirely on your device. Dimensions, prices and results are processed only as current screen state. Only the selected appearance, the default reserve and the last confirmed Pro status are stored permanently. There is no user account, no own server and no analytics or crash-reporting SDK. Android backups are disabled."),
+        "es": ("Principio básico: tus datos permanecen en tu dispositivo", "ConcreteCalc calcula volúmenes de hormigón, sacos, cantidades de bloques y costes de material íntegramente en el dispositivo. Las medidas, los precios y los resultados solo se procesan como estado actual de la pantalla. De forma permanente solo se guardan la apariencia elegida, la reserva predeterminada y el último estado Pro confirmado. No hay cuenta de usuario, ni servidor propio, ni SDK de análisis o informes de fallos. Las copias de seguridad de Android están desactivadas."),
+        "fr": ("Principe de base : tes saisies restent sur ton appareil", "ConcreteCalc calcule les volumes de béton, les sacs, les quantités de blocs et les coûts de matériaux entièrement sur l'appareil. Les dimensions, les prix et les résultats ne sont traités que comme état d'écran en cours. Seuls l'apparence choisie, la réserve par défaut et le dernier statut Pro confirmé sont conservés durablement. Il n'y a ni compte, ni serveur propre, ni SDK d'analyse ou de rapport de plantage. Les sauvegardes Android sont désactivées."),
+        "it": ("Principio di base: i tuoi dati restano sul dispositivo", "ConcreteCalc calcola volumi di calcestruzzo, sacchi, quantità di blocchi e costi dei materiali interamente sul dispositivo. Misure, prezzi e risultati vengono elaborati solo come stato attuale della schermata. In modo permanente vengono salvati soltanto l'aspetto scelto, la riserva predefinita e l'ultimo stato Pro confermato. Non esistono account utente, server propri né SDK di analisi o di segnalazione degli arresti anomali. I backup di Android sono disattivati."),
+        "pt": ("Princípio fundamental: os teus dados ficam no dispositivo", "A ConcreteCalc calcula volumes de betão, sacos, quantidades de blocos e custos de materiais inteiramente no dispositivo. Medidas, preços e resultados são tratados apenas como estado atual do ecrã. De forma permanente são guardados apenas o aspeto escolhido, a reserva predefinida e o último estado Pro confirmado. Não existe conta de utilizador, servidor próprio nem SDK de análise ou de relatórios de falhas. As cópias de segurança do Android estão desativadas."),
+    },
     "bonsafe": {
         "de": ("Grundprinzip: Deine Daten bleiben auf deinem Gerät", "BonSafe ist eine Offline-App zur Verwaltung von Kassenbons und Garantien. Händler, Kaufdatum, Betrag, Artikelbezeichnung, Kategorien, Notizen, Garantie- und Rückgabefristen sowie Belegfotos werden ausschließlich lokal gespeichert. Es ist kein Nutzerkonto erforderlich. Wir betreiben keinen eigenen Server und verwenden keine Analyse-, Tracking- oder Werbe-SDKs."),
         "en": ("Core principle: your data stays on your device", "BonSafe is an offline app for receipts and warranties. Retailer, purchase date, amount, item name, categories, notes, warranty and return deadlines, and receipt photos are stored exclusively locally. No user account is required. We operate no own server and use no analytics, tracking or advertising SDKs."),
@@ -322,6 +332,44 @@ APP_DATA = {
 
 
 FEATURES = {
+    "concretecalc": {
+        "de": [
+            ("Werbung und Einwilligung", "Die kostenlose Version zeigt Werbung von Google AdMob. Vor der ersten Anzeigenanfrage prüft die Google User Messaging Platform (UMP), ob eine Einwilligung erforderlich ist, und zeigt das Google-Formular. Erst danach wird das Werbe-SDK gestartet. Laut Googles Datendeklaration können dabei IP-Adresse und daraus abgeleiteter ungefährer Standort, Werbe- und App-Set-ID, Interaktionen mit Anzeigen sowie Diagnosedaten für Werbung, Messung und Betrugsprävention verarbeitet werden. Deine Maße, Preise und Ergebnisse werden nicht an Google übermittelt. Deine Entscheidung änderst du in der App unter Einstellungen → Datenschutzeinstellungen, sofern UMP diesen Einstieg bereitstellt; die Werbe-ID kannst du zusätzlich in den Android-Einstellungen zurücksetzen oder löschen."),
+            ("Käufe über Google Play", "ConcreteCalc Pro entfernt sämtliche Werbung und ist ein einmaliger In-App-Kauf ohne Abo. Google wickelt Zahlung und Kontodaten als eigenständiger Verantwortlicher ab. Die App erhält nur Produkt-ID, Kaufstatus, Bestätigungsstatus und einen Kauf-Token zur Bestätigung, keine Zahlungsdaten. Der freigeschaltete Status wird lokal gespeichert und regelmäßig erneut bei Google Play abgefragt, damit auch Erstattungen wirksam werden."),
+            ("Ergebnis teilen", "Erst wenn du „Ergebnis teilen“ auswählst, übergibt die App den angezeigten Ergebnistext samt deinen Eingaben an den Android-Teilen-Dialog. Du bestimmst die Empfänger-App; für deren Verarbeitung gilt deren Datenschutzerklärung."),
+            ("Datenlöschung", "Eingaben verschwinden, sobald du sie änderst oder die App beendest. Gespeicherte Einstellungen und den lokalen Pro-Status entfernst du über Android → Apps → ConcreteCalc → Speicher löschen oder durch Deinstallation. Ein gekaufter Pro-Anspruch bleibt in deinem Google-Play-Konto erhalten und lässt sich in der App wiederherstellen."),
+        ],
+        "en": [
+            ("Advertising and consent", "The free version shows Google AdMob ads. Before the first ad request, the Google User Messaging Platform (UMP) checks whether consent is required and presents Google's form. Only afterwards does the ads SDK start. According to Google's data disclosure, this can involve IP address and approximate location derived from it, advertising and app set IDs, ad interactions and diagnostic data for advertising, measurement and fraud prevention. Your dimensions, prices and results are not sent to Google. Change your choice in the app under Settings → Privacy settings when UMP offers this entry point; you can also reset or delete the advertising ID in Android settings."),
+            ("Purchases via Google Play", "ConcreteCalc Pro removes all advertising and is a one-time in-app purchase, not a subscription. Google handles payment and account data as an independent controller. The app receives only the product ID, purchase state, acknowledgement state and a purchase token used for acknowledgement, never payment details. The unlocked status is stored locally and queried again at Google Play regularly so that refunds take effect."),
+            ("Sharing a result", "Only when you choose Share result does the app hand the displayed result text including your entries to the Android share dialog. You choose the receiving app; its own privacy policy applies to what it does with the text."),
+            ("Deleting data", "Entries disappear as soon as you change them or close the app. Remove stored settings and the local Pro status via Android → Apps → ConcreteCalc → Clear storage, or by uninstalling. A purchased Pro entitlement stays with your Google Play account and can be restored in the app."),
+        ],
+        "es": [
+            ("Publicidad y consentimiento", "La versión gratuita muestra anuncios de Google AdMob. Antes de la primera solicitud de anuncios, la Google User Messaging Platform (UMP) comprueba si se necesita consentimiento y presenta el formulario de Google. Solo después se inicia el SDK de publicidad. Según la declaración de datos de Google, pueden tratarse la dirección IP y la ubicación aproximada derivada de ella, los identificadores de publicidad y de conjunto de aplicaciones, las interacciones con los anuncios y datos de diagnóstico con fines de publicidad, medición y prevención del fraude. Tus medidas, precios y resultados no se transmiten a Google. Puedes cambiar tu decisión en la aplicación en Ajustes → Configuración de privacidad, si UMP ofrece este acceso; además puedes restablecer o eliminar el identificador de publicidad en los ajustes de Android."),
+            ("Compras a través de Google Play", "ConcreteCalc Pro elimina toda la publicidad y es una compra única dentro de la aplicación, sin suscripción. Google gestiona el pago y los datos de la cuenta como responsable independiente. La aplicación solo recibe el identificador del producto, el estado de la compra, el estado de confirmación y un token de compra para confirmarla, nunca datos de pago. El estado desbloqueado se guarda localmente y se vuelve a consultar en Google Play con regularidad para que también surtan efecto los reembolsos."),
+            ("Compartir un resultado", "Solo cuando eliges «Compartir resultado» la aplicación entrega el texto del resultado junto con tus datos al diálogo de compartir de Android. Tú eliges la aplicación receptora; a su tratamiento se aplica su propia política de privacidad."),
+            ("Eliminación de datos", "Las entradas desaparecen en cuanto las modificas o cierras la aplicación. Elimina los ajustes guardados y el estado Pro local en Android → Aplicaciones → ConcreteCalc → Borrar almacenamiento, o desinstalando la aplicación. El derecho Pro adquirido permanece en tu cuenta de Google Play y puede restaurarse en la aplicación."),
+        ],
+        "fr": [
+            ("Publicité et consentement", "La version gratuite affiche des annonces Google AdMob. Avant la première demande d'annonce, la Google User Messaging Platform (UMP) vérifie si un consentement est nécessaire et présente le formulaire de Google. Le SDK publicitaire ne démarre qu'ensuite. Selon la déclaration de données de Google, cela peut impliquer l'adresse IP et la localisation approximative qui en découle, les identifiants publicitaire et d'ensemble d'applications, les interactions avec les annonces et des données de diagnostic à des fins de publicité, de mesure et de prévention de la fraude. Tes dimensions, prix et résultats ne sont pas transmis à Google. Tu peux modifier ton choix dans l'application sous Paramètres → Paramètres de confidentialité, si UMP propose cette entrée ; tu peux en outre réinitialiser ou supprimer l'identifiant publicitaire dans les paramètres Android."),
+            ("Achats via Google Play", "ConcreteCalc Pro supprime toute publicité et constitue un achat unique dans l'application, sans abonnement. Google gère le paiement et les données de compte en tant que responsable indépendant. L'application ne reçoit que l'identifiant du produit, l'état de l'achat, l'état de confirmation et un jeton d'achat servant à la confirmation, jamais de données de paiement. Le statut débloqué est conservé localement et réinterrogé régulièrement auprès de Google Play afin que les remboursements prennent effet."),
+            ("Partager un résultat", "Ce n'est que lorsque tu choisis « Partager le résultat » que l'application transmet le texte affiché et tes saisies à la boîte de dialogue de partage d'Android. Tu choisis l'application destinataire ; sa propre politique de confidentialité s'applique."),
+            ("Suppression des données", "Les saisies disparaissent dès que tu les modifies ou que tu quittes l'application. Supprime les réglages enregistrés et le statut Pro local via Android → Applications → ConcreteCalc → Effacer le stockage, ou en désinstallant l'application. Un droit Pro acheté reste associé à ton compte Google Play et peut être restauré dans l'application."),
+        ],
+        "it": [
+            ("Pubblicità e consenso", "La versione gratuita mostra annunci di Google AdMob. Prima della prima richiesta di annunci, la Google User Messaging Platform (UMP) verifica se è necessario il consenso e mostra il modulo di Google. Solo dopo viene avviato l'SDK pubblicitario. Secondo la dichiarazione sui dati di Google possono essere trattati l'indirizzo IP e la posizione approssimativa da esso derivata, gli identificatori pubblicitario e del set di app, le interazioni con gli annunci e dati diagnostici per pubblicità, misurazione e prevenzione delle frodi. Le tue misure, i prezzi e i risultati non vengono trasmessi a Google. Puoi modificare la tua scelta nell'app in Impostazioni → Impostazioni sulla privacy, se UMP mette a disposizione questo accesso; inoltre puoi reimpostare o eliminare l'ID pubblicitario nelle impostazioni di Android."),
+            ("Acquisti tramite Google Play", "ConcreteCalc Pro rimuove ogni pubblicità ed è un acquisto in-app una tantum, senza abbonamento. Google gestisce pagamento e dati dell'account come titolare autonomo. L'app riceve solo l'ID prodotto, lo stato dell'acquisto, lo stato di conferma e un token di acquisto per la conferma, mai dati di pagamento. Lo stato sbloccato viene salvato in locale e interrogato regolarmente presso Google Play, così che anche i rimborsi abbiano effetto."),
+            ("Condividere un risultato", "Solo quando scegli «Condividi risultato» l'app trasmette il testo del risultato con i tuoi dati alla finestra di condivisione di Android. Scegli tu l'app destinataria; al suo trattamento si applica la sua informativa sulla privacy."),
+            ("Cancellazione dei dati", "I dati inseriti scompaiono non appena li modifichi o chiudi l'app. Rimuovi le impostazioni salvate e lo stato Pro locale tramite Android → App → ConcreteCalc → Cancella archiviazione oppure disinstallando l'app. Il diritto Pro acquistato resta associato al tuo account Google Play e può essere ripristinato nell'app."),
+        ],
+        "pt": [
+            ("Publicidade e consentimento", "A versão gratuita mostra anúncios do Google AdMob. Antes do primeiro pedido de anúncios, a Google User Messaging Platform (UMP) verifica se é necessário consentimento e apresenta o formulário da Google. Só depois é iniciado o SDK de publicidade. De acordo com a declaração de dados da Google, podem ser tratados o endereço IP e a localização aproximada dele derivada, os identificadores de publicidade e de conjunto de aplicações, as interações com anúncios e dados de diagnóstico para publicidade, medição e prevenção de fraude. As tuas medidas, preços e resultados não são transmitidos à Google. Podes alterar a tua decisão na aplicação em Definições → Definições de privacidade, se a UMP disponibilizar este acesso; podes ainda repor ou eliminar o identificador de publicidade nas definições do Android."),
+            ("Compras através do Google Play", "O ConcreteCalc Pro remove toda a publicidade e é uma compra única na aplicação, sem subscrição. A Google trata o pagamento e os dados da conta como responsável autónomo. A aplicação recebe apenas o ID do produto, o estado da compra, o estado de confirmação e um token de compra para a confirmação, nunca dados de pagamento. O estado desbloqueado é guardado localmente e consultado regularmente no Google Play, para que os reembolsos também produzam efeito."),
+            ("Partilhar um resultado", "Só quando escolhes «Partilhar resultado» é que a aplicação entrega o texto do resultado com os teus dados à caixa de partilha do Android. És tu que escolhes a aplicação destinatária; ao tratamento dela aplica-se a respetiva política de privacidade."),
+            ("Eliminação de dados", "Os dados introduzidos desaparecem assim que os alteras ou fechas a aplicação. Remove as definições guardadas e o estado Pro local em Android → Aplicações → ConcreteCalc → Limpar armazenamento ou desinstalando a aplicação. Um direito Pro adquirido permanece na tua conta Google Play e pode ser restaurado na aplicação."),
+        ],
+    },
     "bonsafe": {
         "de": [
             ("Optionales Google-Drive-Backup (Pro-Funktion)", "Wenn du die Backup-Funktion aktiv nutzt, werden deine Belege einschließlich Fotos als Sicherungsdatei in den versteckten, app-eigenen Bereich (\"appDataFolder\") deines Google-Drive-Kontos hochgeladen. Die Übertragung erfolgt verschlüsselt (TLS). Wir selbst erhalten keinen Zugriff. Google Ireland Limited verarbeitet Kontodaten als eigenständiger Verantwortlicher gemäß der Google-Datenschutzerklärung. Für die Anmeldung erhält die App deine E-Mail-Adresse zur Anzeige des verbundenen Kontos. Du kannst das Backup beenden, dich abmelden und die Sicherung löschen. Ist die Sicherung eingerichtet, aktualisiert die App sie beim Start automatisch, sobald die letzte Sicherung mehr als sieben Tage zurückliegt. Dabei wird stets dieselbe Datei überschrieben; ältere Stände werden nicht aufbewahrt."),
@@ -573,6 +621,14 @@ STANDS = {
 # changed get a newer date — a global bump would date every other app's policy
 # forward without a single word having changed.
 APP_STANDS = {
+    "concretecalc": {
+        "de": "16. September 2026",
+        "en": "16 September 2026",
+        "es": "16 de septiembre de 2026",
+        "fr": "16 septembre 2026",
+        "it": "16 settembre 2026",
+        "pt": "16 de setembro de 2026",
+    },
     "bonsafe": {
         "de": "7. September 2026",
         "en": "7 September 2026",
@@ -654,7 +710,7 @@ def make_privacy(app_slug: str, language: str) -> dict:
         sections.append(
             {"number": 3, "heading": common["notifications_h"], "body": common["notifications_b"]}
         )
-    elif app_slug not in {"babylog", "familybash", "nametrends", "scootrules", "sleeplog"}:
+    elif app_slug not in {"babylog", "concretecalc", "familybash", "nametrends", "scootrules", "sleeplog"}:
         sections.extend(
             [
                 {"number": 3, "heading": common["photos_h"], "body": common["photos_b"]},
@@ -664,7 +720,7 @@ def make_privacy(app_slug: str, language: str) -> dict:
     features = SNACKBLOCKER_FEATURES[language] if app_slug == "snackblocker" else FEATURES[app_slug][language]
     for number, (heading, body) in enumerate(features, len(sections) + 1):
         sections.append({"number": number, "heading": heading, "body": body})
-    if app_slug not in {"plakettenalarm", "snackblocker"}:
+    if app_slug not in {"concretecalc", "plakettenalarm", "snackblocker"}:
         sync_body = SCOOTRULES_SYNC[language] if app_slug == "scootrules" else common["sync_b"]
         sections.append({"number": len(sections) + 1, "heading": common["sync_h"], "body": sync_body})
     rights_body = (

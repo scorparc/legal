@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-09-16.1",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "ConcreteCalc",
+  "stand": "16 septembre 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Allemagne\nE-mail : marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principe de base : tes saisies restent sur ton appareil",
+      "body": "ConcreteCalc calcule les volumes de béton, les sacs, les quantités de blocs et les coûts de matériaux entièrement sur l'appareil. Les dimensions, les prix et les résultats ne sont traités que comme état d'écran en cours. Seuls l'apparence choisie, la réserve par défaut et le dernier statut Pro confirmé sont conservés durablement. Il n'y a ni compte, ni serveur propre, ni SDK d'analyse ou de rapport de plantage. Les sauvegardes Android sont désactivées."
+    },
+    {
+      "number": 3,
+      "heading": "Publicité et consentement",
+      "body": "La version gratuite affiche des annonces Google AdMob. Avant la première demande d'annonce, la Google User Messaging Platform (UMP) vérifie si un consentement est nécessaire et présente le formulaire de Google. Le SDK publicitaire ne démarre qu'ensuite. Selon la déclaration de données de Google, cela peut impliquer l'adresse IP et la localisation approximative qui en découle, les identifiants publicitaire et d'ensemble d'applications, les interactions avec les annonces et des données de diagnostic à des fins de publicité, de mesure et de prévention de la fraude. Tes dimensions, prix et résultats ne sont pas transmis à Google. Tu peux modifier ton choix dans l'application sous Paramètres → Paramètres de confidentialité, si UMP propose cette entrée ; tu peux en outre réinitialiser ou supprimer l'identifiant publicitaire dans les paramètres Android."
+    },
+    {
+      "number": 4,
+      "heading": "Achats via Google Play",
+      "body": "ConcreteCalc Pro supprime toute publicité et constitue un achat unique dans l'application, sans abonnement. Google gère le paiement et les données de compte en tant que responsable indépendant. L'application ne reçoit que l'identifiant du produit, l'état de l'achat, l'état de confirmation et un jeton d'achat servant à la confirmation, jamais de données de paiement. Le statut débloqué est conservé localement et réinterrogé régulièrement auprès de Google Play afin que les remboursements prennent effet."
+    },
+    {
+      "number": 5,
+      "heading": "Partager un résultat",
+      "body": "Ce n'est que lorsque tu choisis « Partager le résultat » que l'application transmet le texte affiché et tes saisies à la boîte de dialogue de partage d'Android. Tu choisis l'application destinataire ; sa propre politique de confidentialité s'applique."
+    },
+    {
+      "number": 6,
+      "heading": "Suppression des données",
+      "body": "Les saisies disparaissent dès que tu les modifies ou que tu quittes l'application. Supprime les réglages enregistrés et le statut Pro local via Android → Applications → ConcreteCalc → Effacer le stockage, ou en désinstallant l'application. Un droit Pro acheté reste associé à ton compte Google Play et peut être restauré dans l'application."
+    },
+    {
+      "number": 7,
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Pour les données d'un compte Google utilisé volontairement, Google est l'interlocuteur compétent."
+    },
+    {
+      "number": 8,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible dans l'application et à l'adresse indiquée."
+    }
+  ]
+}

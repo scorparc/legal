@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-09-16.1",
+  "language": "en",
+  "title": "Privacy Policy",
+  "app": "ConcreteCalc",
+  "stand": "16 September 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nEmail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle: your entries stay on your device",
+      "body": "ConcreteCalc calculates concrete volumes, bags, block quantities and material costs entirely on your device. Dimensions, prices and results are processed only as current screen state. Only the selected appearance, the default reserve and the last confirmed Pro status are stored permanently. There is no user account, no own server and no analytics or crash-reporting SDK. Android backups are disabled."
+    },
+    {
+      "number": 3,
+      "heading": "Advertising and consent",
+      "body": "The free version shows Google AdMob ads. Before the first ad request, the Google User Messaging Platform (UMP) checks whether consent is required and presents Google's form. Only afterwards does the ads SDK start. According to Google's data disclosure, this can involve IP address and approximate location derived from it, advertising and app set IDs, ad interactions and diagnostic data for advertising, measurement and fraud prevention. Your dimensions, prices and results are not sent to Google. Change your choice in the app under Settings → Privacy settings when UMP offers this entry point; you can also reset or delete the advertising ID in Android settings."
+    },
+    {
+      "number": 4,
+      "heading": "Purchases via Google Play",
+      "body": "ConcreteCalc Pro removes all advertising and is a one-time in-app purchase, not a subscription. Google handles payment and account data as an independent controller. The app receives only the product ID, purchase state, acknowledgement state and a purchase token used for acknowledgement, never payment details. The unlocked status is stored locally and queried again at Google Play regularly so that refunds take effect."
+    },
+    {
+      "number": 5,
+      "heading": "Sharing a result",
+      "body": "Only when you choose Share result does the app hand the displayed result text including your entries to the Android share dialog. You choose the receiving app; its own privacy policy applies to what it does with the text."
+    },
+    {
+      "number": 6,
+      "heading": "Deleting data",
+      "body": "Entries disappear as soon as you change them or close the app. Remove stored settings and the local Pro status via Android → Apps → ConcreteCalc → Clear storage, or by uninstalling. A purchased Pro entitlement stays with your Google Play account and can be restored in the app."
+    },
+    {
+      "number": 7,
+      "heading": "Your rights",
+      "body": "Under the GDPR you have, in particular, the rights of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. App data is generally stored locally under your control, so you can inspect, change or delete it there. For data in a Google account used voluntarily, Google is the relevant contact."
+    },
+    {
+      "number": 8,
+      "heading": "Changes to this policy",
+      "body": "This privacy policy is updated when the app, the services used or the data processing changes. The current version is available in the app and at the linked address."
+    }
+  ]
+}

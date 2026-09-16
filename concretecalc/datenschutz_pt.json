@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-09-16.1",
+  "language": "pt",
+  "title": "Política de privacidade",
+  "app": "ConcreteCalc",
+  "stand": "16 de setembro de 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsável pelo tratamento",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Alemanha\nE-mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Princípio fundamental: os teus dados ficam no dispositivo",
+      "body": "A ConcreteCalc calcula volumes de betão, sacos, quantidades de blocos e custos de materiais inteiramente no dispositivo. Medidas, preços e resultados são tratados apenas como estado atual do ecrã. De forma permanente são guardados apenas o aspeto escolhido, a reserva predefinida e o último estado Pro confirmado. Não existe conta de utilizador, servidor próprio nem SDK de análise ou de relatórios de falhas. As cópias de segurança do Android estão desativadas."
+    },
+    {
+      "number": 3,
+      "heading": "Publicidade e consentimento",
+      "body": "A versão gratuita mostra anúncios do Google AdMob. Antes do primeiro pedido de anúncios, a Google User Messaging Platform (UMP) verifica se é necessário consentimento e apresenta o formulário da Google. Só depois é iniciado o SDK de publicidade. De acordo com a declaração de dados da Google, podem ser tratados o endereço IP e a localização aproximada dele derivada, os identificadores de publicidade e de conjunto de aplicações, as interações com anúncios e dados de diagnóstico para publicidade, medição e prevenção de fraude. As tuas medidas, preços e resultados não são transmitidos à Google. Podes alterar a tua decisão na aplicação em Definições → Definições de privacidade, se a UMP disponibilizar este acesso; podes ainda repor ou eliminar o identificador de publicidade nas definições do Android."
+    },
+    {
+      "number": 4,
+      "heading": "Compras através do Google Play",
+      "body": "O ConcreteCalc Pro remove toda a publicidade e é uma compra única na aplicação, sem subscrição. A Google trata o pagamento e os dados da conta como responsável autónomo. A aplicação recebe apenas o ID do produto, o estado da compra, o estado de confirmação e um token de compra para a confirmação, nunca dados de pagamento. O estado desbloqueado é guardado localmente e consultado regularmente no Google Play, para que os reembolsos também produzam efeito."
+    },
+    {
+      "number": 5,
+      "heading": "Partilhar um resultado",
+      "body": "Só quando escolhes «Partilhar resultado» é que a aplicação entrega o texto do resultado com os teus dados à caixa de partilha do Android. És tu que escolhes a aplicação destinatária; ao tratamento dela aplica-se a respetiva política de privacidade."
+    },
+    {
+      "number": 6,
+      "heading": "Eliminação de dados",
+      "body": "Os dados introduzidos desaparecem assim que os alteras ou fechas a aplicação. Remove as definições guardadas e o estado Pro local em Android → Aplicações → ConcreteCalc → Limpar armazenamento ou desinstalando a aplicação. Um direito Pro adquirido permanece na tua conta Google Play e pode ser restaurado na aplicação."
+    },
+    {
+      "number": 7,
+      "heading": "Os teus direitos",
+      "body": "Nos termos do RGPD tens, em particular, direito de acesso, retificação, apagamento, limitação do tratamento, portabilidade e oposição, bem como o direito de apresentar uma reclamação junto de uma autoridade de controlo. Os dados da aplicação são geralmente guardados localmente sob o teu controlo, pelo que podes consultá-los, alterá-los ou eliminá-los aí. Para os dados de uma conta Google utilizada voluntariamente, o contacto competente é o Google."
+    },
+    {
+      "number": 8,
+      "heading": "Alterações a esta política",
+      "body": "Esta política é atualizada quando mudam a aplicação, os serviços utilizados ou o tratamento de dados. A versão atual está disponível na aplicação e no endereço indicado."
+    }
+  ]
+}
