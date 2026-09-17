@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-16.1",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "SleepLog",
-  "stand": "8. August 2026",
+  "stand": "16. September 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Benachrichtigungen, Zeitzone und Dateien",
-      "body": "Wenn du Erinnerungen aktivierst, plant und zeigt die App eine tägliche lokale Benachrichtigung; unter Android wird dafür die Benachrichtigungsberechtigung abgefragt. Zur zeitgerechten Planung liest sie die Zeitzonenkennung des Geräts. Der Code fordert keine Standortberechtigung an und verwendet keine geografischen Standortdaten. SleepLog kann Daten als JSON-Sicherung oder CSV exportieren und importieren sowie PDFs erzeugen, drucken oder über den von dir geöffneten System-Teilen-Dialog teilen. Dateien werden lokal beziehungsweise temporär erstellt und gelangen erst durch deine Auswahl an die gewählte App oder empfangende Stelle. Die App enthält keine Kamera- oder Foto-Funktion."
+      "body": "Wenn du Erinnerungen aktivierst, plant die App eine tägliche lokale Benachrichtigung und fragt unter Android die Benachrichtigungsberechtigung ab. Für die Planung liest sie die Zeitzonenkennung, keine geografischen Standortdaten. SleepLog exportiert JSON-Sicherungen und CSV-Dateien, importiert JSON-Sicherungen und erzeugt PDFs zum Drucken oder Teilen. Beim Speichern wählst du den Zielort im Android-Dateidialog; dort kann auch Google Drive oder ein anderer eingerichteter Dokumentanbieter verfügbar sein. Die App enthält keine Google-Anmeldung, Drive-API oder automatische Cloud-Synchronisierung. Erst deine Auswahl übergibt die Datei an den Anbieter oder Empfänger; für dessen Verarbeitung gelten dessen Datenschutzbestimmungen. JSON-, CSV- und PDF-Dateien können Kinder- und Gesundheitsdaten im Klartext enthalten. Schütze exportierte Dateien selbst und lösche Kopien separat; das Löschen in SleepLog entfernt sie nicht. Temporäre Exportdateien liegen im App-Cache, bis sie durch die App, Android oder das Löschen des App-Speichers entfernt werden. Die App verwendet keine Kamera- oder Foto-Funktion."
     },
     {
       "number": 4,
@@ -29,12 +29,17 @@
     {
       "number": 5,
       "heading": "GitHub-Abrufe, externe Links und keine Analyse",
-      "body": "Die App lädt Rechtstexte zuerst aus einem lokalen Cache und danach aus gebündelten JSON-Dateien. Im Hintergrund versucht sie, Impressum und Datenschutzerklärung für alle unterstützten Sprachen von raw.githubusercontent.com/scorparc/legal zu aktualisieren. Nach vollständigem Erfolg geschieht dies höchstens einmal in 24 Stunden; bei Netzwerk-, HTTP- oder JSON-Fehlern bleiben Cache und Fallback gültig und ein späterer Versuch ist möglich. Dabei wird technisch bedingt die IP-Adresse an GitHub übertragen, nicht aber Protokoll-, Kinder- oder Nutzungsdaten. Eine Liste weiterer Apps kann ebenfalls von dort geladen werden. Auf deinen Tap können GitHub Pages, die Methodik-Website des Kinderspitals Zürich oder Store-Seiten geöffnet werden; dafür gelten die Datenschutzbestimmungen der jeweiligen Angebote. Im App-Code sind keine Analyse-, Werbe-, Crash-Reporting- oder Tracking-Dienste konfiguriert. Es gibt keine Google-Drive- oder andere Cloud-Backup-Integration; Android-System-Backups und Datenübertragungen sind deaktiviert. Rechtsgrundlage für den GitHub-Abruf ist unser berechtigtes Interesse an aktuellen Pflichtinformationen (Art. 6 Abs. 1 lit. f DSGVO)."
+      "body": "Die App lädt Rechtstexte zuerst aus einem lokalen Cache und danach aus gebündelten JSON-Dateien. Im Hintergrund versucht sie, Impressum und Datenschutzerklärung für alle unterstützten Sprachen von raw.githubusercontent.com/scorparc/legal zu aktualisieren. Ein Synchronisationsversuch erfolgt höchstens einmal in 24 Stunden, auch nach einem fehlgeschlagenen Versuch; bei Netzwerk-, HTTP- oder JSON-Fehlern bleiben Cache und Fallback gültig und ein späterer Versuch ist möglich. Dabei wird technisch bedingt die IP-Adresse an GitHub übertragen, nicht aber Protokoll-, Kinder- oder Nutzungsdaten. Eine Liste weiterer Apps kann ebenfalls von dort geladen werden. Auf deinen Tap können GitHub Pages, die Methodik-Website des Kinderspitals Zürich oder Store-Seiten geöffnet werden; dafür gelten die Datenschutzbestimmungen der jeweiligen Angebote. Im App-Code sind keine Analyse-, Werbe-, Crash-Reporting- oder Tracking-Dienste konfiguriert. Es gibt keine automatische Cloud-Sicherung; Android-System-Backups und Datenübertragungen sind deaktiviert. Rechtsgrundlage für den GitHub-Abruf ist unser berechtigtes Interesse an aktuellen Pflichtinformationen (Art. 6 Abs. 1 lit. f DSGVO)."
     },
     {
       "number": 6,
       "heading": "Löschung und deine Rechte",
       "body": "Du kannst einzelne Einträge oder Kinderprofile in der App löschen und die lokalen App-Daten über die Geräteeinstellungen entfernen. Nach der DSGVO hast du insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Soweit Daten ausschließlich auf deinem Gerät liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Für Daten, die Google im Rahmen eines Kaufs verarbeitet, ist Google der zuständige Ansprechpartner. Diese Erklärung wird bei Änderungen von Funktionen, Diensten oder Datenverarbeitungen angepasst; die aktuelle Fassung ist in der App und auf Wunsch im Browser in der gewählten Sprache verfügbar."
+    },
+    {
+      "number": 7,
+      "heading": "Optionale App-Sperre",
+      "body": "Die kostenlose App-Sperre verwendet unter Android die eingerichtete Geräte-PIN, das Muster oder Passwort. Android prüft die Eingabe; SleepLog erhält nur das Ergebnis, nicht die Zugangsdaten. Die Einstellung wird lokal gespeichert. Die App sperrt beim Verlassen und beim Neustart. Bei aktivierter Sperre wird der App-Inhalt in Bildschirmaufnahmen und der Übersicht zuletzt verwendeter Apps geschützt. Dies ist eine Zugangssperre, keine zusätzliche Verschlüsselung der Datenbank oder exportierter Dateien. Eine sichere Gerätesperre ist erforderlich."
     }
   ]
 }

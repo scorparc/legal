@@ -17,6 +17,7 @@ from pathlib import Path
 LEGAL = Path(__file__).resolve().parents[1]
 VERSION = "2026-08-08.2"
 APP_VERSIONS = {
+    "sleeplog": "2026-09-16.1",
     "scootrules": "2026-08-08.3",
     "scootkeeper": "2026-08-08.3",
     "plakettenalarm": "2026-08-08.3",

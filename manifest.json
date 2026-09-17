@@ -1,5 +1,6 @@
 {
   "schemaVersion": 1,
+  "appVersions": { "sleeplog": "2026-09-16.1" },
   "version": "2026-08-08.3",
   "effective": "2026-08-08",
   "languages": [

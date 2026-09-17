@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-16.1",
   "language": "es",
   "title": "Política de privacidad",
   "app": "SleepLog",
-  "stand": "8 de agosto de 2026",
+  "stand": "16 de septiembre de 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Notificaciones, zona horaria y archivos",
-      "body": "Si activas recordatorios, la aplicación programa y muestra una notificación local diaria; en Android solicita permiso para notificaciones. Para programarla a la hora correcta, lee el identificador de zona horaria del dispositivo. El código no solicita permiso de ubicación ni usa datos geográficos. SleepLog puede exportar e importar datos como copia JSON o CSV, y generar, imprimir o compartir PDF mediante el diálogo del sistema que abres. Los archivos se crean local o temporalmente y solo llegan a la aplicación o destinatario que eliges mediante tu selección. La aplicación no contiene función de cámara ni fotos."
+      "body": "Si activas los recordatorios, la aplicación programa una notificación local diaria y solicita el permiso de notificaciones de Android. Para ello utiliza el identificador de zona horaria del dispositivo, no la ubicación geográfica. SleepLog exporta copias JSON y archivos CSV, importa copias JSON y genera PDF para imprimir o compartir. Al guardar, eliges un destino en el selector de archivos de Android; Google Drive u otro proveedor de documentos configurado también puede estar disponible. La aplicación no incluye inicio de sesión de Google, API de Drive ni sincronización automática en la nube. Solo tu selección entrega el archivo al proveedor o destinatario; su tratamiento se rige por sus propias condiciones de privacidad. Los archivos JSON, CSV y PDF pueden contener datos de menores y salud en texto sin cifrar. Protege los archivos exportados y elimina las copias por separado; borrar datos en SleepLog no elimina esas copias. Las exportaciones temporales permanecen en la caché hasta que las elimine la aplicación, Android o el borrado del almacenamiento de la aplicación. No hay función de cámara ni fotos."
     },
     {
       "number": 4,
@@ -29,12 +29,17 @@
     {
       "number": 5,
       "heading": "Consultas a GitHub, enlaces externos y ausencia de análisis",
-      "body": "La aplicación carga los textos legales primero desde una caché local y después desde archivos JSON incluidos. En segundo plano intenta actualizar el aviso legal y la política de privacidad para todos los idiomas admitidos desde raw.githubusercontent.com/scorparc/legal. Tras una sincronización plenamente correcta ocurre como máximo una vez cada 24 horas; tras errores de red, HTTP o JSON, la caché y el respaldo siguen siendo válidos y puede haber otro intento. Esto transmite técnicamente la IP a GitHub, pero no datos de registro, menores ni uso. También se puede cargar allí una lista de otras aplicaciones. Al pulsar, pueden abrirse GitHub Pages, el sitio de metodología del Kinderspital Zürich o páginas de tienda; se aplican las condiciones de cada servicio. No hay configurados en el código servicios de análisis, publicidad, informes de fallos o seguimiento. No hay integración con Google Drive ni otra copia en la nube; las copias y transferencias del sistema Android están desactivadas. La base jurídica para la consulta a GitHub es nuestro interés legítimo en información obligatoria actualizada (art. 6.1.f RGPD)."
+      "body": "La aplicación carga los textos legales primero desde una caché local y después desde archivos JSON incluidos. En segundo plano intenta actualizar el aviso legal y la política de privacidad para todos los idiomas admitidos desde raw.githubusercontent.com/scorparc/legal. Se realiza un intento de sincronización como máximo cada 24 horas, incluso después de un intento fallido; tras errores de red, HTTP o JSON, la caché y el respaldo siguen siendo válidos y puede haber otro intento. Esto transmite técnicamente la IP a GitHub, pero no datos de registro, menores ni uso. También se puede cargar allí una lista de otras aplicaciones. Al pulsar, pueden abrirse GitHub Pages, el sitio de metodología del Kinderspital Zürich o páginas de tienda; se aplican las condiciones de cada servicio. No hay configurados en el código servicios de análisis, publicidad, informes de fallos o seguimiento. No hay copias automáticas en la nube; las copias y transferencias del sistema Android están desactivadas. La base jurídica para la consulta a GitHub es nuestro interés legítimo en información obligatoria actualizada (art. 6.1.f RGPD)."
     },
     {
       "number": 6,
       "heading": "Eliminación y tus derechos",
       "body": "Puedes eliminar entradas individuales o perfiles infantiles en la aplicación y borrar sus datos locales mediante los ajustes del dispositivo. Conforme al RGPD tienes, en particular, derechos de acceso, rectificación, supresión, limitación, portabilidad y oposición, así como el derecho a reclamar ante una autoridad de control. Si los datos están solo en tu dispositivo, puedes consultarlos, modificarlos o eliminarlos allí. Google es el contacto competente para los datos que trata como parte de una compra. Esta política se actualiza si cambian funciones, servicios o tratamientos; la versión actual está disponible en la aplicación y, si lo deseas, en el navegador en el idioma elegido."
+    },
+    {
+      "number": 7,
+      "heading": "Bloqueo opcional de la aplicación",
+      "body": "El bloqueo gratuito en Android utiliza el PIN, patrón o contraseña del dispositivo. Android verifica la credencial; SleepLog solo recibe el resultado, no la credencial. La configuración se guarda localmente. La aplicación se bloquea al salir y al reiniciarse. Cuando está activado, el contenido se protege en capturas de pantalla y en la vista de aplicaciones recientes. Es un bloqueo de acceso, no un cifrado adicional de la base de datos ni de los archivos exportados. Se requiere un bloqueo de pantalla seguro."
     }
   ]
 }

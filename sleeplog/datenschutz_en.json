@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-16.1",
   "language": "en",
   "title": "Privacy Policy",
   "app": "SleepLog",
-  "stand": "8 August 2026",
+  "stand": "16 September 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Notifications, time zone and files",
-      "body": "If you enable reminders, the app schedules and displays a daily local notification; on Android it requests notification permission for this purpose. To schedule it at the right time, it reads the device time-zone identifier. The code does not request location permission and does not use geographic location data. SleepLog can export and import data as a JSON backup or CSV, and generate, print or share PDFs through the system share dialog you open. Files are created locally or temporarily and reach the app or recipient you choose only through your selection. The app contains no camera or photo feature."
+      "body": "If you enable reminders, the app schedules a daily local notification and requests Android notification permission. Scheduling uses the device time-zone identifier, not geographic location. SleepLog exports JSON backups and CSV files, imports JSON backups, and generates PDFs for printing or sharing. When saving, you choose a destination in the Android file picker; Google Drive or another configured document provider may also be available there. The app has no Google sign-in, Drive API or automatic cloud synchronization. Only your selection passes the file to the provider or recipient; their privacy terms apply to their processing. JSON, CSV and PDF files may contain child and health data in plain text. Protect exported files yourself and delete copies separately; deleting data in SleepLog does not delete those copies. Temporary exports remain in the app cache until removed by the app, Android or clearing app storage. The app uses no camera or photo feature."
     },
     {
       "number": 4,
@@ -29,12 +29,17 @@
     {
       "number": 5,
       "heading": "GitHub retrievals, external links and no analytics",
-      "body": "The app loads legal texts first from a local cache and then from bundled JSON files. In the background it attempts to update the legal notice and privacy policy for all supported languages from raw.githubusercontent.com/scorparc/legal. After a fully successful sync, this happens at most once every 24 hours; after network, HTTP or JSON errors, the cache and fallback remain valid and a later attempt is possible. This technically transmits the IP address to GitHub, but not log, child or usage data. A list of further apps can also be loaded there. When you tap, GitHub Pages, the methodology website of Kinderspital Zürich or store pages can be opened; the privacy terms of the respective services apply. No analytics, advertising, crash-reporting or tracking services are configured in the app code. There is no Google Drive or other cloud-backup integration; Android system backups and data transfers are disabled. The legal basis for the GitHub retrieval is our legitimate interest in up-to-date mandatory information (Art. 6(1)(f) GDPR)."
+      "body": "The app loads legal texts first from a local cache and then from bundled JSON files. In the background it attempts to update the legal notice and privacy policy for all supported languages from raw.githubusercontent.com/scorparc/legal. A synchronization attempt occurs at most once every 24 hours, including after a failed attempt; after network, HTTP or JSON errors, the cache and fallback remain valid and a later attempt is possible. This technically transmits the IP address to GitHub, but not log, child or usage data. A list of further apps can also be loaded there. When you tap, GitHub Pages, the methodology website of Kinderspital Zürich or store pages can be opened; the privacy terms of the respective services apply. No analytics, advertising, crash-reporting or tracking services are configured in the app code. There is no automatic cloud backup; Android system backups and data transfers are disabled. The legal basis for the GitHub retrieval is our legitimate interest in up-to-date mandatory information (Art. 6(1)(f) GDPR)."
     },
     {
       "number": 6,
       "heading": "Deletion and your rights",
       "body": "You can delete individual entries or child profiles in the app and remove local app data through device settings. Under the GDPR, you have in particular the rights of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. Where data is stored only on your device, you can inspect, change or delete it there yourself. Google is the relevant contact for data it processes as part of a purchase. This policy is updated when functions, services or data processing change; the current version is available in the app and, if you wish, in the browser in the selected language."
+    },
+    {
+      "number": 7,
+      "heading": "Optional app lock",
+      "body": "The free Android app lock uses the configured device PIN, pattern or password. Android verifies the credential; SleepLog receives only the result, not the credential. The setting is stored locally. The app locks when you leave it and on restart. When enabled, the app content is protected in screen captures and the recent-apps overview. This is an access lock, not additional encryption of the database or exported files. A secure device screen lock is required."
     }
   ]
 }

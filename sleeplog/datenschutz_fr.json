@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-16.1",
   "language": "fr",
   "title": "Politique de confidentialité",
   "app": "SleepLog",
-  "stand": "8 août 2026",
+  "stand": "16 septembre 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Notifications, fuseau horaire et fichiers",
-      "body": "Si vous activez les rappels, l'application programme et affiche une notification locale quotidienne ; sur Android, elle demande l'autorisation de notification. Pour la programmer à la bonne heure, elle lit l'identifiant de fuseau horaire. Le code ne demande pas d'autorisation de localisation et n'utilise pas de données géographiques. SleepLog peut exporter et importer les données sous forme de sauvegarde JSON ou CSV, et générer, imprimer ou partager des PDF via la boîte de dialogue système ouverte par vous. Les fichiers sont créés localement ou temporairement et ne parviennent à l'application ou au destinataire choisi que par votre sélection. L'application ne comporte ni caméra ni fonction photo."
+      "body": "Si vous activez les rappels, l'application programme une notification locale quotidienne et demande l'autorisation de notification Android. Elle utilise l'identifiant du fuseau horaire, pas la position géographique. SleepLog exporte des sauvegardes JSON et des fichiers CSV, importe des sauvegardes JSON et génère des PDF à imprimer ou partager. Lors de l'enregistrement, vous choisissez une destination dans le sélecteur de fichiers Android ; Google Drive ou un autre fournisseur de documents configuré peut y être disponible. L'application n'intègre ni connexion Google, ni API Drive, ni synchronisation automatique dans le cloud. Seul votre choix transmet le fichier au fournisseur ou destinataire ; son traitement relève de ses propres règles de confidentialité. Les fichiers JSON, CSV et PDF peuvent contenir des données d'enfants et de santé en clair. Protégez les fichiers exportés et supprimez les copies séparément ; leur suppression dans SleepLog ne supprime pas ces copies. Les exports temporaires restent dans le cache jusqu'à leur suppression par l'application, Android ou l'effacement du stockage de l'application. Aucune fonction appareil photo ou photos n'est utilisée."
     },
     {
       "number": 4,
@@ -29,12 +29,17 @@
     {
       "number": 5,
       "heading": "Récupérations GitHub, liens externes et absence d'analyse",
-      "body": "L'application charge les textes juridiques d'abord depuis un cache local puis depuis les fichiers JSON intégrés. En arrière-plan, elle tente de mettre à jour les mentions légales et la politique de confidentialité pour toutes les langues prises en charge depuis raw.githubusercontent.com/scorparc/legal. Après une synchronisation entièrement réussie, cela a lieu au plus une fois toutes les 24 heures ; après des erreurs réseau, HTTP ou JSON, le cache et la solution de secours restent valides et une tentative ultérieure est possible. L'adresse IP est techniquement transmise à GitHub, mais pas les données de journal, d'enfants ou d'utilisation. Une liste d'autres applications peut aussi y être chargée. Un tap peut ouvrir GitHub Pages, le site de méthodologie du Kinderspital Zürich ou des pages de boutique ; les règles de chaque service s'appliquent. Aucun service d'analyse, publicité, rapport de panne ou suivi n'est configuré. Il n'y a pas d'intégration Google Drive ou autre sauvegarde cloud ; les sauvegardes et transferts Android sont désactivés. La base juridique de la récupération GitHub est notre intérêt légitime à disposer d'informations obligatoires à jour (art. 6, par. 1, f RGPD)."
+      "body": "L'application charge les textes juridiques d'abord depuis un cache local puis depuis les fichiers JSON intégrés. En arrière-plan, elle tente de mettre à jour les mentions légales et la politique de confidentialité pour toutes les langues prises en charge depuis raw.githubusercontent.com/scorparc/legal. Une tentative de synchronisation a lieu au plus toutes les 24 heures, y compris après un échec ; après des erreurs réseau, HTTP ou JSON, le cache et la solution de secours restent valides et une tentative ultérieure est possible. L'adresse IP est techniquement transmise à GitHub, mais pas les données de journal, d'enfants ou d'utilisation. Une liste d'autres applications peut aussi y être chargée. Un tap peut ouvrir GitHub Pages, le site de méthodologie du Kinderspital Zürich ou des pages de boutique ; les règles de chaque service s'appliquent. Aucun service d'analyse, publicité, rapport de panne ou suivi n'est configuré. Il n'y a pas de sauvegarde cloud automatique ; les sauvegardes et transferts Android sont désactivés. La base juridique de la récupération GitHub est notre intérêt légitime à disposer d'informations obligatoires à jour (art. 6, par. 1, f RGPD)."
     },
     {
       "number": 6,
       "heading": "Suppression et vos droits",
       "body": "Vous pouvez supprimer des entrées ou profils d'enfants dans l'application et supprimer les données locales dans les réglages de l'appareil. Le RGPD vous confère notamment les droits d'accès, rectification, effacement, limitation, portabilité et opposition, ainsi que le droit de réclamation auprès d'une autorité de contrôle. Si les données sont uniquement sur votre appareil, vous pouvez les consulter, modifier ou supprimer. Google est le contact compétent pour les données traitées dans le cadre d'un achat. Cette politique est mise à jour en cas de changement de fonctions, services ou traitements ; la version actuelle est disponible dans l'application et, si vous le souhaitez, dans le navigateur dans la langue choisie."
+    },
+    {
+      "number": 7,
+      "heading": "Verrouillage facultatif de l'application",
+      "body": "Le verrouillage gratuit sous Android utilise le code PIN, schéma ou mot de passe du téléphone. Android vérifie ces éléments ; SleepLog ne reçoit que le résultat, pas les identifiants. Le réglage est conservé localement. L'application se verrouille lorsqu'on la quitte et au redémarrage. Lorsqu'il est activé, son contenu est protégé dans les captures d'écran et l'aperçu des applications récentes. Il s'agit d'un verrou d'accès, pas d'un chiffrement supplémentaire de la base ou des fichiers exportés. Un verrouillage sécurisé du téléphone est nécessaire."
     }
   ]
 }
