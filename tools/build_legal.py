@@ -22,7 +22,7 @@ APP_VERSIONS = {
     "scootkeeper": "2026-08-08.3",
     "plakettenalarm": "2026-08-08.3",
     "bonsafe": "2026-09-07.1",
-    "concretecalc": "2026-09-16.1",
+    "concretecalc": "2026-09-24.1",
 }
 LANGUAGES = ("de", "en", "es", "fr", "it", "pt")
 APPS = {
@@ -623,12 +623,12 @@ STANDS = {
 # forward without a single word having changed.
 APP_STANDS = {
     "concretecalc": {
-        "de": "16. September 2026",
-        "en": "16 September 2026",
-        "es": "16 de septiembre de 2026",
-        "fr": "16 septembre 2026",
-        "it": "16 settembre 2026",
-        "pt": "16 de setembro de 2026",
+        "de": "24. September 2026",
+        "en": "24 September 2026",
+        "es": "24 de septiembre de 2026",
+        "fr": "24 septembre 2026",
+        "it": "24 settembre 2026",
+        "pt": "24 de setembro de 2026",
     },
     "bonsafe": {
         "de": "7. September 2026",
@@ -703,8 +703,11 @@ def make_privacy(app_slug: str, language: str) -> dict:
         if app_slug == "snackblocker"
         else APP_DATA[app_slug][language]
     )
+    controller = common["controller_b"]
+    if app_slug == "concretecalc":
+        controller = controller.replace("marc.neumann.neu@gmail.com", "marc.schissler@gmail.com")
     sections = [
-        {"number": 1, "heading": common["controller_h"], "body": common["controller_b"]},
+        {"number": 1, "heading": common["controller_h"], "body": controller},
         {"number": 2, "heading": app_heading, "body": app_body},
     ]
     if app_slug == "snackblocker":

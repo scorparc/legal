@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-16.1",
+  "version": "2026-09-24.1",
   "language": "it",
   "title": "Informativa sulla privacy",
   "app": "ConcreteCalc",
-  "stand": "16 settembre 2026",
+  "stand": "24 settembre 2026",
   "sections": [
     {
       "number": 1,
       "heading": "Titolare del trattamento",
-      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germania\nE-mail: marc.neumann.neu@gmail.com"
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germania\nE-mail: marc.schissler@gmail.com"
     },
     {
       "number": 2,

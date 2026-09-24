@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-16.1",
+  "version": "2026-09-24.1",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "ConcreteCalc",
-  "stand": "16. September 2026",
+  "stand": "24. September 2026",
   "sections": [
     {
       "number": 1,
       "heading": "Verantwortlicher",
-      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Deutschland\nE-Mail: marc.neumann.neu@gmail.com"
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Deutschland\nE-Mail: marc.schissler@gmail.com"
     },
     {
       "number": 2,
