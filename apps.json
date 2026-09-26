@@ -121,6 +121,21 @@
         "it": "Tendenze dei nomi dai dati ufficiali · classifica, andamento, regioni",
         "pt": "Tendências de nomes a partir de dados oficiais · ranking, evolução, regiões"
       }
+    },
+    {
+      "id": "papersnap",
+      "packageName": "de.papersnap.app",
+      "name": "PaperSnap",
+      "tagline": "Papier in Sekunden als PDF · Texterkennung direkt auf dem Gerät",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.papersnap.app",
+      "active": false,
+      "taglines": {
+        "en": "Paper to PDF in seconds · text recognition on your device",
+        "es": "De papel a PDF en segundos · reconocimiento de texto en el dispositivo",
+        "fr": "Du papier au PDF en quelques secondes · reconnaissance de texte sur l’appareil",
+        "it": "Dalla carta al PDF in pochi secondi · riconoscimento del testo sul dispositivo",
+        "pt": "De papel a PDF em segundos · reconhecimento de texto no aparelho"
+      }
     }
   ]
 }
