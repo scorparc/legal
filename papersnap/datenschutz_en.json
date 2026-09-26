@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-09-26.1",
+  "language": "en",
+  "title": "Privacy Policy",
+  "app": "PaperSnap",
+  "stand": "26 September 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Germany\nEmail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle: your documents stay on your device",
+      "body": "PaperSnap turns paper into PDF files. Scanned pages, generated PDFs, thumbnails, recognised text, document names and categories are stored exclusively in the app's own storage area on your device. There is no user account, no server of our own and no analytics or crash reporting SDKs. Your documents are never transferred to us."
+    },
+    {
+      "number": 3,
+      "heading": "Scanning and importing images",
+      "body": "The document scanner is provided by Google (ML Kit Document Scanner) through Google Play Services. The first time you use it, Google downloads a component to your device; for technical reasons your IP address is transmitted to Google in the process. Capture, edge detection and cropping then run on your device. The app does not request camera permission itself, it hands over to the Google scanner. Images are imported through the Android system picker, so the app only receives the files you select and gets no permission for the rest of your media library."
+    },
+    {
+      "number": 4,
+      "heading": "Text recognition",
+      "body": "Text recognition uses ML Kit Text Recognition. It ships with the app and runs entirely on your device, including without an internet connection. The recognised text is stored locally with your document so you can search it later. Neither page images nor recognised text are sent to us or to any third party."
+    },
+    {
+      "number": 5,
+      "heading": "Advertising and consent",
+      "body": "The free version is ad supported and shows ads from Google AdMob. Before the first ad request, the Google User Messaging Platform (UMP) checks whether consent is required and shows Google's form where applicable. Only then is the advertising SDK started. According to Google's data declaration this may involve the IP address and the approximate location derived from it, advertising and app set ID, interactions with ads and diagnostic data for advertising, measurement and fraud prevention. Your documents, page images and recognised text are not transmitted to Google. You can change your choice in the app under Settings → Privacy settings, where UMP offers that entry point; you can also reset or delete the advertising ID in the Android settings. PaperSnap Pro removes advertising entirely."
+    },
+    {
+      "number": 6,
+      "heading": "Purchases via Google Play",
+      "body": "PaperSnap Pro removes advertising, lifts the limits on pages per document and on daily text recognition, and unlocks all PDF tools as well as high scan quality. It is a one-time in-app purchase without a subscription. Google handles payment and account data as an independent controller. The app only receives the product ID, purchase state, acknowledgement state and a purchase token, never payment data. The unlocked state is cached locally and queried again at Google Play so that refunds take effect as well."
+    },
+    {
+      "number": 7,
+      "heading": "Sharing, exporting and backups",
+      "body": "A document only leaves the app when you actively choose to do so: via \"Share\", \"Open PDF\" or \"Save as…\". When saving you pick the destination folder in the Android file picker, when sharing you pick the receiving app; their own privacy policy applies to what they do with it. Android cloud backups are excluded for your PDFs, thumbnails and the database. They are carried over when you migrate directly to a new device using the Android transfer."
+    },
+    {
+      "number": 8,
+      "heading": "Deleting your data",
+      "body": "You delete individual documents in the app, which removes the PDF and its thumbnail from the device. All local data, including settings and the cached Pro state, is removed via Android → Apps → PaperSnap → Clear storage, or by uninstalling the app. Preview PDFs created for sharing are cleared from the cache automatically."
+    },
+    {
+      "number": 9,
+      "heading": "Your rights",
+      "body": "Under the GDPR you have in particular the right to information, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection authority. Because the app's data generally stays with you locally, you can view, change or delete it there yourself. For data that Google processes for advertising or purchases, Google is the responsible contact."
+    },
+    {
+      "number": 10,
+      "heading": "Changes to this policy",
+      "body": "This privacy policy is updated when the app, the services it uses or the data processing change. The current version is always available at the linked address."
+    }
+  ]
+}

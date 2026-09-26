@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-09-26.1",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "PaperSnap",
+  "stand": "26 septembre 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Allemagne\nE-mail : marc.neumann.neu@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principe de base : tes documents restent sur ton appareil",
+      "body": "PaperSnap transforme le papier en fichiers PDF. Les pages scannées, les PDF générés, les miniatures, le texte reconnu, les noms de documents et les catégories sont enregistrés exclusivement dans l'espace de stockage propre à l'application sur ton appareil. Il n'y a ni compte utilisateur, ni serveur qui nous appartienne, ni SDK d'analyse ou de rapport de plantage. Tes documents ne nous sont jamais transmis."
+    },
+    {
+      "number": 3,
+      "heading": "Numérisation et import d'images",
+      "body": "Le scanner de documents est fourni par Google (ML Kit Document Scanner) via les services Google Play. Lors de la première utilisation, Google télécharge un composant sur ton appareil ; pour des raisons techniques, ton adresse IP est transmise à Google à cette occasion. La capture, la détection des bords et le recadrage s'exécutent ensuite sur l'appareil. L'application ne demande pas elle-même l'autorisation d'accès à l'appareil photo, elle passe la main au scanner de Google. Les images s'importent via le sélecteur système d'Android : l'application ne reçoit que les fichiers que tu choisis et n'obtient aucune autorisation sur le reste de ta médiathèque."
+    },
+    {
+      "number": 4,
+      "heading": "Reconnaissance de texte",
+      "body": "La reconnaissance de texte utilise ML Kit Text Recognition. Elle est intégrée à l'application et fonctionne entièrement sur l'appareil, y compris sans connexion internet. Le texte reconnu est enregistré localement avec ton document afin que tu puisses le rechercher ensuite. Ni les images des pages ni le texte reconnu ne nous sont envoyés, ni à des tiers."
+    },
+    {
+      "number": 5,
+      "heading": "Publicité et consentement",
+      "body": "La version gratuite est financée par la publicité et affiche des annonces de Google AdMob. Avant la première demande d'annonce, la Google User Messaging Platform (UMP) vérifie si un consentement est requis et affiche le formulaire de Google le cas échéant. Le SDK publicitaire n'est lancé qu'ensuite. Selon la déclaration de données de Google, cela peut impliquer l'adresse IP et la localisation approximative qui en découle, l'identifiant publicitaire et d'ensemble d'applications, les interactions avec les annonces ainsi que des données de diagnostic à des fins de publicité, de mesure et de prévention de la fraude. Tes documents, les images de pages et le texte reconnu ne sont pas transmis à Google. Tu peux modifier ton choix dans l'application sous Paramètres → Paramètres de confidentialité, lorsque UMP propose ce point d'entrée ; tu peux également réinitialiser ou supprimer l'identifiant publicitaire dans les paramètres Android. Avec PaperSnap Pro, la publicité disparaît entièrement."
+    },
+    {
+      "number": 6,
+      "heading": "Achats via Google Play",
+      "body": "PaperSnap Pro supprime la publicité, lève les limites de pages par document et de reconnaissance de texte quotidienne, et débloque tous les outils PDF ainsi que la qualité de scan élevée. Il s'agit d'un achat unique dans l'application, sans abonnement. Google traite le paiement et les données de compte en tant que responsable indépendant. L'application ne reçoit que l'identifiant du produit, l'état de l'achat, l'état de confirmation et un jeton d'achat, jamais de données de paiement. L'état débloqué est mis en cache localement puis redemandé auprès de Google Play afin que les remboursements prennent effet eux aussi."
+    },
+    {
+      "number": 7,
+      "heading": "Partage, export et sauvegardes",
+      "body": "Un document ne quitte l'application que si tu le décides : via « Partager », « Ouvrir le PDF » ou « Enregistrer sous… ». Lors de l'enregistrement, tu choisis le dossier de destination dans le sélecteur de fichiers Android ; lors du partage, tu choisis l'application destinataire, dont la politique de confidentialité s'applique alors. Les sauvegardes cloud d'Android sont exclues pour tes PDF, les miniatures et la base de données. Elles sont en revanche reprises lors d'une migration directe vers un nouvel appareil via le transfert Android."
+    },
+    {
+      "number": 8,
+      "heading": "Suppression des données",
+      "body": "Tu supprimes chaque document dans l'application, ce qui retire du téléphone le PDF et sa miniature. Toutes les données locales, y compris les réglages et l'état Pro mis en cache, se suppriment via Android → Applications → PaperSnap → Effacer le stockage, ou en désinstallant l'application. Les PDF de prévisualisation créés pour le partage sont effacés automatiquement du cache."
+    },
+    {
+      "number": 9,
+      "heading": "Tes droits",
+      "body": "Le RGPD te donne notamment un droit d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que le droit d'introduire une réclamation auprès d'une autorité de protection des données. Comme les données de l'application restent en principe chez toi, tu peux les consulter, les modifier ou les supprimer toi-même. Pour les données traitées par Google à des fins publicitaires ou d'achat, Google est l'interlocuteur compétent."
+    },
+    {
+      "number": 10,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique de confidentialité est adaptée lorsque l'application, les services utilisés ou le traitement des données changent. La version en vigueur est toujours disponible à l'adresse indiquée."
+    }
+  ]
+}

@@ -37,6 +37,7 @@ APPS = {
     "scootrules": "ScootRules",
     "sleeplog": "SleepLog",
     "snackblocker": "SnackBlocker",
+    "papersnap": "PaperSnap",
 }
 def suffix(language: str) -> str:
     return "" if language == "de" else f"_{language}"
@@ -689,9 +690,11 @@ LINK_ONLY_RIGHTS = {
 
 
 def make_privacy(app_slug: str, language: str) -> dict:
-    # SleepLog's data flows require a reviewed, app-specific policy. Its JSON
-    # is canonical; this builder only turns it into HTML and optional assets.
-    if app_slug == "sleeplog":
+    # SleepLog and PaperSnap have data flows that the shared building blocks do
+    # not cover: PaperSnap hands scanning to Google Play Services, recognises
+    # text on device, shows AdMob ads and ships no in-app legal screen. For both
+    # apps the JSON is canonical and this builder only renders it to HTML.
+    if app_slug in {"sleeplog", "papersnap"}:
         source = LEGAL / app_slug / f"datenschutz{suffix(language)}.json"
         document = json.loads(source.read_text(encoding="utf-8"))
         if document.get("language") != language:
