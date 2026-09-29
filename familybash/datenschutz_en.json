@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-29.1",
   "language": "en",
   "title": "Privacy Policy",
   "app": "FamilyBash",
-  "stand": "8 August 2026",
+  "stand": "29 September 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Game content, Drive and deletion",
-      "body": "New game content may be fetched from GitHub at most daily; GitHub receives the IP address. The optional Pro backup uses your Google Drive appDataFolder; Google processes account and payment data. Delete local data and backups in the app or Google account."
+      "body": "You can request game content updates from GitHub in Settings; GitHub receives your IP address. The optional Pro backup uses your Google Drive appDataFolder; Google processes account and payment data. You can delete local file backups where you saved them and cloud backups in the app or your Google account. Android's automatic cloud backup for this app is disabled."
     },
     {
       "number": 4,

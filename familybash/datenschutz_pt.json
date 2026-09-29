@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-29.1",
   "language": "pt",
   "title": "Política de privacidade",
   "app": "FamilyBash",
-  "stand": "8 de agosto de 2026",
+  "stand": "29 de setembro de 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Conteúdo, Drive e eliminação",
-      "body": "Novos conteúdos podem ser obtidos do GitHub no máximo uma vez por dia; o GitHub recebe o endereço IP. A cópia Pro opcional usa o appDataFolder do Google Drive; a Google trata dados de conta e pagamento. Elimina dados na aplicação ou na conta Google."
+      "body": "Podes pedir atualizações de conteúdo do GitHub nas definições; o GitHub recebe o teu endereço IP. A cópia Pro opcional usa o appDataFolder do Google Drive; a Google trata dados de conta e pagamento. Podes eliminar cópias locais no local onde as guardaste e cópias na nuvem na aplicação ou na tua conta Google. A cópia automática do Android na nuvem está desativada para esta aplicação."
     },
     {
       "number": 4,

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-29.1",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "FamilyBash",
-  "stand": "8. August 2026",
+  "stand": "29. September 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Spielinhalte, Drive und Löschung",
-      "body": "Neue Spielinhalte können höchstens täglich von GitHub abgerufen werden; dabei wird die IP-Adresse an GitHub übertragen. Die optionale Pro-Sicherung nutzt den appDataFolder deines Google-Drive-Kontos; Google verarbeitet Konto- und Zahlungsdaten. Lokale Daten und Sicherungen kannst du in der App beziehungsweise im Google-Konto löschen."
+      "body": "Spielinhalte können auf deinen Wunsch in den Einstellungen von GitHub aktualisiert werden; dabei wird die IP-Adresse an GitHub übertragen. Die optionale Pro-Sicherung nutzt den appDataFolder deines Google-Drive-Kontos; Google verarbeitet Konto- und Zahlungsdaten. Lokale Datei-Backups kannst du im Speicherort der Datei, Cloud-Backups in der App oder im Google-Konto löschen. Die automatische Android-Cloud-Sicherung der App ist deaktiviert."
     },
     {
       "number": 4,

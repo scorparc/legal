@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-08-08.2",
+  "version": "2026-09-29.1",
   "language": "fr",
   "title": "Politique de confidentialité",
   "app": "FamilyBash",
-  "stand": "8 août 2026",
+  "stand": "29 septembre 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Contenu, Drive et suppression",
-      "body": "Les nouveaux contenus peuvent être récupérés sur GitHub au maximum une fois par jour ; GitHub reçoit l'adresse IP. La sauvegarde Pro facultative utilise l'appDataFolder de Google Drive ; Google traite les données de compte et de paiement. Supprime les données dans l'application ou le compte Google."
+      "body": "Tu peux demander une mise à jour du contenu depuis GitHub dans les paramètres ; GitHub reçoit ton adresse IP. La sauvegarde Pro facultative utilise l'appDataFolder de Google Drive ; Google traite les données de compte et de paiement. Tu peux supprimer les sauvegardes locales là où tu les as enregistrées et les sauvegardes en ligne dans l'application ou ton compte Google. La sauvegarde automatique Android dans le cloud est désactivée pour cette application."
     },
     {
       "number": 4,
