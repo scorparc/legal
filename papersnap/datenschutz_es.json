@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-26.1",
+  "version": "2026-09-29.1",
   "language": "es",
   "title": "Política de privacidad",
   "app": "PaperSnap",
-  "stand": "26 de septiembre de 2026",
+  "stand": "29 de septiembre de 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Publicidad y consentimiento",
-      "body": "La versión gratuita se financia con publicidad y muestra anuncios de Google AdMob. Antes de la primera solicitud de anuncios, la Google User Messaging Platform (UMP) comprueba si se requiere consentimiento y muestra el formulario de Google cuando procede. Solo después se inicia el SDK de publicidad. Según la declaración de datos de Google, en ese proceso pueden tratarse la dirección IP y la ubicación aproximada derivada de ella, el identificador de publicidad y de conjunto de apps, las interacciones con los anuncios y datos de diagnóstico para publicidad, medición y prevención del fraude. Tus documentos, las imágenes de las páginas y el texto reconocido no se transmiten a Google. Puedes cambiar tu decisión en la app en Ajustes → Ajustes de privacidad, siempre que UMP ofrezca ese acceso; además puedes restablecer o eliminar el identificador de publicidad en los ajustes de Android. Con PaperSnap Pro la publicidad desaparece por completo."
+      "body": "La versión gratuita se financia con publicidad y muestra anuncios de Google AdMob. Antes de la primera solicitud de anuncios, la Google User Messaging Platform (UMP) comprueba si se requiere consentimiento y muestra el formulario de Google cuando procede. Solo después se inicia el SDK de publicidad. Según la declaración de datos de Google, en ese proceso pueden tratarse la dirección IP y la ubicación aproximada derivada de ella, el identificador de publicidad y de conjunto de apps, las interacciones con los anuncios y datos de diagnóstico para publicidad, medición y prevención del fraude. Tus documentos, las imágenes de las páginas y el texto reconocido no se transmiten a Google. Puedes cambiar tu decisión en la app en Ajustes → Ajustes de privacidad, siempre que UMP ofrezca ese acceso; además puedes restablecer o eliminar el identificador de publicidad en los ajustes de Android. Al alcanzar el límite diario puedes ver voluntariamente un vídeo publicitario para obtener reconocimientos de texto adicionales durante el día en curso. Un vídeo solo se inicia si lo seleccionas expresamente. Con PaperSnap Pro la publicidad desaparece por completo."
     },
     {
       "number": 6,

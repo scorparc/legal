@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-26.1",
+  "version": "2026-09-29.1",
   "language": "en",
   "title": "Privacy Policy",
   "app": "PaperSnap",
-  "stand": "26 September 2026",
+  "stand": "29 September 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Advertising and consent",
-      "body": "The free version is ad supported and shows ads from Google AdMob. Before the first ad request, the Google User Messaging Platform (UMP) checks whether consent is required and shows Google's form where applicable. Only then is the advertising SDK started. According to Google's data declaration this may involve the IP address and the approximate location derived from it, advertising and app set ID, interactions with ads and diagnostic data for advertising, measurement and fraud prevention. Your documents, page images and recognised text are not transmitted to Google. You can change your choice in the app under Settings → Privacy settings, where UMP offers that entry point; you can also reset or delete the advertising ID in the Android settings. PaperSnap Pro removes advertising entirely."
+      "body": "The free version is ad supported and shows ads from Google AdMob. Before the first ad request, the Google User Messaging Platform (UMP) checks whether consent is required and shows Google's form where applicable. Only then is the advertising SDK started. According to Google's data declaration this may involve the IP address and the approximate location derived from it, advertising and app set ID, interactions with ads and diagnostic data for advertising, measurement and fraud prevention. Your documents, page images and recognised text are not transmitted to Google. You can change your choice in the app under Settings → Privacy settings, where UMP offers that entry point; you can also reset or delete the advertising ID in the Android settings. Once the daily limit is reached you can choose to watch an ad video to get additional text recognitions for the current day. A video only starts when you explicitly select it. PaperSnap Pro removes advertising entirely."
     },
     {
       "number": 6,
