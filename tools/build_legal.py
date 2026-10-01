@@ -38,6 +38,7 @@ APPS = {
     "sleeplog": "SleepLog",
     "snackblocker": "SnackBlocker",
     "papersnap": "PaperSnap",
+    "switchrush": "Switch Rush",
 }
 def suffix(language: str) -> str:
     return "" if language == "de" else f"_{language}"
@@ -694,7 +695,8 @@ def make_privacy(app_slug: str, language: str) -> dict:
     # not cover: PaperSnap hands scanning to Google Play Services, recognises
     # text on device, shows AdMob ads and ships no in-app legal screen. For both
     # apps the JSON is canonical and this builder only renders it to HTML.
-    if app_slug in {"sleeplog", "papersnap"}:
+    # Switch Rush (offline game with AdMob, no in-app legal sync) follows the same model.
+    if app_slug in {"sleeplog", "papersnap", "switchrush"}:
         source = LEGAL / app_slug / f"datenschutz{suffix(language)}.json"
         document = json.loads(source.read_text(encoding="utf-8"))
         if document.get("language") != language:

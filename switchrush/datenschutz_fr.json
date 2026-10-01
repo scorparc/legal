@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-01.1",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "Switch Rush",
+  "stand": "1er octobre 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Allemagne\nE-mail : marc.schissler@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principe de base : ta progression reste sur ton appareil",
+      "body": "Switch Rush est un jeu d'arcade hors ligne. Seuls les éléments suivants sont enregistrés, localement sur ton appareil : meilleur score et meilleur score du jour, solde de pièces, skins achetés et sélectionnés, nombre de parties, temps de jeu total, progression du défi du jour ainsi que les réglages du son et des vibrations. Il n'y a ni compte utilisateur, ni serveur propre, ni SDK d'analyse ou de rapport de plantage. Les sons sont générés dans l'application ; le micro, la caméra, la localisation et les contacts ne sont pas utilisés. L'application utilise l'autorisation Android « vibreur » pour le retour haptique."
+    },
+    {
+      "number": 3,
+      "heading": "Publicité et consentement",
+      "body": "Switch Rush est gratuit et financé par des annonces Google AdMob : bannières dans les menus, annonces plein écran occasionnelles uniquement entre deux parties et vidéos récompensées qui ne démarrent que si tu les choisis expressément (continuer une fois ou tripler tes pièces). Avant la première demande d'annonce, Google User Messaging Platform (UMP) vérifie si un consentement est nécessaire et affiche le cas échéant le formulaire de Google. Ce n'est qu'ensuite que le SDK publicitaire est lancé. Selon la déclaration de données de Google, l'adresse IP et la localisation approximative qui en découle, l'identifiant publicitaire et l'identifiant de groupe d'applications, les interactions avec les annonces ainsi que des données de diagnostic peuvent être traités à des fins de publicité, de mesure et de prévention de la fraude. Ta progression n'est pas transmise à Google. Tu peux modifier ton choix dans l'application sous Paramètres → Confidentialité et publicité, si UMP propose cette entrée ; tu peux aussi réinitialiser ou supprimer l'identifiant publicitaire dans les paramètres Android. La base juridique est ton consentement (art. 6, par. 1, point a du RGPD) ou, pour les annonces non personnalisées, notre intérêt légitime à financer l'application gratuite (art. 6, par. 1, point f du RGPD)."
+    },
+    {
+      "number": 4,
+      "heading": "Sauvegarde Android",
+      "body": "Afin de conserver ta progression lors d'un changement d'appareil, la sauvegarde Android est limitée au fichier de progression du jeu. Tu définis si et où les données sont sauvegardées dans les paramètres Android de ton compte Google ; Google en est responsable de manière indépendante. Les données du SDK publicitaire ne sont pas sauvegardées."
+    },
+    {
+      "number": 5,
+      "heading": "Liens externes",
+      "body": "Si tu ouvres la politique de confidentialité ou les mentions légales depuis les paramètres, la page correspondante sur GitHub Pages (scorparc.github.io) s'ouvre dans ton navigateur. Cette opération transmet techniquement ton adresse IP à GitHub."
+    },
+    {
+      "number": 6,
+      "heading": "Suppression des données",
+      "body": "Supprime toutes les données locales via Android → Applications → Switch Rush → Effacer le stockage, ou en désinstallant l'application. Une sauvegarde Android se supprime dans ton compte Google."
+    },
+    {
+      "number": 7,
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Pour les données que Google traite dans le cadre de la publicité ou des sauvegardes, Google est l'interlocuteur compétent."
+    },
+    {
+      "number": 8,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible à l'adresse indiquée."
+    }
+  ]
+}
