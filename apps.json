@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "note": "Zentrale Cross-Promotion-Liste aller Vardholt-Apps. Eine App zeigt einen Eintrag nur, wenn active:true UND ihr eigener packageName in showIn steht; sich selbst nie. Reihenfolge = Reihenfolge in dieser Liste. Aenderungen wirken ohne App-Update nach dem naechsten Sync (24h). App-Versionen vor Schema 2 ignorieren showIn und zeigen alle aktiven Eintraege: erst neue Versionen ausrollen, dann active setzen. Entwicklerlink: siehe developer (in den Apps als Konstante hinterlegt). Standard: Marcs Memory cross-promo-standard.",
   "developer": {
     "name": "Vardholt",
@@ -13,7 +13,7 @@
       "name": "ScootRules",
       "tagline": "E-Scooter-Regeln für 8 europäische Länder – offline griffbereit",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.scootrules.app",
-      "active": false,
+      "active": true,
       "taglines": {
         "en": "E-scooter rules for 8 European countries · offline at hand",
         "es": "Normas de patinetes en 8 países europeos · siempre sin conexión",
@@ -31,7 +31,7 @@
       "name": "PlakettenAlarm",
       "tagline": "Nie wieder Plakette oder Versicherungsfrist verpassen",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.plakettenalarm.app",
-      "active": false,
+      "active": true,
       "taglines": {
         "en": "Never miss your e-scooter insurance plate renewal",
         "es": "No olvides renovar la placa del seguro de tu patinete",
@@ -49,7 +49,7 @@
       "name": "ScootKeeper",
       "tagline": "Wartung, Akku & Kilometer deines E-Scooters im Griff",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.scootkeeper.app",
-      "active": false,
+      "active": true,
       "taglines": {
         "en": "Maintenance, battery and mileage of your e-scooter under control",
         "es": "Mantenimiento, batería y kilómetros de tu patinete bajo control",
@@ -84,7 +84,7 @@
       "name": "BonSafe",
       "tagline": "Belege & Garantien im Blick – Fristen nie mehr verpassen",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.bonsafe.app",
-      "active": false,
+      "active": true,
       "taglines": {
         "en": "Receipts and warranties at a glance · never miss a deadline",
         "es": "Recibos y garantías a la vista · no pierdas ningún plazo",
@@ -92,7 +92,9 @@
         "it": "Scontrini e garanzie sempre sott'occhio · nessuna scadenza persa",
         "pt": "Recibos e garantias à vista · nunca mais percas um prazo"
       },
-      "showIn": []
+      "showIn": [
+        "de.papersnap.app"
+      ]
     },
     {
       "id": "zahntagebuch",
@@ -148,7 +150,7 @@
       "name": "PaperSnap",
       "tagline": "Papier in Sekunden als PDF · Texterkennung direkt auf dem Gerät",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.papersnap.app",
-      "active": false,
+      "active": true,
       "taglines": {
         "en": "Paper to PDF in seconds · text recognition on your device",
         "es": "De papel a PDF en segundos · reconocimiento de texto en el dispositivo",
