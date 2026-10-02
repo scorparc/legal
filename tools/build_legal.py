@@ -17,6 +17,7 @@ from pathlib import Path
 LEGAL = Path(__file__).resolve().parents[1]
 VERSION = "2026-08-08.2"
 APP_VERSIONS = {
+    "arrowescape": "2026-10-03.1",
     "switchrush": "2026-10-03.1",
     "sleeplog": "2026-09-16.1",
     "scootrules": "2026-08-08.3",
@@ -27,6 +28,7 @@ APP_VERSIONS = {
 }
 LANGUAGES = ("de", "en", "es", "fr", "it", "pt")
 APPS = {
+    "arrowescape": "Arrow Escape",
     "bonsafe": "BonSafe",
     "concretecalc": "ConcreteCalc",
     "scootkeeper": "ScootKeeper",
@@ -697,7 +699,7 @@ def make_privacy(app_slug: str, language: str) -> dict:
     # text on device, shows AdMob ads and ships no in-app legal screen. For both
     # apps the JSON is canonical and this builder only renders it to HTML.
     # Switch Rush (offline game with AdMob, no in-app legal sync) follows the same model.
-    if app_slug in {"sleeplog", "papersnap", "switchrush"}:
+    if app_slug in {"sleeplog", "papersnap", "switchrush", "arrowescape"}:
         source = LEGAL / app_slug / f"datenschutz{suffix(language)}.json"
         document = json.loads(source.read_text(encoding="utf-8"))
         if document.get("language") != language:

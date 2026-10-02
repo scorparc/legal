@@ -218,6 +218,22 @@
         "pt": "Tendências de nomes a partir de dados oficiais · ranking, evolução, regiões"
       },
       "showIn": []
+    },
+    {
+      "id": "arrowescape",
+      "packageName": "de.arrowescape.app",
+      "name": "Arrow Escape",
+      "tagline": "Pfeilrätsel mit Leveln und Tages-Challenge – offline spielbar",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.arrowescape.app",
+      "active": false,
+      "taglines": {
+        "en": "Arrow puzzles with levels and a daily challenge · playable offline",
+        "es": "Puzles de flechas con niveles y reto diario · sin conexión",
+        "fr": "Puzzles de flèches avec niveaux et défi quotidien · hors ligne",
+        "it": "Puzzle di frecce con livelli e sfida giornaliera · offline",
+        "pt": "Puzzles de setas com níveis e desafio diário · offline"
+      },
+      "showIn": []
     }
   ]
 }

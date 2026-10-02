@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-03.1",
+  "language": "de",
+  "title": "Datenschutzerklärung",
+  "app": "Arrow Escape",
+  "stand": "3. Oktober 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Verantwortlicher",
+      "body": "Marc Neumann, Schwabenstraße 47, 71101 Schönaich, Deutschland\nE-Mail: marc.neumann.neu@gmail.com"
+    },
+    {
+      "heading": "Lokale Spieldaten",
+      "body": "Arrow Escape speichert Spielfortschritt, Levelsterne, Rekorde, Tagesaufgaben, Serien, Münzen, Booster, Designs, Kaufstatus und Einstellungen in einer DataStore-Datei auf deinem Gerät. Es gibt kein Nutzerkonto, keinen eigenen Server und kein Analyse- oder Crash-Reporting-SDK. Kamera, Mikrofon, Kontakte und präziser Standort werden nicht verwendet. Teilen öffnet nur auf deinen Wunsch den Android-Teilen-Dialog mit einer lokal erstellten Ergebnisgrafik.",
+      "number": 2
+    },
+    {
+      "heading": "Werbung und Einwilligung",
+      "body": "Google AdMob zeigt gelegentliche Vollbildanzeigen zwischen Spielen und freiwillige Belohnungsvideos für Weiterspielen, Booster oder zusätzliche Münzen. Es gibt keine Banner. Vor Anzeigenanfragen prüft die Google User Messaging Platform (UMP), ob eine Einwilligung erforderlich ist, und zeigt gegebenenfalls ein Formular. Die App fordert Anzeigen nur an, wenn UMP dies erlaubt. Google kann IP-Adresse (und daraus abgeleiteten ungefähren Standort), Werbe- und App-Set-ID, App-Interaktionen und Diagnosedaten für Werbung, Messung und Betrugsprävention verarbeiten. Den UMP-Einstieg findest du unter Einstellungen, sofern er für dich erforderlich ist. Die Werbe-ID kannst du in Android zurücksetzen oder löschen. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) beziehungsweise für zulässige nicht personalisierte Werbung das berechtigte Interesse an der Finanzierung der App (Art. 6 Abs. 1 lit. f DSGVO).",
+      "number": 3
+    },
+    {
+      "heading": "Käufe und Play-Dienste",
+      "body": "Der einmalige Kauf „Werbung entfernen“ läuft über Google Play Billing; er entfernt Unterbrechungswerbung, freiwillige Belohnungsvideos bleiben verfügbar. Google verarbeitet Kauf- und Zahlungsdaten nach eigenen Regeln. Die App erhält den Kaufstatus und speichert die Berechtigung lokal; sie erhält keine Zahlungsdaten. Nach passenden Spielergebnissen kann die Google-Play-In-App-Bewertung aufgerufen werden. Dabei wird kein Spielstand an Google übergeben.",
+      "number": 4
+    },
+    {
+      "heading": "Android-Sicherung",
+      "body": "Die Android-Sicherung und Geräteübertragung sind auf die DataStore-Datei mit dem Spielfortschritt beschränkt. Ob eine Cloud-Sicherung stattfindet, bestimmen deine Android- und Google-Kontoeinstellungen. Daten des Werbe-SDK werden nicht durch die App gesichert.",
+      "number": 5
+    },
+    {
+      "heading": "Löschung",
+      "body": "Lokale Daten löschst du über Android → Apps → Arrow Escape → Speicher löschen oder durch Deinstallation. Eine vorhandene Android-Cloud-Sicherung verwaltest du im Google-Konto. Da es kein App-Konto und keinen eigenen Server gibt, existiert keine gesonderte Löschanfrage für einen Server-Spielstand.",
+      "number": 6
+    },
+    {
+      "number": 7,
+      "heading": "Deine Rechte",
+      "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Für Daten, die Google im Rahmen von Werbung oder Sicherungen verarbeitet, ist Google der zuständige Ansprechpartner."
+    },
+    {
+      "number": 8,
+      "heading": "Änderungen dieser Erklärung",
+      "body": "Diese Datenschutzerklärung wird bei Änderungen der App, der eingesetzten Dienste oder der Datenverarbeitung angepasst. Die jeweils aktuelle Fassung ist unter der verlinkten Adresse abrufbar."
+    }
+  ]
+}
