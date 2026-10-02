@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "updated": "2026-10-03",
-  "note": "Zentrale Cross-Promotion-Liste aller Vardholt-Apps. Eine App zeigt einen Eintrag nur, wenn active:true UND ihr eigener packageName in showIn steht; sich selbst nie. Reihenfolge = Reihenfolge in dieser Liste. Aenderungen wirken ohne App-Update nach dem naechsten Sync (24h). App-Versionen vor Schema 2 ignorieren showIn und zeigen alle aktiven Eintraege: erst neue Versionen ausrollen, dann active setzen. Entwicklerlink: siehe developer (in den Apps als Konstante hinterlegt). Standard: Marcs Memory cross-promo-standard.",
+  "note": "Zentrale Cross-Promotion-Liste aller Vardholt-Apps. Eine App zeigt einen Eintrag nur, wenn active:true UND ihr eigener packageName in showIn steht; sich selbst nie. Reihenfolge = Reihenfolge in dieser Liste. Aenderungen wirken ohne App-Update nach dem naechsten Sync (24h). App-Versionen vor Schema 2 ignorieren showIn und zeigen alle aktiven Eintraege: erst neue Versionen ausrollen, dann active setzen. Entwicklerlink: siehe developer (in den Apps als Konstante hinterlegt). Standard und Ablauf: CROSS_PROMO.md in diesem Repo.",
   "developer": {
     "name": "Vardholt",
     "url": "https://play.google.com/store/apps/developer?id=Vardholt"
@@ -22,7 +22,8 @@
         "pt": "Regras de trotinetes em 8 países europeus · offline à mão"
       },
       "showIn": [
-        "de.plakettenalarm.app"
+        "de.plakettenalarm.app",
+        "de.scootkeeper.app"
       ]
     },
     {
@@ -40,7 +41,8 @@
         "pt": "Nunca mais te esqueças de renovar a placa do seguro"
       },
       "showIn": [
-        "de.scootrules.app"
+        "de.scootrules.app",
+        "de.scootkeeper.app"
       ]
     },
     {
@@ -63,37 +65,41 @@
       ]
     },
     {
-      "id": "familybash",
-      "packageName": "de.familybash.app",
-      "name": "FamilyBash",
-      "tagline": "Party-Spiele für die ganze Familie – ein Handy, alle Generationen",
-      "storeUrl": "https://play.google.com/store/apps/details?id=de.familybash.app",
+      "id": "babylog",
+      "packageName": "de.babylog.app",
+      "name": "BabyLog",
+      "tagline": "Stillen, Schlaf, Windeln & mehr – werbefrei und offline",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.babylog.app",
       "active": false,
       "taglines": {
-        "en": "Party games for the whole family · one phone, every generation",
-        "es": "Juegos de fiesta para toda la familia · un móvil, todas las generaciones",
-        "fr": "Jeux de soirée pour toute la famille · un téléphone, toutes les générations",
-        "it": "Giochi di gruppo per tutta la famiglia · un telefono, tutte le generazioni",
-        "pt": "Jogos de festa para toda a família · um telemóvel, todas as gerações"
-      },
-      "showIn": []
-    },
-    {
-      "id": "bonsafe",
-      "packageName": "de.bonsafe.app",
-      "name": "BonSafe",
-      "tagline": "Belege & Garantien im Blick – Fristen nie mehr verpassen",
-      "storeUrl": "https://play.google.com/store/apps/details?id=de.bonsafe.app",
-      "active": true,
-      "taglines": {
-        "en": "Receipts and warranties at a glance · never miss a deadline",
-        "es": "Recibos y garantías a la vista · no pierdas ningún plazo",
-        "fr": "Tickets et garanties en un coup d'œil · plus aucune échéance ratée",
-        "it": "Scontrini e garanzie sempre sott'occhio · nessuna scadenza persa",
-        "pt": "Recibos e garantias à vista · nunca mais percas um prazo"
+        "en": "Feeding, sleep, diapers & more · ad-free and offline",
+        "es": "Tomas, sueño, pañales y más · sin anuncios y sin conexión",
+        "fr": "Tétées, sommeil, couches et plus · sans pub et hors ligne",
+        "it": "Poppate, sonno, pannolini e altro · senza pubblicità e offline",
+        "pt": "Mamadas, sono, fraldas e mais · sem anúncios e offline"
       },
       "showIn": [
-        "de.papersnap.app"
+        "de.sleeplog.app",
+        "de.zahntagebuch.app"
+      ]
+    },
+    {
+      "id": "sleeplog",
+      "packageName": "de.sleeplog.app",
+      "name": "SleepLog",
+      "tagline": "24-Stunden-Schlafprotokoll fürs Baby – erfassen, auswerten, als PDF teilen",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.sleeplog.app",
+      "active": false,
+      "taglines": {
+        "en": "24-hour sleep log for your baby · record, review, share as PDF",
+        "es": "Registro de sueño de 24 horas del bebé · anota, analiza y comparte en PDF",
+        "fr": "Journal de sommeil 24 h pour bébé · noter, analyser, partager en PDF",
+        "it": "Diario del sonno 24 ore del bebè · registra, analizza, condividi in PDF",
+        "pt": "Registo de sono de 24 horas do bebé · regista, analisa, partilha em PDF"
+      },
+      "showIn": [
+        "de.babylog.app",
+        "de.zahntagebuch.app"
       ]
     },
     {
@@ -110,39 +116,36 @@
         "it": "Documenta con cura i denti da latte e la permuta · offline",
         "pt": "Documenta com carinho os dentes de leite e a troca · offline"
       },
-      "showIn": []
+      "showIn": [
+        "de.babylog.app",
+        "de.sleeplog.app"
+      ],
+      "names": {
+        "en": "Tooth Diary",
+        "es": "Tooth Diary",
+        "fr": "Tooth Diary",
+        "it": "Tooth Diary",
+        "pt": "Tooth Diary"
+      }
     },
     {
-      "id": "sleeplog",
-      "packageName": "de.sleeplog.app",
-      "name": "SleepLog",
-      "tagline": "24-Stunden-Schlafprotokoll fürs Baby – erfassen, auswerten, als PDF teilen",
-      "storeUrl": "https://play.google.com/store/apps/details?id=de.sleeplog.app",
+      "id": "familybash",
+      "packageName": "de.familybash.app",
+      "name": "FamilyBash",
+      "tagline": "Party-Spiele für die ganze Familie – ein Handy, alle Generationen",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.familybash.app",
       "active": false,
       "taglines": {
-        "en": "24-hour sleep log for your baby · record, review, share as PDF",
-        "es": "Registro de sueño de 24 horas del bebé · anota, analiza y comparte en PDF",
-        "fr": "Journal de sommeil 24 h pour bébé · noter, analyser, partager en PDF",
-        "it": "Diario del sonno 24 ore del bebè · registra, analizza, condividi in PDF",
-        "pt": "Registo de sono de 24 horas do bebé · regista, analisa, partilha em PDF"
+        "en": "Party games for the whole family · one phone, every generation",
+        "es": "Juegos de fiesta para toda la familia · un móvil, todas las generaciones",
+        "fr": "Jeux de soirée pour toute la famille · un téléphone, toutes les générations",
+        "it": "Giochi di gruppo per tutta la famiglia · un telefono, tutte le generazioni",
+        "pt": "Jogos de festa para toda a família · um telemóvel, todas as gerações"
       },
-      "showIn": []
-    },
-    {
-      "id": "nametrends",
-      "packageName": "de.nametrends.app",
-      "name": "NameTrends",
-      "tagline": "Vornamen-Trends aus offiziellen Daten – Ranking, Verlauf, Regionen",
-      "storeUrl": "https://play.google.com/store/apps/details?id=de.nametrends.app",
-      "active": false,
-      "taglines": {
-        "en": "First-name trends from official data · ranking, history, regions",
-        "es": "Tendencias de nombres con datos oficiales · ranking, evolución, regiones",
-        "fr": "Tendances des prénoms d'après les données officielles · classement, historique, régions",
-        "it": "Tendenze dei nomi dai dati ufficiali · classifica, andamento, regioni",
-        "pt": "Tendências de nomes a partir de dados oficiais · ranking, evolução, regiões"
-      },
-      "showIn": []
+      "showIn": [
+        "de.babylog.app",
+        "de.zahntagebuch.app"
+      ]
     },
     {
       "id": "papersnap",
@@ -159,8 +162,62 @@
         "pt": "De papel a PDF em segundos · reconhecimento de texto no aparelho"
       },
       "showIn": [
-        "de.bonsafe.app"
+        "de.bonsafe.app",
+        "de.concretecalc.app"
       ]
+    },
+    {
+      "id": "bonsafe",
+      "packageName": "de.bonsafe.app",
+      "name": "BonSafe",
+      "tagline": "Belege & Garantien im Blick – Fristen nie mehr verpassen",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.bonsafe.app",
+      "active": true,
+      "taglines": {
+        "en": "Receipts and warranties at a glance · never miss a deadline",
+        "es": "Recibos y garantías a la vista · no pierdas ningún plazo",
+        "fr": "Tickets et garanties en un coup d'œil · plus aucune échéance ratée",
+        "it": "Scontrini e garanzie sempre sott'occhio · nessuna scadenza persa",
+        "pt": "Recibos e garantias à vista · nunca mais percas um prazo"
+      },
+      "showIn": [
+        "de.papersnap.app",
+        "de.concretecalc.app"
+      ]
+    },
+    {
+      "id": "concretecalc",
+      "packageName": "de.concretecalc.app",
+      "name": "ConcreteCalc",
+      "tagline": "Beton, Fundamente und Materialkosten offline berechnen",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.concretecalc.app",
+      "active": false,
+      "taglines": {
+        "en": "Calculate concrete, footings and material costs offline",
+        "es": "Calcula hormigón, cimientos y costes de material sin conexión",
+        "fr": "Calcule béton, fondations et coût des matériaux hors ligne",
+        "it": "Calcola calcestruzzo, fondazioni e costi dei materiali offline",
+        "pt": "Calcula betão, fundações e custos de material offline"
+      },
+      "showIn": [
+        "de.papersnap.app"
+      ]
+    },
+    {
+      "id": "nametrends",
+      "packageName": "de.nametrends.app",
+      "name": "NameTrends",
+      "tagline": "Vornamen-Trends aus offiziellen Daten – Ranking, Verlauf, Regionen",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.nametrends.app",
+      "active": false,
+      "taglines": {
+        "en": "First-name trends from official data · ranking, history, regions",
+        "es": "Tendencias de nombres con datos oficiales · ranking, evolución, regiones",
+        "fr": "Tendances des prénoms d'après les données officielles · classement, historique, régions",
+        "it": "Tendenze dei nomi dai dati ufficiali · classifica, andamento, regioni",
+        "pt": "Tendências de nomes a partir de dados oficiais · ranking, evolução, regiões"
+      },
+      "showIn": []
     }
   ]
 }
