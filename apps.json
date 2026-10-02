@@ -1,6 +1,11 @@
 {
-  "updated": "2026-07-06",
-  "note": "Zentrale Cross-Promotion-Liste für alle Apps von Marc Neumann. Jede App zeigt nur EINTRÄGE MIT active:true UND fremdem packageName (die eigene App wird anhand des packageName herausgefiltert). Sobald eine App im Play Store live ist: hier active auf true setzen + committen – die anderen Apps blenden sie beim nächsten Sync automatisch ein, ohne App-Update.",
+  "schemaVersion": 2,
+  "updated": "2026-10-02",
+  "note": "Zentrale Cross-Promotion-Liste aller Vardholt-Apps. Eine App zeigt einen Eintrag nur, wenn active:true UND ihr eigener packageName in showIn steht; sich selbst nie. Reihenfolge = Reihenfolge in dieser Liste. Aenderungen wirken ohne App-Update nach dem naechsten Sync (24h). App-Versionen vor Schema 2 ignorieren showIn und zeigen alle aktiven Eintraege: erst neue Versionen ausrollen, dann active setzen. Entwicklerlink: siehe developer (in den Apps als Konstante hinterlegt). Standard: Marcs Memory cross-promo-standard.",
+  "developer": {
+    "name": "Vardholt",
+    "url": "https://play.google.com/store/apps/developer?id=Vardholt"
+  },
   "apps": [
     {
       "id": "scootrules",
@@ -15,7 +20,10 @@
         "fr": "Règles des trottinettes dans 8 pays européens · hors ligne",
         "it": "Regole per monopattini in 8 paesi europei · sempre offline",
         "pt": "Regras de trotinetes em 8 países europeus · offline à mão"
-      }
+      },
+      "showIn": [
+        "de.plakettenalarm.app"
+      ]
     },
     {
       "id": "plakettenalarm",
@@ -25,12 +33,15 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=de.plakettenalarm.app",
       "active": false,
       "taglines": {
-        "en": "Never miss an emissions sticker or insurance deadline again",
-        "es": "No vuelvas a perder la etiqueta ni el plazo del seguro",
-        "fr": "Ne rate plus jamais une vignette ou une échéance d'assurance",
-        "it": "Mai più scadenze di bollino o assicurazione dimenticate",
-        "pt": "Nunca mais percas o selo ou o prazo do seguro"
-      }
+        "en": "Never miss your e-scooter insurance plate renewal",
+        "es": "No olvides renovar la placa del seguro de tu patinete",
+        "fr": "N'oublie plus de renouveler la plaque d'assurance de ta trottinette",
+        "it": "Non dimenticare più il rinnovo della targhetta assicurativa",
+        "pt": "Nunca mais te esqueças de renovar a placa do seguro"
+      },
+      "showIn": [
+        "de.scootrules.app"
+      ]
     },
     {
       "id": "scootkeeper",
@@ -45,7 +56,11 @@
         "fr": "Entretien, batterie et kilomètres de ta trottinette maîtrisés",
         "it": "Manutenzione, batteria e chilometri del monopattino sotto controllo",
         "pt": "Manutenção, bateria e quilómetros da tua trotinete sob controlo"
-      }
+      },
+      "showIn": [
+        "de.scootrules.app",
+        "de.plakettenalarm.app"
+      ]
     },
     {
       "id": "familybash",
@@ -60,7 +75,8 @@
         "fr": "Jeux de soirée pour toute la famille · un téléphone, toutes les générations",
         "it": "Giochi di gruppo per tutta la famiglia · un telefono, tutte le generazioni",
         "pt": "Jogos de festa para toda a família · um telemóvel, todas as gerações"
-      }
+      },
+      "showIn": []
     },
     {
       "id": "bonsafe",
@@ -75,7 +91,8 @@
         "fr": "Tickets et garanties en un coup d'œil · plus aucune échéance ratée",
         "it": "Scontrini e garanzie sempre sott'occhio · nessuna scadenza persa",
         "pt": "Recibos e garantias à vista · nunca mais percas um prazo"
-      }
+      },
+      "showIn": []
     },
     {
       "id": "zahntagebuch",
@@ -90,7 +107,8 @@
         "fr": "Documente avec soin les dents de lait et leur remplacement · hors ligne",
         "it": "Documenta con cura i denti da latte e la permuta · offline",
         "pt": "Documenta com carinho os dentes de leite e a troca · offline"
-      }
+      },
+      "showIn": []
     },
     {
       "id": "sleeplog",
@@ -105,7 +123,8 @@
         "fr": "Journal de sommeil 24 h pour bébé · noter, analyser, partager en PDF",
         "it": "Diario del sonno 24 ore del bebè · registra, analizza, condividi in PDF",
         "pt": "Registo de sono de 24 horas do bebé · regista, analisa, partilha em PDF"
-      }
+      },
+      "showIn": []
     },
     {
       "id": "nametrends",
@@ -120,7 +139,8 @@
         "fr": "Tendances des prénoms d'après les données officielles · classement, historique, régions",
         "it": "Tendenze dei nomi dai dati ufficiali · classifica, andamento, regioni",
         "pt": "Tendências de nomes a partir de dados oficiais · ranking, evolução, regiões"
-      }
+      },
+      "showIn": []
     },
     {
       "id": "papersnap",
@@ -135,7 +155,10 @@
         "fr": "Du papier au PDF en quelques secondes · reconnaissance de texte sur l’appareil",
         "it": "Dalla carta al PDF in pochi secondi · riconoscimento del testo sul dispositivo",
         "pt": "De papel a PDF em segundos · reconhecimento de texto no aparelho"
-      }
+      },
+      "showIn": [
+        "de.bonsafe.app"
+      ]
     }
   ]
 }
