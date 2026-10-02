@@ -17,7 +17,7 @@ from pathlib import Path
 LEGAL = Path(__file__).resolve().parents[1]
 VERSION = "2026-08-08.2"
 APP_VERSIONS = {
-    "arrowescape": "2026-10-03.1",
+    "arrowescape": "2026-10-03.2",
     "switchrush": "2026-10-03.1",
     "sleeplog": "2026-09-16.1",
     "scootrules": "2026-08-08.3",
@@ -28,7 +28,7 @@ APP_VERSIONS = {
 }
 LANGUAGES = ("de", "en", "es", "fr", "it", "pt")
 APPS = {
-    "arrowescape": "Arrow Escape",
+    "arrowescape": "Arrowtide",
     "bonsafe": "BonSafe",
     "concretecalc": "ConcreteCalc",
     "scootkeeper": "ScootKeeper",

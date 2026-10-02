@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-03.1",
+  "version": "2026-10-03.2",
   "language": "en",
   "title": "Privacy Policy",
-  "app": "Arrow Escape",
+  "app": "Arrowtide",
   "stand": "3 October 2026",
   "sections": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "heading": "Local game data",
-      "body": "Arrow Escape stores progress, level stars, records, daily challenges, streaks, coins, boosters, themes, purchase status and settings in a DataStore file on your device. There is no user account, own server, analytics SDK or crash-reporting SDK. Camera, microphone, contacts and precise location are not used. Sharing opens the Android share sheet only when you choose it, with a result image created locally.",
+      "body": "Arrowtide stores progress, level stars, records, daily challenges, streaks, coins, boosters, themes, purchase status and settings in a DataStore file on your device. There is no user account, own server, analytics SDK or crash-reporting SDK. Camera, microphone, contacts and precise location are not used. Sharing opens the Android share sheet only when you choose it, with a result image created locally.",
       "number": 2
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "heading": "Deletion",
-      "body": "Delete local data through Android → Apps → Arrow Escape → Clear storage or by uninstalling. Manage any Android cloud backup in your Google account. Since there is no app account or own server, there is no separate deletion request for server-side game progress.",
+      "body": "Delete local data through Android → Apps → Arrowtide → Clear storage or by uninstalling. Manage any Android cloud backup in your Google account. Since there is no app account or own server, there is no separate deletion request for server-side game progress.",
       "number": 6
     },
     {

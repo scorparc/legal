@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-03.1",
+  "version": "2026-10-03.2",
   "language": "fr",
   "title": "Politique de confidentialité",
-  "app": "Arrow Escape",
+  "app": "Arrowtide",
   "stand": "3 octobre 2026",
   "sections": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "heading": "Données de jeu locales",
-      "body": "Arrow Escape conserve progression, étoiles, records, défis quotidiens, séries, pièces, bonus, thèmes, statut d'achat et réglages dans un fichier DataStore sur ton appareil. Il n'y a ni compte, ni serveur propre, ni SDK d'analyse ou de rapport de plantage. La caméra, le micro, les contacts et la position précise ne sont pas utilisés. Le partage ouvre la feuille Android seulement à ta demande, avec une image créée localement.",
+      "body": "Arrowtide conserve progression, étoiles, records, défis quotidiens, séries, pièces, bonus, thèmes, statut d'achat et réglages dans un fichier DataStore sur ton appareil. Il n'y a ni compte, ni serveur propre, ni SDK d'analyse ou de rapport de plantage. La caméra, le micro, les contacts et la position précise ne sont pas utilisés. Le partage ouvre la feuille Android seulement à ta demande, avec une image créée localement.",
       "number": 2
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "heading": "Suppression",
-      "body": "Efface les données locales via Android → Applications → Arrow Escape → Effacer le stockage ou en désinstallant l'app. Gère les sauvegardes Android dans ton compte Google. Sans compte ni serveur propre, il n'existe pas de demande distincte de suppression d'une progression sur serveur.",
+      "body": "Efface les données locales via Android → Applications → Arrowtide → Effacer le stockage ou en désinstallant l'app. Gère les sauvegardes Android dans ton compte Google. Sans compte ni serveur propre, il n'existe pas de demande distincte de suppression d'une progression sur serveur.",
       "number": 6
     },
     {

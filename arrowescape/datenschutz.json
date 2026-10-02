@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-03.1",
+  "version": "2026-10-03.2",
   "language": "de",
   "title": "Datenschutzerklärung",
-  "app": "Arrow Escape",
+  "app": "Arrowtide",
   "stand": "3. Oktober 2026",
   "sections": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "heading": "Lokale Spieldaten",
-      "body": "Arrow Escape speichert Spielfortschritt, Levelsterne, Rekorde, Tagesaufgaben, Serien, Münzen, Booster, Designs, Kaufstatus und Einstellungen in einer DataStore-Datei auf deinem Gerät. Es gibt kein Nutzerkonto, keinen eigenen Server und kein Analyse- oder Crash-Reporting-SDK. Kamera, Mikrofon, Kontakte und präziser Standort werden nicht verwendet. Teilen öffnet nur auf deinen Wunsch den Android-Teilen-Dialog mit einer lokal erstellten Ergebnisgrafik.",
+      "body": "Arrowtide speichert Spielfortschritt, Levelsterne, Rekorde, Tagesaufgaben, Serien, Münzen, Booster, Designs, Kaufstatus und Einstellungen in einer DataStore-Datei auf deinem Gerät. Es gibt kein Nutzerkonto, keinen eigenen Server und kein Analyse- oder Crash-Reporting-SDK. Kamera, Mikrofon, Kontakte und präziser Standort werden nicht verwendet. Teilen öffnet nur auf deinen Wunsch den Android-Teilen-Dialog mit einer lokal erstellten Ergebnisgrafik.",
       "number": 2
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "heading": "Löschung",
-      "body": "Lokale Daten löschst du über Android → Apps → Arrow Escape → Speicher löschen oder durch Deinstallation. Eine vorhandene Android-Cloud-Sicherung verwaltest du im Google-Konto. Da es kein App-Konto und keinen eigenen Server gibt, existiert keine gesonderte Löschanfrage für einen Server-Spielstand.",
+      "body": "Lokale Daten löschst du über Android → Apps → Arrowtide → Speicher löschen oder durch Deinstallation. Eine vorhandene Android-Cloud-Sicherung verwaltest du im Google-Konto. Da es kein App-Konto und keinen eigenen Server gibt, existiert keine gesonderte Löschanfrage für einen Server-Spielstand.",
       "number": 6
     },
     {

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-03.1",
+  "version": "2026-10-03.2",
   "language": "pt",
   "title": "Política de privacidade",
-  "app": "Arrow Escape",
+  "app": "Arrowtide",
   "stand": "3 de outubro de 2026",
   "sections": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "heading": "Dados locais do jogo",
-      "body": "Arrow Escape guarda progresso, estrelas, recordes, desafios diários, sequências, moedas, reforços, temas, estado de compra e definições num ficheiro DataStore no dispositivo. Não há conta, servidor próprio nem SDK de análise ou relatórios de falhas. Câmara, microfone, contactos e localização precisa não são usados. A partilha abre a folha do Android só quando a escolhes, com uma imagem criada localmente.",
+      "body": "Arrowtide guarda progresso, estrelas, recordes, desafios diários, sequências, moedas, reforços, temas, estado de compra e definições num ficheiro DataStore no dispositivo. Não há conta, servidor próprio nem SDK de análise ou relatórios de falhas. Câmara, microfone, contactos e localização precisa não são usados. A partilha abre a folha do Android só quando a escolhes, com uma imagem criada localmente.",
       "number": 2
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "heading": "Eliminação",
-      "body": "Apaga os dados locais em Android → Apps → Arrow Escape → Limpar armazenamento ou desinstalando a app. Gere as cópias Android na conta Google. Como não há conta nem servidor próprio, não existe pedido separado para apagar progresso de um servidor.",
+      "body": "Apaga os dados locais em Android → Apps → Arrowtide → Limpar armazenamento ou desinstalando a app. Gere as cópias Android na conta Google. Como não há conta nem servidor próprio, não existe pedido separado para apagar progresso de um servidor.",
       "number": 6
     },
     {
