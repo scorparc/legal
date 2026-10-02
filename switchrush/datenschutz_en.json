@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-01.1",
+  "version": "2026-10-03.1",
   "language": "en",
   "title": "Privacy Policy",
   "app": "Switch Rush",
-  "stand": "1 October 2026",
+  "stand": "3 October 2026",
   "sections": [
     {
       "number": 1,
@@ -28,8 +28,8 @@
     },
     {
       "number": 5,
-      "heading": "External links",
-      "body": "If you open the privacy policy or legal notice from the settings, the corresponding page on GitHub Pages (scorparc.github.io) opens in your browser. This technically transmits your IP address to GitHub."
+      "heading": "Fetching and updating the legal texts",
+      "body": "To keep the legal notice and privacy policy current, the app fetches the JSON versions only from raw.githubusercontent.com at most once every 24 hours and stores them locally. This technically transmits your IP address to GitHub. Without an internet connection, the versions bundled with the app are shown. If you select “Open in browser”, the matching HTML version is opened through GitHub Pages in an external application. The fetch is based on our legitimate interest in keeping mandatory information current (Art. 6(1)(f) GDPR)."
     },
     {
       "number": 6,

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-01.1",
+  "version": "2026-10-03.1",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "Switch Rush",
-  "stand": "1. Oktober 2026",
+  "stand": "3. Oktober 2026",
   "sections": [
     {
       "number": 1,
@@ -28,8 +28,8 @@
     },
     {
       "number": 5,
-      "heading": "Externe Links",
-      "body": "Öffnest du in den Einstellungen die Datenschutzerklärung oder das Impressum, wird die entsprechende Seite auf GitHub Pages (scorparc.github.io) in deinem Browser geöffnet. Dabei wird technisch bedingt deine IP-Adresse an GitHub übertragen."
+      "heading": "Abruf und Aktualisierung der Rechtstexte",
+      "body": "Damit Impressum und Datenschutzerklärung aktuell bleiben, lädt die App die JSON-Fassungen ausschließlich von raw.githubusercontent.com höchstens einmal alle 24 Stunden und speichert sie lokal. Dabei wird technisch bedingt deine IP-Adresse an GitHub übertragen. Ohne Internetverbindung zeigt die App die mitgelieferten Fassungen. Wenn du „Im Browser öffnen“ auswählst, wird die entsprechende HTML-Fassung über GitHub Pages in einer externen Anwendung geöffnet. Der Abruf erfolgt in unserem berechtigten Interesse an aktuellen Pflichtinformationen (Art. 6 Abs. 1 lit. f DSGVO)."
     },
     {
       "number": 6,

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-01.1",
+  "version": "2026-10-03.1",
   "language": "fr",
   "title": "Politique de confidentialité",
   "app": "Switch Rush",
-  "stand": "1er octobre 2026",
+  "stand": "3 octobre 2026",
   "sections": [
     {
       "number": 1,
@@ -28,8 +28,8 @@
     },
     {
       "number": 5,
-      "heading": "Liens externes",
-      "body": "Si tu ouvres la politique de confidentialité ou les mentions légales depuis les paramètres, la page correspondante sur GitHub Pages (scorparc.github.io) s'ouvre dans ton navigateur. Cette opération transmet techniquement ton adresse IP à GitHub."
+      "heading": "Consultation et mise à jour des textes légaux",
+      "body": "Pour maintenir à jour les mentions légales et la politique de confidentialité, l'application télécharge les versions JSON uniquement depuis raw.githubusercontent.com au maximum une fois toutes les 24 heures et les conserve localement. Cette opération transmet techniquement ton adresse IP à GitHub. Sans connexion Internet, les versions intégrées à l'application sont affichées. Si tu sélectionnes « Ouvrir dans le navigateur », la version HTML correspondante est ouverte via GitHub Pages dans une application externe. La consultation repose sur notre intérêt légitime à maintenir à jour les informations obligatoires (art. 6, par. 1, point f du RGPD)."
     },
     {
       "number": 6,
