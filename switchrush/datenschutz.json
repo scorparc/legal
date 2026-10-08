@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "de",
+  "title": "Datenschutzerklärung",
+  "app": "Switch Rush",
+  "stand": "8. Oktober 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Verantwortlicher",
+      "body": "Marc Neumann – Anschrift siehe Impressum: https://scorparc.github.io/legal/impressum.html\nE-Mail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Grundprinzip: Dein Spielstand bleibt auf deinem Gerät",
+      "body": "Switch Rush ist ein Offline-Arcade-Spiel. Gespeichert werden ausschließlich lokal auf deinem Gerät: Highscore und Tagesbestwert, Münzstand, gekaufte und ausgewählte Skins, Anzahl der Runden, Gesamtspielzeit, Fortschritt der Tages-Challenge sowie die Einstellungen für Sound und Vibration. Es gibt kein Nutzerkonto, keinen eigenen Server und keine Analyse- oder Crash-Reporting-SDKs. Töne werden in der App erzeugt; Mikrofon, Kamera, Standort oder Kontakte werden nicht verwendet. Für die Vibration nutzt die App die Android-Berechtigung „Vibration“."
+    },
+    {
+      "number": 3,
+      "heading": "Werbung und Einwilligung",
+      "body": "Switch Rush ist kostenlos und werbefinanziert. Angezeigt werden Anzeigen von Google AdMob: Banner im Menü, gelegentliche Vollbildanzeigen ausschließlich zwischen zwei Runden sowie Videos mit Belohnung, die nur starten, wenn du sie ausdrücklich auswählst (einmal weiterspielen oder Münzen verdreifachen). Vor der ersten Anzeigenanfrage prüft die Google User Messaging Platform (UMP), ob eine Einwilligung erforderlich ist, und zeigt gegebenenfalls das Google-Formular. Erst danach wird das Werbe-SDK gestartet. Laut Googles Datendeklaration können dabei IP-Adresse und daraus abgeleiteter ungefährer Standort, Werbe- und App-Set-ID, Interaktionen mit Anzeigen sowie Diagnosedaten für Werbung, Messung und Betrugsprävention verarbeitet werden. Dein Spielstand wird nicht an Google übermittelt. Deine Entscheidung änderst du in der App unter Einstellungen → Datenschutz- & Werbeeinstellungen, sofern UMP diesen Einstieg bereitstellt; die Werbe-ID kannst du zusätzlich in den Android-Einstellungen zurücksetzen oder löschen. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) beziehungsweise für nicht personalisierte Werbung unser berechtigtes Interesse an der Finanzierung der kostenlosen App (Art. 6 Abs. 1 lit. f DSGVO)."
+    },
+    {
+      "number": 4,
+      "heading": "Android-Sicherung",
+      "body": "Damit dein Fortschritt bei einem Gerätewechsel erhalten bleibt, ist die Android-Sicherung auf die Spielstand-Datei beschränkt. Ob und wohin gesichert wird, legst du in den Android-Einstellungen deines Google-Kontos fest; Google ist dafür eigenständig verantwortlich. Daten des Werbe-SDK werden nicht gesichert."
+    },
+    {
+      "number": 5,
+      "heading": "Abruf und Aktualisierung der Rechtstexte",
+      "body": "Damit Impressum und Datenschutzerklärung aktuell bleiben, lädt die App die JSON-Fassungen ausschließlich von raw.githubusercontent.com höchstens einmal alle 24 Stunden und speichert sie lokal. Dabei wird technisch bedingt deine IP-Adresse an GitHub übertragen. Ohne Internetverbindung zeigt die App die mitgelieferten Fassungen. Wenn du „Im Browser öffnen“ auswählst, wird die entsprechende HTML-Fassung über GitHub Pages in einer externen Anwendung geöffnet. Der Abruf erfolgt in unserem berechtigten Interesse an aktuellen Pflichtinformationen (Art. 6 Abs. 1 lit. f DSGVO)."
+    },
+    {
+      "number": 6,
+      "heading": "Datenlöschung",
+      "body": "Sämtliche lokalen Daten entfernst du über Android → Apps → Switch Rush → Speicher löschen oder durch Deinstallation. Eine Android-Sicherung löschst du in deinem Google-Konto."
+    },
+    {
+      "number": 7,
+      "heading": "Deine Rechte",
+      "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Für Daten, die Google im Rahmen von Werbung oder Sicherungen verarbeitet, ist Google der zuständige Ansprechpartner."
+    },
+    {
+      "number": 8,
+      "heading": "Änderungen dieser Erklärung",
+      "body": "Diese Datenschutzerklärung wird bei Änderungen der App, der eingesetzten Dienste oder der Datenverarbeitung angepasst. Die jeweils aktuelle Fassung ist unter der verlinkten Adresse abrufbar."
+    }
+  ]
+}

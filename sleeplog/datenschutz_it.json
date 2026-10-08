@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "it",
+  "title": "Informativa sulla privacy",
+  "app": "SleepLog",
+  "stand": "8 ottobre 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Titolare del trattamento",
+      "body": "Marc Neumann – indirizzo: vedi note legali: https://scorparc.github.io/legal/impressum_it.html\nE-mail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Dati locali di bambini e registro",
+      "body": "SleepLog memorizza in un database locale sul dispositivo i profili dei bambini inseriti (nome e data di nascita), eventi di sonno, veglia, alimentazione, pianto e altri eventi con orari, commenti rapidi facoltativi e note libere, nonché indicatori di malattia, dentizione o infezione. Anche impostazioni e stato locale di sblocco di SleepLog Pro sono memorizzati sul dispositivo. Questi dati riguardano minori e possono essere relativi alla salute. Sono trattati solo localmente per viste, valutazioni e registri PDF; l'app non ce li trasmette. Non esistono account utente né server propri."
+    },
+    {
+      "number": 3,
+      "heading": "Notifiche, fuso orario e file",
+      "body": "Se attivi i promemoria, l'app programma una notifica locale giornaliera e richiede il permesso di notifica Android. Usa l'identificatore del fuso orario, non la posizione geografica. SleepLog esporta backup JSON e file CSV, importa backup JSON e genera PDF da stampare o condividere. Quando salvi, scegli una destinazione nel selettore di file Android; può essere disponibile anche Google Drive o un altro fornitore di documenti configurato. L'app non contiene accesso Google, API Drive o sincronizzazione cloud automatica. Solo la tua scelta trasmette il file al fornitore o destinatario; il trattamento è soggetto alle sue condizioni di privacy. I file JSON, CSV e PDF possono contenere dati di minori e salute in chiaro. Proteggi i file esportati ed elimina separatamente le copie; la cancellazione in SleepLog non le elimina. Le esportazioni temporanee restano nella cache finché non vengono eliminate dall'app, da Android o cancellando l'archivio dell'app. Non è utilizzata alcuna funzione fotocamera o foto."
+    },
+    {
+      "number": 4,
+      "heading": "SleepLog Pro e Google Play Billing",
+      "body": "SleepLog Pro è un acquisto una tantum in-app. L'app interroga Google Play sulla disponibilità del prodotto e può avviare acquisti o ripristini tramite Google Play Billing. Google tratta i dati di pagamento e account necessari secondo le proprie regole sulla privacy. L'app memorizza localmente lo stato di sblocco; nessun server proprio tratta dati di pagamento."
+    },
+    {
+      "number": 5,
+      "heading": "Recuperi GitHub, link esterni e assenza di analisi",
+      "body": "L'app carica i testi legali prima da una cache locale e poi dai file JSON inclusi. In background tenta di aggiornare note legali e informativa per tutte le lingue supportate da raw.githubusercontent.com/scorparc/legal. Un tentativo di sincronizzazione avviene al massimo ogni 24 ore, anche dopo un tentativo non riuscito; dopo errori di rete, HTTP o JSON, cache e fallback restano validi ed è possibile un tentativo successivo. L'indirizzo IP è trasmesso tecnicamente a GitHub, non i dati di registro, minori o utilizzo. Può esservi caricata anche una lista di altre app. Un tap può aprire GitHub Pages, il sito metodologico del Kinderspital Zürich o pagine dello store; si applicano le regole di ciascun servizio. Non sono configurati servizi di analisi, pubblicità, segnalazione crash o tracciamento. Non esiste un backup cloud automatico; backup e trasferimenti Android sono disabilitati. La base giuridica del recupero GitHub è il nostro legittimo interesse a informazioni obbligatorie aggiornate (art. 6, par. 1, lett. f GDPR)."
+    },
+    {
+      "number": 6,
+      "heading": "Cancellazione e diritti",
+      "body": "Puoi cancellare voci o profili di bambini nell'app e rimuovere i dati locali nelle impostazioni del dispositivo. Il GDPR ti riconosce in particolare i diritti di accesso, rettifica, cancellazione, limitazione, portabilità e opposizione, nonché il diritto di reclamo a un'autorità di controllo. Se i dati sono solo sul dispositivo, puoi consultarli, modificarli o cancellarli. Google è il contatto competente per dati trattati nell'ambito di un acquisto. Questa informativa è aggiornata quando cambiano funzioni, servizi o trattamenti; la versione attuale è disponibile nell'app e, se vuoi, nel browser nella lingua scelta."
+    },
+    {
+      "number": 7,
+      "heading": "Blocco facoltativo dell'app",
+      "body": "Il blocco gratuito su Android usa PIN, sequenza o password del dispositivo. Android verifica la credenziale; SleepLog riceve solo il risultato, non la credenziale. L'impostazione è salvata localmente. L'app si blocca quando viene lasciata e al riavvio. Quando attivo, il contenuto è protetto nelle acquisizioni dello schermo e nella panoramica delle app recenti. È un blocco di accesso, non una crittografia aggiuntiva del database o dei file esportati. È necessario un blocco schermo sicuro."
+    }
+  ]
+}

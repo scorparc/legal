@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "Arrowtide",
+  "stand": "8 octobre 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann – adresse : voir les mentions légales : https://scorparc.github.io/legal/impressum_fr.html\nE-mail : vardholt@gmail.com"
+    },
+    {
+      "heading": "Données de jeu locales",
+      "body": "Arrowtide conserve progression, étoiles, records, défis quotidiens, séries, pièces, bonus, thèmes, statut d'achat et réglages dans un fichier DataStore sur ton appareil. Il n'y a ni compte, ni serveur propre, ni SDK d'analyse ou de rapport de plantage. La caméra, le micro, les contacts et la position précise ne sont pas utilisés. Le partage ouvre la feuille Android seulement à ta demande, avec une image créée localement.",
+      "number": 2
+    },
+    {
+      "heading": "Publicités et consentement",
+      "body": "Google AdMob affiche parfois des interstitiels entre les parties et des vidéos récompensées facultatives pour continuer ou obtenir des bonus ou pièces. Il n'y a pas de bannière. Avant toute demande de publicité, Google User Messaging Platform (UMP) vérifie si un consentement est nécessaire et affiche un formulaire le cas échéant. L'app ne demande des annonces que si UMP l'autorise. Google peut traiter l'adresse IP (et la position approximative déduite), les identifiants publicitaire et App Set, les interactions et les diagnostics pour la publicité, la mesure et la lutte contre la fraude. Les options de confidentialité figurent dans les réglages si UMP l'exige. Tu peux réinitialiser ou supprimer l'identifiant publicitaire dans Android. La base juridique est le consentement (art. 6, par. 1, a RGPD) ou l'intérêt légitime à financer l'app pour les annonces non personnalisées autorisées (art. 6, par. 1, f RGPD).",
+      "number": 3
+    },
+    {
+      "heading": "Achats et services Play",
+      "body": "L'achat unique de suppression des publicités utilise Google Play Billing; il supprime les interstitiels, mais les vidéos récompensées facultatives restent disponibles. Google traite les données d'achat et de paiement selon ses propres règles. L'app reçoit le statut d'achat et conserve le droit localement, sans recevoir les données de paiement. Après certains résultats, l'avis intégré de Google Play peut s'ouvrir. Aucune progression n'est envoyée à Google pour cela.",
+      "number": 4
+    },
+    {
+      "heading": "Sauvegarde Android",
+      "body": "La sauvegarde Android et le transfert d'appareil se limitent au fichier DataStore de progression. Une sauvegarde dans le cloud dépend de tes réglages Android et du compte Google. L'app ne sauvegarde pas les données du SDK publicitaire.",
+      "number": 5
+    },
+    {
+      "heading": "Suppression",
+      "body": "Efface les données locales via Android → Applications → Arrowtide → Effacer le stockage ou en désinstallant l'app. Gère les sauvegardes Android dans ton compte Google. Sans compte ni serveur propre, il n'existe pas de demande distincte de suppression d'une progression sur serveur.",
+      "number": 6
+    },
+    {
+      "number": 7,
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Pour les données que Google traite dans le cadre de la publicité ou des sauvegardes, Google est l'interlocuteur compétent."
+    },
+    {
+      "number": 8,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible à l'adresse indiquée."
+    }
+  ]
+}

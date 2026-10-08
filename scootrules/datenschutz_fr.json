@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "ScootRules",
+  "stand": "8 octobre 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann – adresse : voir les mentions légales : https://scorparc.github.io/legal/impressum_fr.html\nE-mail : vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Réglages locaux et recherche de localisation",
+      "body": "ScootRules conserve localement sur l'appareil la langue, l'apparence, la confirmation de l'avertissement de responsabilité ainsi que les caches de contenu et de textes juridiques. Après l'octroi de l'autorisation de localisation, l'application peut utiliser le géocodage du système Android pour convertir une position approximative en pays. L'application ne conserve ni les coordonnées ni le pays détecté."
+    },
+    {
+      "number": 3,
+      "heading": "Requêtes GitHub, liens externes et absence d'autres fonctions de données",
+      "body": "Les règles par pays et les textes juridiques sont mis à jour via HTTPS depuis des sources GitHub publiques au plus une fois toutes les 24 heures. GitHub reçoit l'adresse IP pour des raisons techniques. Si tu ouvres une source, une référence à une autre application ou un texte juridique dans le navigateur, l'application ne démarre une application externe qu'après ton action ; ses informations de confidentialité s'appliquent alors. Dans ses fonctions actuelles, ScootRules ne traite pas de données d'enfants ou de santé, de photos ou de fichiers, de notifications, d'achats Google Play ni de sauvegardes cloud. Il n'y a ni compte utilisateur ni service d'analyse, de publicité ou de suivi."
+    },
+    {
+      "number": 4,
+      "heading": "Consultation et mise à jour des textes légaux",
+      "body": "Pour maintenir à jour les mentions légales et la politique de confidentialité, l'application télécharge les versions JSON uniquement depuis raw.githubusercontent.com au maximum une fois toutes les 24 heures et les conserve localement. Cette opération transmet techniquement ton adresse IP à GitHub. Sans connexion Internet, les versions intégrées à l'application sont affichées. Si tu sélectionnes « Ouvrir dans le navigateur », la version HTML correspondante est ouverte via GitHub Pages dans une application externe. La consultation repose sur notre intérêt légitime à maintenir à jour les informations obligatoires (art. 6, par. 1, point f du RGPD)."
+    },
+    {
+      "number": 5,
+      "heading": "Tes droits",
+      "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Lorsque des fournisseurs externes traitent des données après l'ouverture volontaire de liens, leurs informations de confidentialité s'appliquent."
+    },
+    {
+      "number": 6,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible dans l'application et à l'adresse indiquée."
+    }
+  ]
+}

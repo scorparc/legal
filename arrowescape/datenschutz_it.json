@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "it",
+  "title": "Informativa sulla privacy",
+  "app": "Arrowtide",
+  "stand": "8 ottobre 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Titolare del trattamento",
+      "body": "Marc Neumann – indirizzo: vedi note legali: https://scorparc.github.io/legal/impressum_it.html\nE-mail: vardholt@gmail.com"
+    },
+    {
+      "heading": "Dati di gioco locali",
+      "body": "Arrowtide salva progressi, stelle, record, sfide giornaliere, serie, monete, potenziamenti, temi, stato degli acquisti e impostazioni in un file DataStore sul dispositivo. Non ci sono account, server propri o SDK di analisi e segnalazione degli arresti. Fotocamera, microfono, contatti e posizione precisa non vengono usati. La condivisione apre la schermata Android solo su tua scelta, con un'immagine creata localmente.",
+      "number": 2
+    },
+    {
+      "heading": "Pubblicità e consenso",
+      "body": "Google AdMob mostra occasionali annunci interstitial tra le partite e video con premio facoltativi per continuare, ottenere potenziamenti o monete. Non ci sono banner. Prima di richiedere annunci, Google User Messaging Platform (UMP) verifica se serve il consenso e mostra un modulo quando necessario. L'app richiede annunci solo se UMP lo consente. Google può trattare indirizzo IP (e posizione approssimativa dedotta), ID pubblicitario e App Set, interazioni e dati diagnostici per pubblicità, misurazione e prevenzione delle frodi. Le opzioni privacy sono nelle Impostazioni quando UMP le richiede. Puoi reimpostare o eliminare l'ID pubblicitario in Android. La base giuridica è il consenso (art. 6, par. 1, lett. a GDPR) o l'interesse legittimo a finanziare l'app per gli annunci non personalizzati consentiti (art. 6, par. 1, lett. f GDPR).",
+      "number": 3
+    },
+    {
+      "heading": "Acquisti e servizi Play",
+      "body": "L'acquisto una tantum per rimuovere gli annunci usa Google Play Billing; elimina gli interstitial, mentre i video con premio facoltativi restano disponibili. Google tratta i dati di acquisto e pagamento secondo le proprie regole. L'app riceve lo stato dell'acquisto e salva il diritto localmente, senza ricevere dati di pagamento. Dopo alcuni risultati può aprirsi la recensione in-app di Google Play. I progressi non vengono inviati a Google per questo.",
+      "number": 4
+    },
+    {
+      "heading": "Backup Android",
+      "body": "Il backup Android e il trasferimento tra dispositivi sono limitati al file DataStore dei progressi. Un backup cloud dipende dalle impostazioni Android e dell'account Google. L'app non salva i dati dell'SDK pubblicitario nel backup.",
+      "number": 5
+    },
+    {
+      "heading": "Eliminazione",
+      "body": "Elimina i dati locali da Android → App → Arrowtide → Cancella spazio di archiviazione o disinstallando l'app. Gestisci eventuali backup Android nell'account Google. Non essendoci account o server propri, non esiste una richiesta separata per eliminare progressi dal server.",
+      "number": 6
+    },
+    {
+      "number": 7,
+      "heading": "I tuoi diritti",
+      "body": "Ai sensi del GDPR hai in particolare diritto di accesso, rettifica, cancellazione, limitazione del trattamento, portabilità e opposizione, nonché il diritto di proporre reclamo a un'autorità di controllo. I dati dell'app sono generalmente conservati localmente sotto il tuo controllo, quindi puoi consultarli, modificarli o eliminarli lì. Per i dati trattati da Google per la pubblicità o i backup, il referente competente è Google."
+    },
+    {
+      "number": 8,
+      "heading": "Modifiche alla presente informativa",
+      "body": "La presente informativa viene aggiornata quando cambiano l'app, i servizi utilizzati o il trattamento dei dati. La versione attuale è disponibile all'indirizzo indicato."
+    }
+  ]
+}

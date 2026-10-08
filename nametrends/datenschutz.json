@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "de",
+  "title": "Datenschutzerklärung",
+  "app": "NameTrends",
+  "stand": "8. Oktober 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Verantwortlicher",
+      "body": "Marc Neumann – Anschrift siehe Impressum: https://scorparc.github.io/legal/impressum.html\nE-Mail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Lokale Namensstatistiken",
+      "body": "NameTrends verarbeitet Suchanfragen, Favoriten und Einstellungen lokal. Die angezeigten Vornamenstatistiken stammen aus aggregierten, öffentlich verfügbaren Daten; es werden keine individuellen Geburts- oder Meldedaten erfasst und kein Nutzerkonto benötigt."
+    },
+    {
+      "number": 3,
+      "heading": "Datenupdate, Kauf und Löschung",
+      "body": "Aggregierte Namensdaten und Rechtstexte können höchstens täglich von GitHub aktualisiert werden; dabei wird die IP-Adresse an GitHub übertragen. NameTrends Pro ist ein einmaliger Google-Play-Kauf. Favoriten und Einstellungen löschst du in der App oder durch Deinstallation."
+    },
+    {
+      "number": 4,
+      "heading": "Abruf und Aktualisierung der Rechtstexte",
+      "body": "Damit Impressum und Datenschutzerklärung aktuell bleiben, ruft die App die öffentlichen Rechtstexte von GitHub Pages beziehungsweise raw.githubusercontent.com höchstens einmal alle 24 Stunden ab. Dabei wird technisch bedingt deine IP-Adresse an GitHub übertragen. Es werden keine App-Inhalte oder Nutzungsprofile an uns übermittelt. Ohne Internetverbindung werden die mit der App ausgelieferten Fassungen angezeigt. Der Abruf erfolgt in unserem berechtigten Interesse an aktuellen Pflichtinformationen (Art. 6 Abs. 1 lit. f DSGVO)."
+    },
+    {
+      "number": 5,
+      "heading": "Deine Rechte",
+      "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Für Daten in einem freiwillig genutzten Google-Konto ist Google der zuständige Ansprechpartner."
+    },
+    {
+      "number": 6,
+      "heading": "Änderungen dieser Erklärung",
+      "body": "Diese Datenschutzerklärung wird bei Änderungen der App, der eingesetzten Dienste oder der Datenverarbeitung angepasst. Die jeweils aktuelle Fassung ist in der App und unter der verlinkten Adresse abrufbar."
+    }
+  ]
+}

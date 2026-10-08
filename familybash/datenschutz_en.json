@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "en",
+  "title": "Privacy Policy",
+  "app": "FamilyBash",
+  "stand": "8 October 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann – postal address: see legal notice: https://scorparc.github.io/legal/impressum_en.html\nEmail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Local party game",
+      "body": "FamilyBash processes player names, age groups, game state and settings locally on one device only. The app is designed for families and children; there is no user account and no analytics or advertising profile."
+    },
+    {
+      "number": 3,
+      "heading": "Game content, Drive and deletion",
+      "body": "You can request game content updates from GitHub in Settings; GitHub receives your IP address. The optional Pro backup uses your Google Drive appDataFolder; Google processes account and payment data. You can delete local file backups where you saved them and cloud backups in the app or your Google account. Android's automatic cloud backup for this app is disabled."
+    },
+    {
+      "number": 4,
+      "heading": "Fetching and updating the legal texts",
+      "body": "To keep the legal notice and privacy policy current, the app fetches the public legal texts from GitHub Pages or raw.githubusercontent.com at most once every 24 hours. This technically transmits your IP address to GitHub. No app content or usage profile is transmitted to us. Without an internet connection, the versions bundled with the app are shown. The fetch is based on our legitimate interest in keeping mandatory information current (Art. 6(1)(f) GDPR)."
+    },
+    {
+      "number": 5,
+      "heading": "Your rights",
+      "body": "Under the GDPR you have, in particular, the rights of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. App data is generally stored locally under your control, so you can inspect, change or delete it there. For data in a Google account used voluntarily, Google is the relevant contact."
+    },
+    {
+      "number": 6,
+      "heading": "Changes to this policy",
+      "body": "This privacy policy is updated when the app, the services used or the data processing changes. The current version is available in the app and at the linked address."
+    }
+  ]
+}

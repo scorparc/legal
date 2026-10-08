@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "it",
+  "title": "Informativa sulla privacy",
+  "app": "ScootRules",
+  "stand": "8 ottobre 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Titolare del trattamento",
+      "body": "Marc Neumann – indirizzo: vedi note legali: https://scorparc.github.io/legal/impressum_it.html\nE-mail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Impostazioni locali e ricerca della posizione",
+      "body": "ScootRules salva localmente sul dispositivo la lingua, l'aspetto, la conferma dell'avvertenza di responsabilità e le cache dei contenuti e dei testi legali. Dopo la concessione dell'autorizzazione alla posizione, l'app può usare la geocodifica di sistema Android per convertire una posizione approssimativa in un Paese. L'app non conserva né le coordinate né il Paese rilevato."
+    },
+    {
+      "number": 3,
+      "heading": "Richieste GitHub, link esterni e nessun'altra funzione sui dati",
+      "body": "Le regole per Paese e i testi legali vengono aggiornati tramite HTTPS da fonti GitHub pubbliche al massimo una volta ogni 24 ore. Per motivi tecnici GitHub riceve l'indirizzo IP. Se apri una fonte, un riferimento a un'altra app o un testo legale nel browser, l'app avvia un'applicazione esterna solo dopo la tua azione; si applicano quindi le relative informazioni sulla privacy. Nelle funzioni attuali ScootRules non tratta dati di minori o sanitari, foto o file, notifiche, acquisti Google Play o backup cloud. Non esistono account utente né servizi di analisi, pubblicità o tracciamento."
+    },
+    {
+      "number": 4,
+      "heading": "Recupero e aggiornamento dei testi legali",
+      "body": "Per mantenere aggiornati le note legali e l'informativa sulla privacy, l'app scarica le versioni JSON esclusivamente da raw.githubusercontent.com al massimo una volta ogni 24 ore e le conserva in locale. Tecnicamente ciò trasmette il tuo indirizzo IP a GitHub. Senza connessione Internet vengono mostrate le versioni incluse nell'app. Se selezioni « Apri nel browser », la corrispondente versione HTML viene aperta tramite GitHub Pages in un'applicazione esterna. Il recupero si basa sul nostro legittimo interesse a mantenere aggiornate le informazioni obbligatorie (art. 6, par. 1, lett. f GDPR)."
+    },
+    {
+      "number": 5,
+      "heading": "I tuoi diritti",
+      "body": "Ai sensi del GDPR hai in particolare diritto di accesso, rettifica, cancellazione, limitazione del trattamento, portabilità e opposizione, nonché il diritto di proporre reclamo a un'autorità di controllo. I dati dell'app sono generalmente conservati localmente sotto il tuo controllo, quindi puoi consultarli, modificarli o eliminarli lì. Se fornitori esterni trattano dati dopo l'apertura volontaria di link, si applicano le loro informazioni sulla privacy."
+    },
+    {
+      "number": 6,
+      "heading": "Modifiche alla presente informativa",
+      "body": "La presente informativa viene aggiornata quando cambiano l'app, i servizi utilizzati o il trattamento dei dati. La versione attuale è disponibile nell'app e all'indirizzo indicato."
+    }
+  ]
+}

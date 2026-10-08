@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "de",
+  "title": "Datenschutzerklärung",
+  "app": "ScootKeeper",
+  "stand": "8. Oktober 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Verantwortlicher",
+      "body": "Marc Neumann – Anschrift siehe Impressum: https://scorparc.github.io/legal/impressum.html\nE-Mail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Grundprinzip: Deine Daten bleiben auf deinem Gerät",
+      "body": "ScootKeeper ist eine Offline-App. Fahrzeugprofile, Rahmennummern, Wartungseinträge, Akku- und Kilometerdaten, Reifendruckwerte, Erinnerungen und Fotos werden ausschließlich lokal gespeichert. Wir betreiben keinen eigenen Server und verwenden keine Analyse-, Tracking- oder Werbe-SDKs."
+    },
+    {
+      "number": 3,
+      "heading": "Fotos",
+      "body": "Fotos werden nur verarbeitet, wenn du die Funktion aktiv auswählst. Sie werden im app-eigenen Speicherbereich deines Geräts abgelegt. Die App nutzt den Android-Systemfotowähler beziehungsweise den System-Kameradialog und hat keinen Zugriff auf deine übrige Mediathek."
+    },
+    {
+      "number": 4,
+      "heading": "Benachrichtigungen",
+      "body": "Erinnerungen werden vollständig lokal auf deinem Gerät geplant und ausgelöst. Dafür wird keine Verbindung zu einem Push- oder Benachrichtigungsserver aufgebaut. Die Berechtigung kannst du jederzeit in den Android-Einstellungen widerrufen."
+    },
+    {
+      "number": 5,
+      "heading": "Optionales Google-Drive-Backup (Pro-Funktion)",
+      "body": "Wenn du die Backup-Funktion aktiv nutzt, werden deine App-Daten einschließlich Fotos als Sicherungsdatei in den versteckten, app-eigenen Bereich (\"appDataFolder\") deines Google-Drive-Kontos hochgeladen. Die Übertragung erfolgt verschlüsselt (TLS). Wir erhalten keinen Zugriff auf die Sicherung. Google Ireland Limited verarbeitet Kontodaten als eigenständiger Verantwortlicher. Für die Anmeldung nutzt du Google Sign-In; deine Google-E-Mail-Adresse wird nur zur Anzeige des verbundenen Kontos verwendet. Du kannst das Backup beenden und dich abmelden."
+    },
+    {
+      "number": 6,
+      "heading": "Exporte und Teilen",
+      "body": "PDF-, CSV- und Kalender-Exporte werden lokal erzeugt und nur geteilt, wenn du den System-Teilen-Dialog aktiv öffnest. Du bestimmst den Empfänger."
+    },
+    {
+      "number": 7,
+      "heading": "Google Play: Kauf und Bewertung",
+      "body": "Kostenpflichtige Pro-Funktionen werden über Google Play Billing abgewickelt. Google verarbeitet Zahlungs- und Kontodaten; wir erhalten nur den Kauf- beziehungsweise Abostatus. Nach mehreren erfassten Wartungseinträgen kann die App einmalig die von Google Play bereitgestellte Bewertungsfunktion öffnen. Darüber übermittelt die App keine Fahrzeug-, Wartungs- oder Backupdaten."
+    },
+    {
+      "number": 8,
+      "heading": "Datenlöschung",
+      "body": "Alle lokalen Daten löschst du durch Deinstallation oder über \"Speicher löschen\" in Android. Ein Drive-Backup löschst du in deinem Google-Konto unter Google Drive → Einstellungen → Apps verwalten → ScootKeeper."
+    },
+    {
+      "number": 9,
+      "heading": "Abruf und Aktualisierung der Rechtstexte",
+      "body": "Damit Impressum und Datenschutzerklärung aktuell bleiben, ruft die App die öffentlichen Rechtstexte von GitHub Pages beziehungsweise raw.githubusercontent.com höchstens einmal alle 24 Stunden ab. Dabei wird technisch bedingt deine IP-Adresse an GitHub übertragen. Es werden keine App-Inhalte oder Nutzungsprofile an uns übermittelt. Ohne Internetverbindung werden die mit der App ausgelieferten Fassungen angezeigt. Der Abruf erfolgt in unserem berechtigten Interesse an aktuellen Pflichtinformationen (Art. 6 Abs. 1 lit. f DSGVO)."
+    },
+    {
+      "number": 10,
+      "heading": "Deine Rechte",
+      "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Für Daten in einem freiwillig genutzten Google-Konto ist Google der zuständige Ansprechpartner."
+    },
+    {
+      "number": 11,
+      "heading": "Änderungen dieser Erklärung",
+      "body": "Diese Datenschutzerklärung wird bei Änderungen der App, der eingesetzten Dienste oder der Datenverarbeitung angepasst. Die jeweils aktuelle Fassung ist in der App und unter der verlinkten Adresse abrufbar."
+    }
+  ]
+}

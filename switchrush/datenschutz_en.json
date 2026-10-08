@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "en",
+  "title": "Privacy Policy",
+  "app": "Switch Rush",
+  "stand": "8 October 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Controller",
+      "body": "Marc Neumann – postal address: see legal notice: https://scorparc.github.io/legal/impressum_en.html\nEmail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Core principle: your progress stays on your device",
+      "body": "Switch Rush is an offline arcade game. Only the following is stored, locally on your device: high score and daily best, coin balance, purchased and selected skins, number of runs, total play time, daily challenge progress and the sound and vibration settings. There is no user account, no own server and no analytics or crash-reporting SDK. Sounds are generated inside the app; microphone, camera, location and contacts are not used. The app uses the Android \"vibration\" permission for haptic feedback."
+    },
+    {
+      "number": 3,
+      "heading": "Advertising and consent",
+      "body": "Switch Rush is free and financed by ads from Google AdMob: banners in the menus, occasional full-screen ads only between two runs, and rewarded videos that start only when you explicitly choose them (continue once or triple your coins). Before the first ad request, the Google User Messaging Platform (UMP) checks whether consent is required and shows the Google form if necessary. Only then is the ad SDK started. According to Google's data disclosure, the IP address and an approximate location derived from it, advertising and app set ID, ad interactions and diagnostic data may be processed for advertising, measurement and fraud prevention. Your game progress is not sent to Google. You can change your choice in the app under Settings → Privacy & ad settings when UMP provides this entry; you can also reset or delete the advertising ID in Android settings. The legal basis is your consent (Art. 6(1)(a) GDPR) or, for non-personalised ads, our legitimate interest in financing the free app (Art. 6(1)(f) GDPR)."
+    },
+    {
+      "number": 4,
+      "heading": "Android backup",
+      "body": "To keep your progress when you change devices, Android backup is limited to the game progress file. Whether and where data is backed up is set in the Android settings of your Google account; Google is independently responsible for this. Ad SDK data is not backed up."
+    },
+    {
+      "number": 5,
+      "heading": "Fetching and updating the legal texts",
+      "body": "To keep the legal notice and privacy policy current, the app fetches the JSON versions only from raw.githubusercontent.com at most once every 24 hours and stores them locally. This technically transmits your IP address to GitHub. Without an internet connection, the versions bundled with the app are shown. If you select “Open in browser”, the matching HTML version is opened through GitHub Pages in an external application. The fetch is based on our legitimate interest in keeping mandatory information current (Art. 6(1)(f) GDPR)."
+    },
+    {
+      "number": 6,
+      "heading": "Deleting data",
+      "body": "Remove all local data via Android → Apps → Switch Rush → Clear storage, or by uninstalling. Delete an Android backup in your Google account."
+    },
+    {
+      "number": 7,
+      "heading": "Your rights",
+      "body": "Under the GDPR you have, in particular, the rights of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection supervisory authority. App data is generally stored locally under your control, so you can inspect, change or delete it there. For data Google processes for advertising or backups, Google is the relevant contact."
+    },
+    {
+      "number": 8,
+      "heading": "Changes to this policy",
+      "body": "This privacy policy is updated when the app, the services used or the data processing changes. The current version is available at the linked address."
+    }
+  ]
+}

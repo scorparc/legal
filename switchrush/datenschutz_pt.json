@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "pt",
+  "title": "Política de privacidade",
+  "app": "Switch Rush",
+  "stand": "8 de outubro de 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsável pelo tratamento",
+      "body": "Marc Neumann – morada: ver aviso legal: https://scorparc.github.io/legal/impressum_pt.html\nE-mail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Princípio fundamental: o teu progresso fica no dispositivo",
+      "body": "Switch Rush é um jogo arcade offline. É guardado apenas, localmente no teu dispositivo: a pontuação máxima e a melhor do dia, o saldo de moedas, as skins compradas e selecionadas, o número de partidas, o tempo total de jogo, o progresso do desafio diário e as definições de som e vibração. Não existe conta de utilizador, servidor próprio nem SDK de análise ou de relatórios de falhas. Os sons são gerados na aplicação; microfone, câmara, localização e contactos não são utilizados. A aplicação usa a permissão Android «vibração» para o feedback háptico."
+    },
+    {
+      "number": 3,
+      "heading": "Publicidade e consentimento",
+      "body": "Switch Rush é gratuito e financiado por anúncios do Google AdMob: banners nos menus, anúncios em ecrã inteiro ocasionais apenas entre duas partidas e vídeos com recompensa que só começam se os escolheres expressamente (continuar uma vez ou triplicar as moedas). Antes do primeiro pedido de anúncios, a Google User Messaging Platform (UMP) verifica se é necessário consentimento e, se for o caso, apresenta o formulário da Google. Só depois é iniciado o SDK de publicidade. Segundo a declaração de dados da Google, podem ser tratados o endereço IP e a localização aproximada dele derivada, o ID de publicidade e o ID do conjunto de aplicações, as interações com anúncios e dados de diagnóstico para publicidade, medição e prevenção de fraude. O teu progresso não é enviado à Google. Podes alterar a tua decisão na aplicação em Definições → Privacidade e publicidade, se a UMP disponibilizar esta opção; podes ainda repor ou eliminar o ID de publicidade nas definições do Android. A base jurídica é o teu consentimento (art. 6.º, n.º 1, alínea a, do RGPD) ou, para anúncios não personalizados, o nosso interesse legítimo em financiar a aplicação gratuita (art. 6.º, n.º 1, alínea f, do RGPD)."
+    },
+    {
+      "number": 4,
+      "heading": "Cópia de segurança do Android",
+      "body": "Para manteres o progresso ao mudar de dispositivo, a cópia de segurança do Android limita-se ao ficheiro de progresso do jogo. Se e onde é feita a cópia defines nas definições Android da tua conta Google; a Google é responsável autónoma por isso. Os dados do SDK de publicidade não são copiados."
+    },
+    {
+      "number": 5,
+      "heading": "Consulta e atualização dos textos legais",
+      "body": "Para manter atualizados o aviso legal e a política de privacidade, a aplicação transfere as versões JSON apenas de raw.githubusercontent.com no máximo uma vez a cada 24 horas e guarda-as localmente. Tecnicamente, isto transmite o teu endereço IP ao GitHub. Sem ligação à Internet são apresentadas as versões incluídas na aplicação. Se selecionares « Abrir no navegador », a versão HTML correspondente é aberta através do GitHub Pages numa aplicação externa. A consulta baseia-se no nosso interesse legítimo em manter atualizada a informação obrigatória (art. 6.º, n.º 1, alínea f, do RGPD)."
+    },
+    {
+      "number": 6,
+      "heading": "Eliminação de dados",
+      "body": "Remove todos os dados locais em Android → Aplicações → Switch Rush → Limpar armazenamento ou desinstalando a aplicação. Uma cópia de segurança do Android elimina-se na tua conta Google."
+    },
+    {
+      "number": 7,
+      "heading": "Os teus direitos",
+      "body": "Nos termos do RGPD tens, em particular, direito de acesso, retificação, apagamento, limitação do tratamento, portabilidade e oposição, bem como o direito de apresentar uma reclamação junto de uma autoridade de controlo. Os dados da aplicação são geralmente guardados localmente sob o teu controlo, pelo que podes consultá-los, alterá-los ou eliminá-los aí. Para os dados que a Google trata no âmbito da publicidade ou das cópias de segurança, o contacto competente é a Google."
+    },
+    {
+      "number": 8,
+      "heading": "Alterações a esta política",
+      "body": "Esta política é atualizada quando mudam a aplicação, os serviços utilizados ou o tratamento de dados. A versão atual está disponível no endereço indicado."
+    }
+  ]
+}

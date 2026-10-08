@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-08.1",
+  "language": "de",
+  "title": "Datenschutzerklärung",
+  "app": "PlakettenAlarm",
+  "stand": "8. Oktober 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Verantwortlicher",
+      "body": "Marc Neumann – Anschrift siehe Impressum: https://scorparc.github.io/legal/impressum.html\nE-Mail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Grundprinzip: Deine Daten bleiben auf deinem Gerät",
+      "body": "PlakettenAlarm funktioniert ohne Konto und ohne eigenen Server. Fahrzeuge, Versicherer, eVB- oder Versicherungsschein-Nummern, Dokumentfotos und Checklistenstand werden ausschließlich lokal gespeichert und nicht an uns übertragen."
+    },
+    {
+      "number": 3,
+      "heading": "Fotos",
+      "body": "Fotos werden nur verarbeitet, wenn du die Funktion aktiv auswählst. Sie werden im app-eigenen Speicherbereich deines Geräts abgelegt. Die App nutzt den Android-Systemfotowähler beziehungsweise den System-Kameradialog und hat keinen Zugriff auf deine übrige Mediathek."
+    },
+    {
+      "number": 4,
+      "heading": "Benachrichtigungen",
+      "body": "Erinnerungen werden vollständig lokal auf deinem Gerät geplant und ausgelöst. Dafür wird keine Verbindung zu einem Push- oder Benachrichtigungsserver aufgebaut. Die Berechtigung kannst du jederzeit in den Android-Einstellungen widerrufen."
+    },
+    {
+      "number": 5,
+      "heading": "Abruf der Anbieterliste, Rechtstexte und App-Liste",
+      "body": "Beim Start lädt die App aktuelle Anbieterinformationen, die Rechtstexte und die Liste unserer weiteren Apps von GitHub Pages beziehungsweise raw.githubusercontent.com. Technisch bedingt wird dabei deine IP-Adresse an GitHub übertragen. Es werden keine App-Daten oder Nutzungsprofile an uns gesendet. Alle Inhalte sind auch offline aus dem App-Fallback verfügbar."
+    },
+    {
+      "number": 6,
+      "heading": "Externe Links und Partner-Kennungen",
+      "body": "Wenn du ein Angebot öffnest, verlässt du die App und es gilt die Datenschutzerklärung des jeweiligen Anbieters. Die Links können eine Partner-Kennung (Affiliate-Kennung) enthalten. Sie dient der Zuordnung des Aufrufs; wir übermitteln dem Anbieter keine zusätzlichen App-Daten."
+    },
+    {
+      "number": 7,
+      "heading": "Google Play: Bewertungsfunktion",
+      "body": "Wenn du die Saison-Checkliste vollständig abgehakt hast, kann die App einmal pro Verkehrsjahr die von Google Play bereitgestellte Bewertungsfunktion öffnen. Ob der Dialog tatsächlich erscheint, entscheidet Google Play. Die App übermittelt dabei keine Fahrzeug-, Versicherungs- oder Nutzungsdaten."
+    },
+    {
+      "number": 8,
+      "heading": "Keine Analyse- oder Werbe-Tracker",
+      "body": "Die App verwendet keine Analyse-Tools, keine Werbenetzwerke und kein Tracking. Es werden keine Werbe-IDs verarbeitet."
+    },
+    {
+      "number": 9,
+      "heading": "Datenlöschung",
+      "body": "Einzelne Fahrzeuge und Dokumentfotos kannst du in der App löschen. Alle lokalen Daten entfernst du durch Deinstallation oder über \"Speicher löschen\" in Android."
+    },
+    {
+      "number": 10,
+      "heading": "Deine Rechte",
+      "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Soweit externe Anbieter bei freiwillig geöffneten Links Daten verarbeiten, gelten deren Datenschutzhinweise."
+    },
+    {
+      "number": 11,
+      "heading": "Änderungen dieser Erklärung",
+      "body": "Diese Datenschutzerklärung wird bei Änderungen der App, der eingesetzten Dienste oder der Datenverarbeitung angepasst. Die jeweils aktuelle Fassung ist in der App und unter der verlinkten Adresse abrufbar."
+    }
+  ]
+}
