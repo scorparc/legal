@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-10-09.1",
   "language": "it",
   "title": "Informativa sulla privacy",
   "app": "ConcreteCalc",
-  "stand": "8 ottobre 2026",
+  "stand": "9 ottobre 2026",
   "sections": [
     {
       "number": 1,
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Principio di base: i tuoi dati restano sul dispositivo",
-      "body": "ConcreteCalc calcola volumi di calcestruzzo, sacchi, quantità di blocchi e costi dei materiali interamente sul dispositivo. Misure, prezzi e risultati vengono elaborati solo come stato attuale della schermata. In modo permanente vengono salvati soltanto l'aspetto scelto, la riserva predefinita e l'ultimo stato Pro confermato. Non esistono account utente, server propri né SDK di analisi o di segnalazione degli arresti anomali. I backup di Android sono disattivati."
+      "body": "ConcreteCalc calcola volumi di calcestruzzo, sacchi, impasti, massetti, materiali sfusi, quantità di blocchi e costi dei materiali interamente sul dispositivo. Misure, prezzi e risultati vengono elaborati solo come stato attuale della schermata, a meno che tu non li salvi in un progetto. In modo permanente vengono salvati l'aspetto scelto, la riserva predefinita, l'ultimo stato Pro confermato e, solo con Pro, i progetti che crei (nome del progetto, dati inseriti, risultati e data di salvataggio). Non esistono account utente, server propri né SDK di analisi o di segnalazione degli arresti anomali. I backup di Android sono disattivati."
     },
     {
       "number": 3,
@@ -24,17 +24,17 @@
     {
       "number": 4,
       "heading": "Acquisti tramite Google Play",
-      "body": "ConcreteCalc Pro rimuove ogni pubblicità ed è un acquisto in-app una tantum, senza abbonamento. Google gestisce pagamento e dati dell'account come titolare autonomo. L'app riceve solo l'ID prodotto, lo stato dell'acquisto, lo stato di conferma e un token di acquisto per la conferma, mai dati di pagamento. Lo stato sbloccato viene salvato in locale e interrogato regolarmente presso Google Play, così che anche i rimborsi abbiano effetto."
+      "body": "ConcreteCalc Pro rimuove ogni pubblicità, sblocca i progetti e l'esportazione PDF ed è un acquisto in-app una tantum, senza abbonamento. Google gestisce pagamento e dati dell'account come titolare autonomo. L'app riceve solo l'ID prodotto, lo stato dell'acquisto, lo stato di conferma e un token di acquisto per la conferma, mai dati di pagamento. Lo stato sbloccato viene salvato in locale e interrogato regolarmente presso Google Play, così che anche i rimborsi abbiano effetto."
     },
     {
       "number": 5,
-      "heading": "Condividere un risultato",
-      "body": "Solo quando scegli «Condividi risultato» l'app trasmette il testo del risultato con i tuoi dati alla finestra di condivisione di Android. Scegli tu l'app destinataria; al suo trattamento si applica la sua informativa sulla privacy."
+      "heading": "Condividere risultati ed esportazione PDF",
+      "body": "Solo quando scegli «Condividi risultato» l'app trasmette il testo del risultato con i tuoi dati alla finestra di condivisione di Android. Scegli tu l'app destinataria; al suo trattamento si applica la sua informativa sulla privacy. Con Pro puoi anche condividere un risultato o un intero progetto come PDF. Il file viene creato nella cache dell'app e trasmesso solo all'app che scegli; viene sostituito all'esportazione successiva."
     },
     {
       "number": 6,
       "heading": "Cancellazione dei dati",
-      "body": "I dati inseriti scompaiono non appena li modifichi o chiudi l'app. Rimuovi le impostazioni salvate e lo stato Pro locale tramite Android → App → ConcreteCalc → Cancella archiviazione oppure disinstallando l'app. Il diritto Pro acquistato resta associato al tuo account Google Play e può essere ripristinato nell'app."
+      "body": "I dati non salvati scompaiono non appena li modifichi o chiudi l'app. Elimini calcoli e progetti salvati nell'app, in Progetti. Rimuovi le impostazioni salvate, i progetti e lo stato Pro locale tramite Android → App → ConcreteCalc → Cancella archiviazione oppure disinstallando l'app. Il diritto Pro acquistato resta associato al tuo account Google Play e può essere ripristinato nell'app."
     },
     {
       "number": 7,

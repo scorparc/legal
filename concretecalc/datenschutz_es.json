@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-10-09.1",
   "language": "es",
   "title": "Política de privacidad",
   "app": "ConcreteCalc",
-  "stand": "8 de octubre de 2026",
+  "stand": "9 de octubre de 2026",
   "sections": [
     {
       "number": 1,
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Principio básico: tus datos permanecen en tu dispositivo",
-      "body": "ConcreteCalc calcula volúmenes de hormigón, sacos, cantidades de bloques y costes de material íntegramente en el dispositivo. Las medidas, los precios y los resultados solo se procesan como estado actual de la pantalla. De forma permanente solo se guardan la apariencia elegida, la reserva predeterminada y el último estado Pro confirmado. No hay cuenta de usuario, ni servidor propio, ni SDK de análisis o informes de fallos. Las copias de seguridad de Android están desactivadas."
+      "body": "ConcreteCalc calcula volúmenes de hormigón, sacos, mezclas, soleras, áridos, cantidades de bloques y costes de material íntegramente en el dispositivo. Las medidas, los precios y los resultados solo se procesan como estado actual de la pantalla, salvo que los guardes tú mismo en un proyecto. De forma permanente se guardan la apariencia elegida, la reserva predeterminada, el último estado Pro confirmado y, solo con Pro, los proyectos que crees (nombre del proyecto, datos introducidos, resultados y fecha de guardado). No hay cuenta de usuario, ni servidor propio, ni SDK de análisis o informes de fallos. Las copias de seguridad de Android están desactivadas."
     },
     {
       "number": 3,
@@ -24,17 +24,17 @@
     {
       "number": 4,
       "heading": "Compras a través de Google Play",
-      "body": "ConcreteCalc Pro elimina toda la publicidad y es una compra única dentro de la aplicación, sin suscripción. Google gestiona el pago y los datos de la cuenta como responsable independiente. La aplicación solo recibe el identificador del producto, el estado de la compra, el estado de confirmación y un token de compra para confirmarla, nunca datos de pago. El estado desbloqueado se guarda localmente y se vuelve a consultar en Google Play con regularidad para que también surtan efecto los reembolsos."
+      "body": "ConcreteCalc Pro elimina toda la publicidad, desbloquea los proyectos y la exportación a PDF y es una compra única dentro de la aplicación, sin suscripción. Google gestiona el pago y los datos de la cuenta como responsable independiente. La aplicación solo recibe el identificador del producto, el estado de la compra, el estado de confirmación y un token de compra para confirmarla, nunca datos de pago. El estado desbloqueado se guarda localmente y se vuelve a consultar en Google Play con regularidad para que también surtan efecto los reembolsos."
     },
     {
       "number": 5,
-      "heading": "Compartir un resultado",
-      "body": "Solo cuando eliges «Compartir resultado» la aplicación entrega el texto del resultado junto con tus datos al diálogo de compartir de Android. Tú eliges la aplicación receptora; a su tratamiento se aplica su propia política de privacidad."
+      "heading": "Compartir resultados y exportar a PDF",
+      "body": "Solo cuando eliges «Compartir resultado» la aplicación entrega el texto del resultado junto con tus datos al diálogo de compartir de Android. Tú eliges la aplicación receptora; a su tratamiento se aplica su propia política de privacidad. Con Pro también puedes compartir un resultado o un proyecto completo como PDF. El archivo se crea en la caché de la aplicación y solo se entrega a la aplicación que elijas; se sustituye en la siguiente exportación."
     },
     {
       "number": 6,
       "heading": "Eliminación de datos",
-      "body": "Las entradas desaparecen en cuanto las modificas o cierras la aplicación. Elimina los ajustes guardados y el estado Pro local en Android → Aplicaciones → ConcreteCalc → Borrar almacenamiento, o desinstalando la aplicación. El derecho Pro adquirido permanece en tu cuenta de Google Play y puede restaurarse en la aplicación."
+      "body": "Los datos no guardados desaparecen en cuanto los modificas o cierras la aplicación. Los cálculos y proyectos guardados se eliminan en la aplicación, en Proyectos. Elimina los ajustes guardados, los proyectos y el estado Pro local en Android → Aplicaciones → ConcreteCalc → Borrar almacenamiento, o desinstalando la aplicación. El derecho Pro adquirido permanece en tu cuenta de Google Play y puede restaurarse en la aplicación."
     },
     {
       "number": 7,

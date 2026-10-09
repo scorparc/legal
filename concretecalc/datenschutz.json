@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-10-09.1",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "ConcreteCalc",
-  "stand": "8. Oktober 2026",
+  "stand": "9. Oktober 2026",
   "sections": [
     {
       "number": 1,
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Grundprinzip: Deine Eingaben bleiben auf deinem Gerät",
-      "body": "ConcreteCalc berechnet Betonvolumen, Betonsäcke, Steinbedarf und Materialkosten vollständig auf dem Gerät. Maße, Preise und Ergebnisse werden nur im laufenden Bildschirmzustand verarbeitet. Dauerhaft gespeichert werden lediglich die gewählte Darstellung, die Standardreserve und der zuletzt bestätigte Pro-Status. Es gibt kein Nutzerkonto, keinen eigenen Server und keine Analyse- oder Crash-Reporting-SDKs. Android-Backups sind deaktiviert."
+      "body": "ConcreteCalc berechnet Betonvolumen, Betonsäcke, Mischungen, Estrich, Schüttgut, Steinbedarf und Materialkosten vollständig auf dem Gerät. Maße, Preise und Ergebnisse werden nur im laufenden Bildschirmzustand verarbeitet, solange du sie nicht selbst in einem Projekt speicherst. Dauerhaft gespeichert werden die gewählte Darstellung, die Standardreserve, der zuletzt bestätigte Pro-Status und – nur mit Pro – die Projekte, die du anlegst (Projektname, Eingaben, Ergebnisse und Speicherzeitpunkt). Es gibt kein Nutzerkonto, keinen eigenen Server und keine Analyse- oder Crash-Reporting-SDKs. Android-Backups sind deaktiviert."
     },
     {
       "number": 3,
@@ -24,17 +24,17 @@
     {
       "number": 4,
       "heading": "Käufe über Google Play",
-      "body": "ConcreteCalc Pro entfernt sämtliche Werbung und ist ein einmaliger In-App-Kauf ohne Abo. Google wickelt Zahlung und Kontodaten als eigenständiger Verantwortlicher ab. Die App erhält nur Produkt-ID, Kaufstatus, Bestätigungsstatus und einen Kauf-Token zur Bestätigung, keine Zahlungsdaten. Der freigeschaltete Status wird lokal gespeichert und regelmäßig erneut bei Google Play abgefragt, damit auch Erstattungen wirksam werden."
+      "body": "ConcreteCalc Pro entfernt sämtliche Werbung, schaltet Projekte und den PDF-Export frei und ist ein einmaliger In-App-Kauf ohne Abo. Google wickelt Zahlung und Kontodaten als eigenständiger Verantwortlicher ab. Die App erhält nur Produkt-ID, Kaufstatus, Bestätigungsstatus und einen Kauf-Token zur Bestätigung, keine Zahlungsdaten. Der freigeschaltete Status wird lokal gespeichert und regelmäßig erneut bei Google Play abgefragt, damit auch Erstattungen wirksam werden."
     },
     {
       "number": 5,
-      "heading": "Ergebnis teilen",
-      "body": "Erst wenn du „Ergebnis teilen“ auswählst, übergibt die App den angezeigten Ergebnistext samt deinen Eingaben an den Android-Teilen-Dialog. Du bestimmst die Empfänger-App; für deren Verarbeitung gilt deren Datenschutzerklärung."
+      "heading": "Ergebnisse teilen und PDF-Export",
+      "body": "Erst wenn du „Ergebnis teilen“ auswählst, übergibt die App den angezeigten Ergebnistext samt deinen Eingaben an den Android-Teilen-Dialog. Du bestimmst die Empfänger-App; für deren Verarbeitung gilt deren Datenschutzerklärung. Mit Pro kannst du ein Ergebnis oder ein ganzes Projekt auch als PDF teilen. Die Datei wird dafür im Cache der App erzeugt und nur an die von dir gewählte App übergeben; beim nächsten Export wird sie ersetzt."
     },
     {
       "number": 6,
       "heading": "Datenlöschung",
-      "body": "Eingaben verschwinden, sobald du sie änderst oder die App beendest. Gespeicherte Einstellungen und den lokalen Pro-Status entfernst du über Android → Apps → ConcreteCalc → Speicher löschen oder durch Deinstallation. Ein gekaufter Pro-Anspruch bleibt in deinem Google-Play-Konto erhalten und lässt sich in der App wiederherstellen."
+      "body": "Nicht gespeicherte Eingaben verschwinden, sobald du sie änderst oder die App beendest. Einzelne Berechnungen und ganze Projekte löschst du in der App unter Projekte. Gespeicherte Einstellungen, Projekte und den lokalen Pro-Status entfernst du über Android → Apps → ConcreteCalc → Speicher löschen oder durch Deinstallation. Ein gekaufter Pro-Anspruch bleibt in deinem Google-Play-Konto erhalten und lässt sich in der App wiederherstellen."
     },
     {
       "number": 7,

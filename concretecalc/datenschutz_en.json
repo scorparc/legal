@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-10-09.1",
   "language": "en",
   "title": "Privacy Policy",
   "app": "ConcreteCalc",
-  "stand": "8 October 2026",
+  "stand": "9 October 2026",
   "sections": [
     {
       "number": 1,
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Core principle: your entries stay on your device",
-      "body": "ConcreteCalc calculates concrete volumes, bags, block quantities and material costs entirely on your device. Dimensions, prices and results are processed only as current screen state. Only the selected appearance, the default reserve and the last confirmed Pro status are stored permanently. There is no user account, no own server and no analytics or crash-reporting SDK. Android backups are disabled."
+      "body": "ConcreteCalc calculates concrete volumes, bags, mixes, screed, bulk materials, block quantities and material costs entirely on your device. Dimensions, prices and results are processed only as current screen state unless you save them in a project yourself. Stored permanently are the selected appearance, the default reserve, the last confirmed Pro status and – with Pro only – the projects you create (project name, entries, results and time saved). There is no user account, no own server and no analytics or crash-reporting SDK. Android backups are disabled."
     },
     {
       "number": 3,
@@ -24,17 +24,17 @@
     {
       "number": 4,
       "heading": "Purchases via Google Play",
-      "body": "ConcreteCalc Pro removes all advertising and is a one-time in-app purchase, not a subscription. Google handles payment and account data as an independent controller. The app receives only the product ID, purchase state, acknowledgement state and a purchase token used for acknowledgement, never payment details. The unlocked status is stored locally and queried again at Google Play regularly so that refunds take effect."
+      "body": "ConcreteCalc Pro removes all advertising, unlocks projects and PDF export and is a one-time in-app purchase, not a subscription. Google handles payment and account data as an independent controller. The app receives only the product ID, purchase state, acknowledgement state and a purchase token used for acknowledgement, never payment details. The unlocked status is stored locally and queried again at Google Play regularly so that refunds take effect."
     },
     {
       "number": 5,
-      "heading": "Sharing a result",
-      "body": "Only when you choose Share result does the app hand the displayed result text including your entries to the Android share dialog. You choose the receiving app; its own privacy policy applies to what it does with the text."
+      "heading": "Sharing results and PDF export",
+      "body": "Only when you choose Share result does the app hand the displayed result text including your entries to the Android share dialog. You choose the receiving app; its own privacy policy applies to what it does with the text. With Pro you can also share a result or an entire project as a PDF. The file is created in the app's cache and handed only to the app you choose; it is replaced by the next export."
     },
     {
       "number": 6,
       "heading": "Deleting data",
-      "body": "Entries disappear as soon as you change them or close the app. Remove stored settings and the local Pro status via Android → Apps → ConcreteCalc → Clear storage, or by uninstalling. A purchased Pro entitlement stays with your Google Play account and can be restored in the app."
+      "body": "Unsaved entries disappear as soon as you change them or close the app. Delete individual calculations and whole projects in the app under Projects. Remove stored settings, projects and the local Pro status via Android → Apps → ConcreteCalc → Clear storage, or by uninstalling. A purchased Pro entitlement stays with your Google Play account and can be restored in the app."
     },
     {
       "number": 7,
