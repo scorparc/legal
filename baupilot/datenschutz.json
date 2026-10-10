@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-10.2",
+  "version": "2026-10-10.3",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "BauPilot",
@@ -33,8 +33,8 @@
     },
     {
       "number": 6,
-      "heading": "Fotos und Dateien",
-      "body": "Fotos nimmst du über die Kamera-App des Systems auf oder wählst sie über die Fotoauswahl aus; BauPilot erhält nur die Bilder, die du auswählst, und fordert keine allgemeine Kamera- oder Speicherberechtigung an. Vor dem Hochladen werden Fotos auf dem Gerät verkleinert. Gespeichert werden die Datei sowie Zeitpunkt, Raum, Beschreibung, Zuordnung (z. B. Aufgabe oder Mangel) und wer das Foto hochgeladen hat. Fotos liegen in einem nicht öffentlichen Speicher; abrufen können sie nur Mitglieder des Projekts über zeitlich begrenzte Links. Je nach Kamera-Einstellung können Fotos Standortangaben (EXIF) enthalten; BauPilot wertet diese nicht aus. Bitte lade keine Ausweise, Bankdaten oder vergleichbar sensiblen Unterlagen hoch."
+      "heading": "Fotos, Dokumente und Profilbilder",
+      "body": "Fotos nimmst du über die Kamera-App des Systems auf oder wählst sie über die Fotoauswahl aus; BauPilot erhält nur die Bilder, die du auswählst, und fordert keine allgemeine Kamera- oder Speicherberechtigung an. Vor dem Hochladen werden Fotos auf dem Gerät verkleinert. Gespeichert werden die Datei sowie Zeitpunkt, Raum, Beschreibung, Zuordnung (z. B. Aufgabe oder Mangel) und wer das Foto hochgeladen hat. Fotos liegen in einem nicht öffentlichen Speicher; abrufen können sie nur Mitglieder des Projekts über zeitlich begrenzte Links. Je nach Kamera-Einstellung können Fotos Standortangaben (EXIF) enthalten; BauPilot wertet diese nicht aus. Dasselbe gilt für hochgeladene Dokumente (z. B. Pläne, Angebote, Rechnungen) und ein Projektlogo. Ein freiwilliges Profilfoto ist für angemeldete Nutzer sichtbar, mit denen du ein Projekt teilst; du kannst es jederzeit entfernen. Bitte lade keine Ausweise, Bankdaten oder vergleichbar sensiblen Unterlagen hoch."
     },
     {
       "number": 7,
@@ -48,26 +48,31 @@
     },
     {
       "number": 9,
+      "heading": "Benachrichtigungen und Push-Nachrichten",
+      "body": "Benachrichtigungen (z. B. neue Zuweisung, Kommentar, Erinnerung an Fristen) werden zu deinem Konto in der Datenbank gespeichert und in der App angezeigt. Erlaubst du auf deinem Gerät oder im Browser Mitteilungen, senden wir diese zusätzlich als Push-Nachricht über Firebase Cloud Messaging der Google Ireland Limited (Gordon House, Barrow Street, Dublin 4, Irland). Dafür werden ein gerätebezogenes Token sowie Titel und Kurztext der Benachrichtigung an Google übermittelt; Projektinhalte darüber hinaus nicht. Eine Übermittlung in die USA ist möglich; Google ist nach dem EU-US Data Privacy Framework zertifiziert, ergänzend gelten die EU-Standardvertragsklauseln. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), die du jederzeit in den System- bzw. Browsereinstellungen widerrufen kannst. Beim Abmelden wird das Token des Geräts gelöscht, ungültige Tokens entfernen wir automatisch."
+    },
+    {
+      "number": 10,
       "heading": "Daten auf deinem Gerät",
       "body": "Damit BauPilot auch bei schlechtem Netz auf der Baustelle funktioniert, werden die zuletzt geladenen Projektdaten sowie noch nicht übertragene Änderungen und Fotos lokal auf dem Gerät zwischengespeichert und automatisch übertragen, sobald wieder eine Verbindung besteht. Beim Abmelden werden diese lokalen Daten gelöscht. Außerdem merkt sich die App das zuletzt geöffnete Projekt."
     },
     {
-      "number": 10,
+      "number": 11,
       "heading": "Teilen und Export",
       "body": "Daten verlassen BauPilot nur, wenn du es aktiv auslöst, etwa beim Teilen eines Inserats oder beim Export eines Projekts. Den Empfänger bestimmst du selbst über die Teilen-Funktion des Systems oder den Speicherort; für dessen Verarbeitung gilt dessen Datenschutzerklärung. Telefon- und E-Mail-Knöpfe öffnen die entsprechende App deines Geräts."
     },
     {
-      "number": 11,
+      "number": 12,
       "heading": "Speicherdauer und Löschung",
       "body": "Projektdaten werden gespeichert, solange sie im Projekt benötigt werden. Einträge, Fotos und Kommentare können in der App gelöscht werden; Projektmitglieder kann ein Projektverantwortlicher entfernen, und du kannst ein Projekt selbst verlassen. Die Löschung deines Kontos kannst du per E-Mail an vardholt@gmail.com verlangen; sie erfolgt innerhalb von 30 Tagen. Inhalte, die du in gemeinsamen Projekten erstellt hast, bleiben für die übrigen Mitglieder erhalten, werden aber nicht mehr mit deinem Konto verknüpft. In Sicherungskopien sind gelöschte Daten noch bis zu 30 Tage enthalten."
     },
     {
-      "number": 12,
+      "number": 13,
       "heading": "Deine Rechte",
       "body": "Du hast nach der DSGVO das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch. Wende dich dazu an vardholt@gmail.com. Du hast außerdem das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde, zum Beispiel beim Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg."
     },
     {
-      "number": 13,
+      "number": 14,
       "heading": "Änderungen dieser Erklärung",
       "body": "Diese Datenschutzerklärung wird bei Änderungen der App, der eingesetzten Dienste oder der Datenverarbeitung angepasst. Die jeweils aktuelle Fassung ist in der App und unter https://scorparc.github.io/legal/baupilot/datenschutz.html abrufbar."
     }
