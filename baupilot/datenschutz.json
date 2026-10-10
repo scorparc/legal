@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-10.1",
+  "version": "2026-10-10.2",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "BauPilot",
@@ -39,7 +39,7 @@
     {
       "number": 7,
       "heading": "Dienstleister und Speicherort",
-      "body": "Datenbank, Anmeldung, E-Mail-Versand und Dateispeicher werden von Supabase Inc. bereitgestellt. Die Server stehen in Frankfurt am Main (EU). Supabase verarbeitet die Daten in unserem Auftrag (Art. 28 DSGVO); da Supabase ein US-Unternehmen ist, sind für einen möglichen Zugriff aus Drittländern die EU-Standardvertragsklauseln vereinbart. Die Daten werden verschlüsselt übertragen (TLS) und verschlüsselt gespeichert.\nDie Web-Version wird über Cloudflare, Inc. ausgeliefert. Dabei wird technisch bedingt deine IP-Adresse verarbeitet; Cloudflare speichert keine Projektdaten.\nZur Sicherung erstellen wir täglich eine Kopie der Datenbank. Sie wird vor der Übertragung mit AES-256 verschlüsselt und 30 Tage im privaten Code-Repository bei GitHub, Inc. aufbewahrt; GitHub kann den Inhalt nicht lesen. Fotos werden zusätzlich auf einen privaten Speicher des Verantwortlichen in Deutschland gesichert.\nRechtsgrundlage für Hosting und Sicherung ist Art. 6 Abs. 1 lit. b und f DSGVO (sicherer und verlässlicher Betrieb)."
+      "body": "Datenbank, Anmeldung, E-Mail-Versand und Dateispeicher werden von Supabase Inc. bereitgestellt. Die Server stehen in Frankfurt am Main (EU). Supabase verarbeitet die Daten in unserem Auftrag (Art. 28 DSGVO); da Supabase ein US-Unternehmen ist, sind für einen möglichen Zugriff aus Drittländern die EU-Standardvertragsklauseln vereinbart. Die Daten werden verschlüsselt übertragen (TLS) und verschlüsselt gespeichert.\nDie Web-Version wird über Cloudflare, Inc. ausgeliefert. Dabei wird technisch bedingt deine IP-Adresse verarbeitet; Cloudflare speichert keine Projektdaten.\nZur Sicherung erstellen wir täglich eine Kopie der Datenbank. Sie wird vor der Übertragung mit AES-256 verschlüsselt und 30 Tage im privaten Code-Repository bei GitHub, Inc. aufbewahrt; GitHub kann den Inhalt nicht lesen.\nRechtsgrundlage für Hosting und Sicherung ist Art. 6 Abs. 1 lit. b und f DSGVO (sicherer und verlässlicher Betrieb)."
     },
     {
       "number": 8,
