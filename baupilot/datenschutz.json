@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-11.2",
+  "version": "2026-10-11.3",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "BauprojektZentrale",
@@ -59,7 +59,7 @@
     {
       "number": 11,
       "heading": "Teilen und Export",
-      "body": "Daten verlassen BauprojektZentrale nur, wenn du es aktiv auslöst, etwa beim Teilen eines Inserats oder beim Export eines Projekts. Den Empfänger bestimmst du selbst über die Teilen-Funktion des Systems oder den Speicherort; für dessen Verarbeitung gilt dessen Datenschutzerklärung. Telefon- und E-Mail-Knöpfe öffnen die entsprechende App deines Geräts."
+      "body": "Daten verlassen BauprojektZentrale nur, wenn du es aktiv auslöst, etwa beim Teilen eines Inserats oder beim Export eines Projekts. Den Empfänger bestimmst du selbst über die Teilen-Funktion des Systems oder den Speicherort; für dessen Verarbeitung gilt dessen Datenschutzerklärung. Telefon- und E-Mail-Knöpfe öffnen die entsprechende App deines Geräts. Abonnierst du den Projektkalender (Kalender-Abo), erzeugt die App einen geheimen Link; dein Kalenderdienst (z. B. Google, Microsoft oder Apple) ruft darüber regelmäßig Termine, fällige Aufgaben, Abholungen und Phasen dieses Projekts ab und speichert sie nach seinen eigenen Bedingungen. Du kannst den Link in der App jederzeit erneuern oder beenden."
     },
     {
       "number": 12,
