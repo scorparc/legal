@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-11.3",
+  "version": "2026-10-11.4",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "BauprojektZentrale",
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Nutzerkonto",
-      "body": "Für die Nutzung brauchst du ein Konto mit E-Mail-Adresse und Passwort. Das Passwort wird ausschließlich als kryptografischer Hash beim Anmeldedienst gespeichert und ist für uns nicht einsehbar. Zusätzlich speichern wir Vor- und Nachname sowie freiwillig Telefonnummer, Firma und Funktion. Diese Angaben sehen die Mitglieder der Projekte, an denen du beteiligt bist. Für Registrierung, Bestätigung und das Zurücksetzen des Passworts erhältst du E-Mails des Anmeldedienstes. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Bereitstellung der App)."
+      "body": "Für die Nutzung brauchst du ein Konto mit E-Mail-Adresse und Passwort. Das Passwort wird ausschließlich als kryptografischer Hash beim Anmeldedienst gespeichert und ist für uns nicht einsehbar. Zusätzlich speichern wir Vor- und Nachname sowie freiwillig Telefonnummer, Firma und Funktion. Diese Angaben sehen die Mitglieder der Projekte, an denen du beteiligt bist. Für Registrierung, Bestätigung und das Zurücksetzen des Passworts erhältst du E-Mails des Anmeldedienstes. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Bereitstellung der App). Schickst du über „Feedback & Ideen“ eine Nachricht, speichern wir den Text zusammen mit App-Version, aktueller Seite, Projekt und deinem Konto, um Fehler zu beheben, Rückfragen zu stellen und die App zu verbessern. Du kannst die Löschung jederzeit per E-Mail verlangen."
     },
     {
       "number": 4,
@@ -59,7 +59,7 @@
     {
       "number": 11,
       "heading": "Teilen und Export",
-      "body": "Daten verlassen BauprojektZentrale nur, wenn du es aktiv auslöst, etwa beim Teilen eines Inserats oder beim Export eines Projekts. Den Empfänger bestimmst du selbst über die Teilen-Funktion des Systems oder den Speicherort; für dessen Verarbeitung gilt dessen Datenschutzerklärung. Telefon- und E-Mail-Knöpfe öffnen die entsprechende App deines Geräts. Abonnierst du den Projektkalender (Kalender-Abo), erzeugt die App einen geheimen Link; dein Kalenderdienst (z. B. Google, Microsoft oder Apple) ruft darüber regelmäßig Termine, fällige Aufgaben, Abholungen und Phasen dieses Projekts ab und speichert sie nach seinen eigenen Bedingungen. Du kannst den Link in der App jederzeit erneuern oder beenden."
+      "body": "Daten verlassen BauprojektZentrale nur, wenn du es aktiv auslöst, etwa beim Teilen eines Inserats oder beim Export eines Projekts. Den Empfänger bestimmst du selbst über die Teilen-Funktion des Systems oder den Speicherort; für dessen Verarbeitung gilt dessen Datenschutzerklärung. Telefon- und E-Mail-Knöpfe öffnen die entsprechende App deines Geräts. Abonnierst du den Projektkalender (Kalender-Abo), erzeugt die App einen geheimen Link; dein Kalenderdienst (z. B. Google, Microsoft oder Apple) ruft darüber regelmäßig Termine, fällige Aufgaben, Abholungen und Phasen dieses Projekts ab und speichert sie nach seinen eigenen Bedingungen. Du kannst den Link in der App jederzeit erneuern oder beenden. Der Routen-Knopf öffnet Google Maps mit der Adresse der Baustelle; Produkt-Links öffnen die jeweilige Website."
     },
     {
       "number": 12,
