@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-11.1",
+  "version": "2026-10-11.2",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "BauPilot",
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Worum es geht",
-      "body": "BauPilot organisiert Bauprojekte gemeinsam mit Familie, Architekt, Bauleitung und Handwerkern: Aufgaben, Termine, Räume, Gewerke, Mängel, Fotos, Material, Ausräumen, Entsorgung und Genehmigungen. Damit alle Beteiligten denselben Stand sehen, werden diese Daten in einer Cloud-Datenbank gespeichert und mit den Mitgliedern des jeweiligen Projekts geteilt. Es gibt keine Werbung, keine Analyse- oder Tracking-Werkzeuge und keine Weitergabe oder Verwertung deiner Daten zu eigenen Zwecken."
+      "body": "BauprojektZentrale organisiert Bauprojekte gemeinsam mit Familie, Architekt, Bauleitung und Handwerkern: Aufgaben, Termine, Räume, Gewerke, Mängel, Fotos, Material, Ausräumen, Entsorgung und Genehmigungen. Damit alle Beteiligten denselben Stand sehen, werden diese Daten in einer Cloud-Datenbank gespeichert und mit den Mitgliedern des jeweiligen Projekts geteilt. Es gibt keine Werbung, keine Analyse- oder Tracking-Werkzeuge und keine Weitergabe oder Verwertung deiner Daten zu eigenen Zwecken."
     },
     {
       "number": 3,
@@ -29,12 +29,12 @@
     {
       "number": 5,
       "heading": "Kontaktdaten anderer Personen",
-      "body": "In BauPilot können Kontakte ohne eigenes Konto angelegt werden, etwa Handwerker, Firmen, Lieferanten oder Helfer (Name, Firma, Rolle, Telefon, E-Mail, Adresse, Notizen). Für diese Einträge ist die Person verantwortlich, die sie anlegt. Bitte erfasse nur Angaben, die für die Zusammenarbeit am Bau nötig sind, und informiere die Betroffenen, wenn du ihre Daten in einem gemeinsamen Projekt speicherst."
+      "body": "In BauprojektZentrale können Kontakte ohne eigenes Konto angelegt werden, etwa Handwerker, Firmen, Lieferanten oder Helfer (Name, Firma, Rolle, Telefon, E-Mail, Adresse, Notizen). Für diese Einträge ist die Person verantwortlich, die sie anlegt. Bitte erfasse nur Angaben, die für die Zusammenarbeit am Bau nötig sind, und informiere die Betroffenen, wenn du ihre Daten in einem gemeinsamen Projekt speicherst."
     },
     {
       "number": 6,
       "heading": "Fotos, Dokumente und Profilbilder",
-      "body": "Fotos nimmst du über die Kamera-App des Systems auf oder wählst sie über die Fotoauswahl aus; BauPilot erhält nur die Bilder, die du auswählst, und fordert keine allgemeine Kamera- oder Speicherberechtigung an. Vor dem Hochladen werden Fotos auf dem Gerät verkleinert. Gespeichert werden die Datei sowie Zeitpunkt, Raum, Beschreibung, Zuordnung (z. B. Aufgabe oder Mangel) und wer das Foto hochgeladen hat. Fotos liegen in einem nicht öffentlichen Speicher; abrufen können sie nur Mitglieder des Projekts über zeitlich begrenzte Links. Je nach Kamera-Einstellung können Fotos Standortangaben (EXIF) enthalten; BauPilot wertet diese nicht aus. Dasselbe gilt für hochgeladene Dokumente (z. B. Pläne, Angebote, Rechnungen) und ein Projektlogo. Ein freiwilliges Profilfoto ist für angemeldete Nutzer sichtbar, mit denen du ein Projekt teilst; du kannst es jederzeit entfernen. Bitte lade keine Ausweise, Bankdaten oder vergleichbar sensiblen Unterlagen hoch."
+      "body": "Fotos nimmst du über die Kamera-App des Systems auf oder wählst sie über die Fotoauswahl aus; BauprojektZentrale erhält nur die Bilder, die du auswählst, und fordert keine allgemeine Kamera- oder Speicherberechtigung an. Vor dem Hochladen werden Fotos auf dem Gerät verkleinert. Gespeichert werden die Datei sowie Zeitpunkt, Raum, Beschreibung, Zuordnung (z. B. Aufgabe oder Mangel) und wer das Foto hochgeladen hat. Fotos liegen in einem nicht öffentlichen Speicher; abrufen können sie nur Mitglieder des Projekts über zeitlich begrenzte Links. Je nach Kamera-Einstellung können Fotos Standortangaben (EXIF) enthalten; BauprojektZentrale wertet diese nicht aus. Dasselbe gilt für hochgeladene Dokumente (z. B. Pläne, Angebote, Rechnungen) und ein Projektlogo. Ein freiwilliges Profilfoto ist für angemeldete Nutzer sichtbar, mit denen du ein Projekt teilst; du kannst es jederzeit entfernen. Bitte lade keine Ausweise, Bankdaten oder vergleichbar sensiblen Unterlagen hoch."
     },
     {
       "number": 7,
@@ -54,12 +54,12 @@
     {
       "number": 10,
       "heading": "Daten auf deinem Gerät",
-      "body": "Damit BauPilot auch bei schlechtem Netz auf der Baustelle funktioniert, werden die zuletzt geladenen Projektdaten sowie noch nicht übertragene Änderungen und Fotos lokal auf dem Gerät zwischengespeichert und automatisch übertragen, sobald wieder eine Verbindung besteht. Beim Abmelden werden diese lokalen Daten gelöscht. Außerdem merkt sich die App das zuletzt geöffnete Projekt."
+      "body": "Damit BauprojektZentrale auch bei schlechtem Netz auf der Baustelle funktioniert, werden die zuletzt geladenen Projektdaten sowie noch nicht übertragene Änderungen und Fotos lokal auf dem Gerät zwischengespeichert und automatisch übertragen, sobald wieder eine Verbindung besteht. Beim Abmelden werden diese lokalen Daten gelöscht. Außerdem merkt sich die App das zuletzt geöffnete Projekt."
     },
     {
       "number": 11,
       "heading": "Teilen und Export",
-      "body": "Daten verlassen BauPilot nur, wenn du es aktiv auslöst, etwa beim Teilen eines Inserats oder beim Export eines Projekts. Den Empfänger bestimmst du selbst über die Teilen-Funktion des Systems oder den Speicherort; für dessen Verarbeitung gilt dessen Datenschutzerklärung. Telefon- und E-Mail-Knöpfe öffnen die entsprechende App deines Geräts."
+      "body": "Daten verlassen BauprojektZentrale nur, wenn du es aktiv auslöst, etwa beim Teilen eines Inserats oder beim Export eines Projekts. Den Empfänger bestimmst du selbst über die Teilen-Funktion des Systems oder den Speicherort; für dessen Verarbeitung gilt dessen Datenschutzerklärung. Telefon- und E-Mail-Knöpfe öffnen die entsprechende App deines Geräts."
     },
     {
       "number": 12,
