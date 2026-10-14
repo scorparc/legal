@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-09.1",
+  "version": "2026-10-14.1",
   "language": "pt",
   "title": "Política de privacidade",
   "app": "ConcreteCalc",
-  "stand": "9 de outubro de 2026",
+  "stand": "14 de outubro de 2026",
   "sections": [
     {
       "number": 1,
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Princípio fundamental: os teus dados ficam no dispositivo",
-      "body": "A ConcreteCalc calcula volumes de betão, sacos, misturas, betonilhas, materiais a granel, quantidades de blocos e custos de materiais inteiramente no dispositivo. Medidas, preços e resultados são tratados apenas como estado atual do ecrã, a menos que os guardes num projeto. De forma permanente são guardados o aspeto escolhido, a reserva predefinida, o último estado Pro confirmado e, apenas com o Pro, os projetos que crias (nome do projeto, dados introduzidos, resultados e data de gravação). Não existe conta de utilizador, servidor próprio nem SDK de análise ou de relatórios de falhas. As cópias de segurança do Android estão desativadas."
+      "body": "A ConcreteCalc calcula volumes de betão, sacos, misturas, betonilhas, materiais a granel, quantidades de blocos e custos de materiais inteiramente no dispositivo. Medidas, preços e resultados são tratados apenas como estado atual do ecrã, a menos que os guardes num projeto. De forma permanente são guardados o aspeto escolhido, a reserva predefinida, o último estado Pro confirmado e, apenas com o Pro, os projetos que crias (nome do projeto, dados introduzidos, resultados e data de gravação). A aplicação guarda também o sistema de unidades escolhido, as últimas unidades selecionadas e um contador para o pedido de avaliação. Para escolher automaticamente unidades métricas ou imperiais, lê a região nas definições do dispositivo ou, na falta dela, o país da rede móvel; esta informação não sai do dispositivo. Não existe conta de utilizador, servidor próprio nem SDK de análise ou de relatórios de falhas. As cópias de segurança do Android estão desativadas."
     },
     {
       "number": 3,

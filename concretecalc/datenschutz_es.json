@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-09.1",
+  "version": "2026-10-14.1",
   "language": "es",
   "title": "Política de privacidad",
   "app": "ConcreteCalc",
-  "stand": "9 de octubre de 2026",
+  "stand": "14 de octubre de 2026",
   "sections": [
     {
       "number": 1,
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Principio básico: tus datos permanecen en tu dispositivo",
-      "body": "ConcreteCalc calcula volúmenes de hormigón, sacos, mezclas, soleras, áridos, cantidades de bloques y costes de material íntegramente en el dispositivo. Las medidas, los precios y los resultados solo se procesan como estado actual de la pantalla, salvo que los guardes tú mismo en un proyecto. De forma permanente se guardan la apariencia elegida, la reserva predeterminada, el último estado Pro confirmado y, solo con Pro, los proyectos que crees (nombre del proyecto, datos introducidos, resultados y fecha de guardado). No hay cuenta de usuario, ni servidor propio, ni SDK de análisis o informes de fallos. Las copias de seguridad de Android están desactivadas."
+      "body": "ConcreteCalc calcula volúmenes de hormigón, sacos, mezclas, soleras, áridos, cantidades de bloques y costes de material íntegramente en el dispositivo. Las medidas, los precios y los resultados solo se procesan como estado actual de la pantalla, salvo que los guardes tú mismo en un proyecto. De forma permanente se guardan la apariencia elegida, la reserva predeterminada, el último estado Pro confirmado y, solo con Pro, los proyectos que crees (nombre del proyecto, datos introducidos, resultados y fecha de guardado). La aplicación también guarda el sistema de unidades elegido, las últimas unidades seleccionadas y un contador para la solicitud de valoración. Para elegir automáticamente unidades métricas o imperiales lee la región de los ajustes del dispositivo o, si no hay ninguna, el país de la red móvil; este dato no sale del dispositivo. No hay cuenta de usuario, ni servidor propio, ni SDK de análisis o informes de fallos. Las copias de seguridad de Android están desactivadas."
     },
     {
       "number": 3,

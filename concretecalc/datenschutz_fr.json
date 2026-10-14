@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-09.1",
+  "version": "2026-10-14.1",
   "language": "fr",
   "title": "Politique de confidentialité",
   "app": "ConcreteCalc",
-  "stand": "9 octobre 2026",
+  "stand": "14 octobre 2026",
   "sections": [
     {
       "number": 1,
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Principe de base : tes saisies restent sur ton appareil",
-      "body": "ConcreteCalc calcule les volumes de béton, les sacs, les dosages, les chapes, les matériaux en vrac, les quantités de blocs et les coûts de matériaux entièrement sur l'appareil. Les dimensions, les prix et les résultats ne sont traités que comme état d'écran en cours, sauf si tu les enregistres toi-même dans un projet. Sont conservés durablement l'apparence choisie, la réserve par défaut, le dernier statut Pro confirmé et, uniquement avec Pro, les projets que tu crées (nom du projet, saisies, résultats et date d'enregistrement). Il n'y a ni compte, ni serveur propre, ni SDK d'analyse ou de rapport de plantage. Les sauvegardes Android sont désactivées."
+      "body": "ConcreteCalc calcule les volumes de béton, les sacs, les dosages, les chapes, les matériaux en vrac, les quantités de blocs et les coûts de matériaux entièrement sur l'appareil. Les dimensions, les prix et les résultats ne sont traités que comme état d'écran en cours, sauf si tu les enregistres toi-même dans un projet. Sont conservés durablement l'apparence choisie, la réserve par défaut, le dernier statut Pro confirmé et, uniquement avec Pro, les projets que tu crées (nom du projet, saisies, résultats et date d'enregistrement). L'application conserve aussi le système d'unités choisi, les dernières unités sélectionnées et un compteur pour la demande d'évaluation. Pour choisir automatiquement entre unités métriques et impériales, elle lit la région dans les paramètres de l'appareil ou, à défaut, le pays du réseau mobile ; cette information ne quitte pas l'appareil. Il n'y a ni compte, ni serveur propre, ni SDK d'analyse ou de rapport de plantage. Les sauvegardes Android sont désactivées."
     },
     {
       "number": 3,

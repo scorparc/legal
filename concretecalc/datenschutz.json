@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-09.1",
+  "version": "2026-10-14.1",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "ConcreteCalc",
-  "stand": "9. Oktober 2026",
+  "stand": "14. Oktober 2026",
   "sections": [
     {
       "number": 1,
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Grundprinzip: Deine Eingaben bleiben auf deinem Gerät",
-      "body": "ConcreteCalc berechnet Betonvolumen, Betonsäcke, Mischungen, Estrich, Schüttgut, Steinbedarf und Materialkosten vollständig auf dem Gerät. Maße, Preise und Ergebnisse werden nur im laufenden Bildschirmzustand verarbeitet, solange du sie nicht selbst in einem Projekt speicherst. Dauerhaft gespeichert werden die gewählte Darstellung, die Standardreserve, der zuletzt bestätigte Pro-Status und – nur mit Pro – die Projekte, die du anlegst (Projektname, Eingaben, Ergebnisse und Speicherzeitpunkt). Es gibt kein Nutzerkonto, keinen eigenen Server und keine Analyse- oder Crash-Reporting-SDKs. Android-Backups sind deaktiviert."
+      "body": "ConcreteCalc berechnet Betonvolumen, Betonsäcke, Mischungen, Estrich, Schüttgut, Steinbedarf und Materialkosten vollständig auf dem Gerät. Maße, Preise und Ergebnisse werden nur im laufenden Bildschirmzustand verarbeitet, solange du sie nicht selbst in einem Projekt speicherst. Dauerhaft gespeichert werden die gewählte Darstellung, die Standardreserve, der zuletzt bestätigte Pro-Status und – nur mit Pro – die Projekte, die du anlegst (Projektname, Eingaben, Ergebnisse und Speicherzeitpunkt). Außerdem speichert die App das gewählte Maßsystem, die zuletzt gewählten Einheiten und einen Zähler für die Bewertungsanfrage. Für die automatische Wahl zwischen metrischen und imperialen Einheiten liest sie die Region aus den Geräteeinstellungen oder, falls dort keine angegeben ist, das Land des Mobilfunknetzes; diese Angabe verlässt das Gerät nicht. Es gibt kein Nutzerkonto, keinen eigenen Server und keine Analyse- oder Crash-Reporting-SDKs. Android-Backups sind deaktiviert."
     },
     {
       "number": 3,
