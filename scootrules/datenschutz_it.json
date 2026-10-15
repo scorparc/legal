@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-10-15.1",
   "language": "it",
   "title": "Informativa sulla privacy",
   "app": "ScootRules",
-  "stand": "8 ottobre 2026",
+  "stand": "15 ottobre 2026",
   "sections": [
     {
       "number": 1,
@@ -18,21 +18,31 @@
     },
     {
       "number": 3,
-      "heading": "Richieste GitHub, link esterni e nessun'altra funzione sui dati",
+      "heading": "Richieste GitHub e link esterni",
       "body": "Le regole per Paese e i testi legali vengono aggiornati tramite HTTPS da fonti GitHub pubbliche al massimo una volta ogni 24 ore. Per motivi tecnici GitHub riceve l'indirizzo IP. Se apri una fonte, un riferimento a un'altra app o un testo legale nel browser, l'app avvia un'applicazione esterna solo dopo la tua azione; si applicano quindi le relative informazioni sulla privacy. Nelle funzioni attuali ScootRules non tratta dati di minori o sanitari, foto o file, notifiche, acquisti Google Play o backup cloud. Non esistono account utente né servizi di analisi, pubblicità o tracciamento."
     },
     {
       "number": 4,
+      "heading": "Google Play: funzione di valutazione",
+      "body": "Dopo che hai consultato tre Paesi diversi, l'app può aprire la funzione di valutazione fornita da Google Play al massimo una volta ogni 120 giorni. È Google Play a decidere se il dialogo compare effettivamente. L'app non trasmette dati di posizione o di utilizzo. In locale vengono salvati solo i codici dei Paesi consultati e la data dell'ultima richiesta."
+    },
+    {
+      "number": 5,
+      "heading": "Richiedere un Paese via e-mail",
+      "body": "Se tocchi «Richiedi un paese», l'app apre la tua app e-mail con un messaggio precompilato a vardholt@gmail.com (Paese e versione dell'app). Viene inviato solo se invii tu stesso l'e-mail. In tal caso trattiamo il tuo indirizzo e-mail e il contenuto per rispondere alla richiesta e pianificare i Paesi (art. 6, par. 1, lett. f del GDPR) e li cancelliamo non appena non sono più necessari a tale scopo."
+    },
+    {
+      "number": 6,
       "heading": "Recupero e aggiornamento dei testi legali",
       "body": "Per mantenere aggiornati le note legali e l'informativa sulla privacy, l'app scarica le versioni JSON esclusivamente da raw.githubusercontent.com al massimo una volta ogni 24 ore e le conserva in locale. Tecnicamente ciò trasmette il tuo indirizzo IP a GitHub. Senza connessione Internet vengono mostrate le versioni incluse nell'app. Se selezioni « Apri nel browser », la corrispondente versione HTML viene aperta tramite GitHub Pages in un'applicazione esterna. Il recupero si basa sul nostro legittimo interesse a mantenere aggiornate le informazioni obbligatorie (art. 6, par. 1, lett. f GDPR)."
     },
     {
-      "number": 5,
+      "number": 7,
       "heading": "I tuoi diritti",
       "body": "Ai sensi del GDPR hai in particolare diritto di accesso, rettifica, cancellazione, limitazione del trattamento, portabilità e opposizione, nonché il diritto di proporre reclamo a un'autorità di controllo. I dati dell'app sono generalmente conservati localmente sotto il tuo controllo, quindi puoi consultarli, modificarli o eliminarli lì. Se fornitori esterni trattano dati dopo l'apertura volontaria di link, si applicano le loro informazioni sulla privacy."
     },
     {
-      "number": 6,
+      "number": 8,
       "heading": "Modifiche alla presente informativa",
       "body": "La presente informativa viene aggiornata quando cambiano l'app, i servizi utilizzati o il trattamento dei dati. La versione attuale è disponibile nell'app e all'indirizzo indicato."
     }

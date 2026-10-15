@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-10-15.1",
   "language": "pt",
   "title": "Política de privacidade",
   "app": "ScootRules",
-  "stand": "8 de outubro de 2026",
+  "stand": "15 de outubro de 2026",
   "sections": [
     {
       "number": 1,
@@ -18,21 +18,31 @@
     },
     {
       "number": 3,
-      "heading": "Pedidos ao GitHub, links externos e ausência de outras funções de dados",
+      "heading": "Pedidos ao GitHub e links externos",
       "body": "As regras por país e os textos legais são atualizados por HTTPS a partir de fontes públicas do GitHub no máximo uma vez a cada 24 horas. Por motivos técnicos, o GitHub recebe o endereço IP. Se abrires uma fonte, uma referência a outra aplicação ou um texto legal no navegador, a aplicação só inicia uma aplicação externa após a tua ação; aplicam-se então as respetivas informações de privacidade. Nas funções atuais, o ScootRules não trata dados de crianças ou de saúde, fotografias ou ficheiros, notificações, compras Google Play nem cópias na nuvem. Não existe conta de utilizador nem serviços de análise, publicidade ou rastreio."
     },
     {
       "number": 4,
+      "heading": "Google Play: função de avaliação",
+      "body": "Depois de teres consultado três países diferentes, a aplicação pode abrir a função de avaliação disponibilizada pelo Google Play no máximo uma vez a cada 120 dias. É o Google Play que decide se o diálogo aparece efetivamente. A aplicação não transmite dados de localização nem de utilização. Apenas os códigos dos países consultados e a data do último pedido são guardados localmente."
+    },
+    {
+      "number": 5,
+      "heading": "Pedir um país por e-mail",
+      "body": "Se tocares em «Pedir um país», a aplicação abre a tua aplicação de e-mail com uma mensagem pré-preenchida para vardholt@gmail.com (país e versão da aplicação). Só é enviada se tu próprio enviares o e-mail. Nesse caso, tratamos o teu endereço de e-mail e o conteúdo para responder ao pedido e planear os países (art. 6.º, n.º 1, alínea f) do RGPD) e eliminamo-los assim que deixarem de ser necessários para esse fim."
+    },
+    {
+      "number": 6,
       "heading": "Consulta e atualização dos textos legais",
       "body": "Para manter atualizados o aviso legal e a política de privacidade, a aplicação transfere as versões JSON apenas de raw.githubusercontent.com no máximo uma vez a cada 24 horas e guarda-as localmente. Tecnicamente, isto transmite o teu endereço IP ao GitHub. Sem ligação à Internet são apresentadas as versões incluídas na aplicação. Se selecionares « Abrir no navegador », a versão HTML correspondente é aberta através do GitHub Pages numa aplicação externa. A consulta baseia-se no nosso interesse legítimo em manter atualizada a informação obrigatória (art. 6.º, n.º 1, alínea f, do RGPD)."
     },
     {
-      "number": 5,
+      "number": 7,
       "heading": "Os teus direitos",
       "body": "Nos termos do RGPD tens, em particular, direito de acesso, retificação, apagamento, limitação do tratamento, portabilidade e oposição, bem como o direito de apresentar uma reclamação junto de uma autoridade de controlo. Os dados da aplicação são geralmente guardados localmente sob o teu controlo, pelo que podes consultá-los, alterá-los ou eliminá-los aí. Quando fornecedores externos tratam dados depois de abrires links voluntariamente, aplicam-se as respetivas informações de privacidade."
     },
     {
-      "number": 6,
+      "number": 8,
       "heading": "Alterações a esta política",
       "body": "Esta política é atualizada quando mudam a aplicação, os serviços utilizados ou o tratamento de dados. A versão atual está disponível na aplicação e no endereço indicado."
     }
