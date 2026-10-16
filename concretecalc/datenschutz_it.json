@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-14.1",
+  "version": "2026-10-16.1",
   "language": "it",
   "title": "Informativa sulla privacy",
   "app": "ConcreteCalc",
-  "stand": "14 ottobre 2026",
+  "stand": "16 ottobre 2026",
   "sections": [
     {
       "number": 1,
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Principio di base: i tuoi dati restano sul dispositivo",
-      "body": "ConcreteCalc calcola volumi di calcestruzzo, sacchi, impasti, massetti, materiali sfusi, quantità di blocchi e costi dei materiali interamente sul dispositivo. Misure, prezzi e risultati vengono elaborati solo come stato attuale della schermata, a meno che tu non li salvi in un progetto. In modo permanente vengono salvati l'aspetto scelto, la riserva predefinita, l'ultimo stato Pro confermato e, solo con Pro, i progetti che crei (nome del progetto, dati inseriti, risultati e data di salvataggio). L'app salva inoltre il sistema di unità scelto, le ultime unità selezionate e un contatore per la richiesta di valutazione. Per scegliere automaticamente unità metriche o imperiali legge la regione dalle impostazioni del dispositivo o, in sua assenza, il Paese della rete mobile; questo dato non lascia il dispositivo. Non esistono account utente, server propri né SDK di analisi o di segnalazione degli arresti anomali. I backup di Android sono disattivati."
+      "body": "ConcreteCalc calcola volumi di calcestruzzo, sacchi, impasti, massetti, materiali sfusi, quantità di blocchi e costi dei materiali interamente sul dispositivo. Misure, prezzi e risultati vengono elaborati solo come stato attuale della schermata, a meno che tu non li salvi in un progetto. In modo permanente vengono salvati l'aspetto scelto, la riserva predefinita, l'ultimo stato Pro confermato e, solo con Pro, i progetti che crei (nome del progetto, dati inseriti, risultati e data di salvataggio). L'app salva inoltre il sistema di unità scelto, le ultime unità selezionate e un contatore per la richiesta di valutazione. Per scegliere automaticamente unità metriche o imperiali legge il Paese della scheda SIM o, in sua assenza, il Paese della rete mobile o la regione dalle impostazioni del dispositivo; questo dato non lascia il dispositivo. Non esistono account utente, server propri né SDK di analisi o di segnalazione degli arresti anomali. I backup di Android sono disattivati."
     },
     {
       "number": 3,

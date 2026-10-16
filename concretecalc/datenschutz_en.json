@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-14.1",
+  "version": "2026-10-16.1",
   "language": "en",
   "title": "Privacy Policy",
   "app": "ConcreteCalc",
-  "stand": "14 October 2026",
+  "stand": "16 October 2026",
   "sections": [
     {
       "number": 1,
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Core principle: your entries stay on your device",
-      "body": "ConcreteCalc calculates concrete volumes, bags, mixes, screed, bulk materials, block quantities and material costs entirely on your device. Dimensions, prices and results are processed only as current screen state unless you save them in a project yourself. Stored permanently are the selected appearance, the default reserve, the last confirmed Pro status and – with Pro only – the projects you create (project name, entries, results and time saved). The app also stores the selected unit system, the last chosen units and a counter for the rating request. To choose metric or imperial units automatically, it reads the region from the device settings or, if none is set, the country of the mobile network; this information never leaves the device. There is no user account, no own server and no analytics or crash-reporting SDK. Android backups are disabled."
+      "body": "ConcreteCalc calculates concrete volumes, bags, mixes, screed, bulk materials, block quantities and material costs entirely on your device. Dimensions, prices and results are processed only as current screen state unless you save them in a project yourself. Stored permanently are the selected appearance, the default reserve, the last confirmed Pro status and – with Pro only – the projects you create (project name, entries, results and time saved). The app also stores the selected unit system, the last chosen units and a counter for the rating request. To choose metric or imperial units automatically, it reads the country of the SIM card, otherwise the country of the mobile network or the region from the device settings; this information never leaves the device. There is no user account, no own server and no analytics or crash-reporting SDK. Android backups are disabled."
     },
     {
       "number": 3,
