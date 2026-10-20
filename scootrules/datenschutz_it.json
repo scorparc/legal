@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-15.1",
+  "version": "2026-10-20.1",
   "language": "it",
   "title": "Informativa sulla privacy",
   "app": "ScootRules",
-  "stand": "15 ottobre 2026",
+  "stand": "20 ottobre 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Richieste GitHub e link esterni",
-      "body": "Le regole per Paese e i testi legali vengono aggiornati tramite HTTPS da fonti GitHub pubbliche al massimo una volta ogni 24 ore. Per motivi tecnici GitHub riceve l'indirizzo IP. Se apri una fonte, un riferimento a un'altra app o un testo legale nel browser, l'app avvia un'applicazione esterna solo dopo la tua azione; si applicano quindi le relative informazioni sulla privacy. Nelle funzioni attuali ScootRules non tratta dati di minori o sanitari, foto o file, notifiche, acquisti Google Play o backup cloud. Non esistono account utente né servizi di analisi, pubblicità o tracciamento."
+      "body": "Le regole per Paese e i testi legali vengono aggiornati tramite HTTPS da fonti GitHub pubbliche al massimo una volta ogni 24 ore. Per motivi tecnici GitHub riceve l'indirizzo IP. Se apri una fonte, un riferimento a un'altra app o un testo legale nel browser, l'app avvia un'applicazione esterna solo dopo la tua azione; si applicano quindi le relative informazioni sulla privacy. Nelle funzioni attuali ScootRules non tratta dati di minori o sanitari, foto o file, notifiche o backup cloud. Non esistono account utente né servizi di analisi, pubblicità o tracciamento."
     },
     {
       "number": 4,
@@ -33,16 +33,21 @@
     },
     {
       "number": 6,
+      "heading": "Google Play: acquisto di sostegno",
+      "body": "Con «Sostieni ScootRules» puoi effettuare volontariamente un acquisto in-app unico tramite Google Play Billing. Google gestisce il pagamento e la relativa elaborazione e tratta i tuoi dati di pagamento e dell'account secondo la propria informativa sulla privacy. Non riceviamo alcun dato di pagamento. L'app chiede a Google Play solo se l'acquisto esiste e salva questo stato in locale sul dispositivo. Tutti i contenuti restano gratuiti anche senza acquisto."
+    },
+    {
+      "number": 7,
       "heading": "Recupero e aggiornamento dei testi legali",
       "body": "Per mantenere aggiornati le note legali e l'informativa sulla privacy, l'app scarica le versioni JSON esclusivamente da raw.githubusercontent.com al massimo una volta ogni 24 ore e le conserva in locale. Tecnicamente ciò trasmette il tuo indirizzo IP a GitHub. Senza connessione Internet vengono mostrate le versioni incluse nell'app. Se selezioni « Apri nel browser », la corrispondente versione HTML viene aperta tramite GitHub Pages in un'applicazione esterna. Il recupero si basa sul nostro legittimo interesse a mantenere aggiornate le informazioni obbligatorie (art. 6, par. 1, lett. f GDPR)."
     },
     {
-      "number": 7,
+      "number": 8,
       "heading": "I tuoi diritti",
       "body": "Ai sensi del GDPR hai in particolare diritto di accesso, rettifica, cancellazione, limitazione del trattamento, portabilità e opposizione, nonché il diritto di proporre reclamo a un'autorità di controllo. I dati dell'app sono generalmente conservati localmente sotto il tuo controllo, quindi puoi consultarli, modificarli o eliminarli lì. Se fornitori esterni trattano dati dopo l'apertura volontaria di link, si applicano le loro informazioni sulla privacy."
     },
     {
-      "number": 8,
+      "number": 9,
       "heading": "Modifiche alla presente informativa",
       "body": "La presente informativa viene aggiornata quando cambiano l'app, i servizi utilizzati o il trattamento dei dati. La versione attuale è disponibile nell'app e all'indirizzo indicato."
     }

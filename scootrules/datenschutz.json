@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-15.1",
+  "version": "2026-10-20.1",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "ScootRules",
-  "stand": "15. Oktober 2026",
+  "stand": "20. Oktober 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "GitHub-Abrufe und externe Links",
-      "body": "Länderregeln und Rechtstexte werden höchstens einmal innerhalb von 24 Stunden per HTTPS von öffentlichen GitHub-Quellen aktualisiert. Dabei erhält GitHub technisch bedingt die IP-Adresse. Öffnest du eine Quelle, einen Hinweis zu einer anderen App oder einen Rechtstext im Browser, startet die App nur auf deine Aktion eine externe Anwendung; ab dann gelten deren Datenschutzhinweise. Im aktuellen Funktionsumfang verarbeitet ScootRules keine Kinder- oder Gesundheitsdaten, keine Fotos oder Dateien, keine Benachrichtigungen, keine Google-Play-Käufe und keine Cloud-Backups. Es gibt kein Nutzerkonto sowie keine Analyse-, Werbe- oder Tracking-Dienste."
+      "body": "Länderregeln und Rechtstexte werden höchstens einmal innerhalb von 24 Stunden per HTTPS von öffentlichen GitHub-Quellen aktualisiert. Dabei erhält GitHub technisch bedingt die IP-Adresse. Öffnest du eine Quelle, einen Hinweis zu einer anderen App oder einen Rechtstext im Browser, startet die App nur auf deine Aktion eine externe Anwendung; ab dann gelten deren Datenschutzhinweise. Im aktuellen Funktionsumfang verarbeitet ScootRules keine Kinder- oder Gesundheitsdaten, keine Fotos oder Dateien, keine Benachrichtigungen und keine Cloud-Backups. Es gibt kein Nutzerkonto sowie keine Analyse-, Werbe- oder Tracking-Dienste."
     },
     {
       "number": 4,
@@ -33,16 +33,21 @@
     },
     {
       "number": 6,
+      "heading": "Google Play: Unterstützer-Kauf",
+      "body": "Über „ScootRules unterstützen“ kannst du freiwillig einen einmaligen In-App-Kauf über Google Play Billing tätigen. Zahlung und Abwicklung übernimmt Google; dabei verarbeitet Google deine Zahlungs- und Kontodaten nach den eigenen Datenschutzbestimmungen. Wir erhalten keine Zahlungsdaten. Die App fragt bei Google Play nur ab, ob der Kauf besteht, und speichert diesen Status lokal auf dem Gerät. Alle Inhalte bleiben auch ohne Kauf kostenlos nutzbar."
+    },
+    {
+      "number": 7,
       "heading": "Abruf und Aktualisierung der Rechtstexte",
       "body": "Damit Impressum und Datenschutzerklärung aktuell bleiben, lädt die App die JSON-Fassungen ausschließlich von raw.githubusercontent.com höchstens einmal alle 24 Stunden und speichert sie lokal. Dabei wird technisch bedingt deine IP-Adresse an GitHub übertragen. Ohne Internetverbindung zeigt die App die mitgelieferten Fassungen. Wenn du „Im Browser öffnen“ auswählst, wird die entsprechende HTML-Fassung über GitHub Pages in einer externen Anwendung geöffnet. Der Abruf erfolgt in unserem berechtigten Interesse an aktuellen Pflichtinformationen (Art. 6 Abs. 1 lit. f DSGVO)."
     },
     {
-      "number": 7,
+      "number": 8,
       "heading": "Deine Rechte",
       "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Soweit externe Anbieter bei freiwillig geöffneten Links Daten verarbeiten, gelten deren Datenschutzhinweise."
     },
     {
-      "number": 8,
+      "number": 9,
       "heading": "Änderungen dieser Erklärung",
       "body": "Diese Datenschutzerklärung wird bei Änderungen der App, der eingesetzten Dienste oder der Datenverarbeitung angepasst. Die jeweils aktuelle Fassung ist in der App und unter der verlinkten Adresse abrufbar."
     }

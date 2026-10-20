@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-15.1",
+  "version": "2026-10-20.1",
   "language": "es",
   "title": "Política de privacidad",
   "app": "ScootRules",
-  "stand": "15 de octubre de 2026",
+  "stand": "20 de octubre de 2026",
   "sections": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
     {
       "number": 3,
       "heading": "Consultas a GitHub y enlaces externos",
-      "body": "Las normas de los países y los textos legales se actualizan mediante HTTPS desde fuentes públicas de GitHub como máximo una vez cada 24 horas. Por motivos técnicos, GitHub recibe la dirección IP. Si abres una fuente, una referencia a otra aplicación o un texto legal en el navegador, la aplicación solo inicia una aplicación externa tras tu acción; entonces se aplica su información de privacidad. En su funcionalidad actual, ScootRules no trata datos de menores ni de salud, fotos o archivos, notificaciones, compras de Google Play ni copias en la nube. No hay cuenta de usuario ni servicios de análisis, publicidad o seguimiento."
+      "body": "Las normas de los países y los textos legales se actualizan mediante HTTPS desde fuentes públicas de GitHub como máximo una vez cada 24 horas. Por motivos técnicos, GitHub recibe la dirección IP. Si abres una fuente, una referencia a otra aplicación o un texto legal en el navegador, la aplicación solo inicia una aplicación externa tras tu acción; entonces se aplica su información de privacidad. En su funcionalidad actual, ScootRules no trata datos de menores ni de salud, fotos o archivos, notificaciones ni copias en la nube. No hay cuenta de usuario ni servicios de análisis, publicidad o seguimiento."
     },
     {
       "number": 4,
@@ -33,16 +33,21 @@
     },
     {
       "number": 6,
+      "heading": "Google Play: compra de apoyo",
+      "body": "Con «Apoyar ScootRules» puedes realizar voluntariamente una compra única en la aplicación mediante Google Play Billing. Google gestiona el pago y la tramitación y trata tus datos de pago y de cuenta según su propia política de privacidad. No recibimos ningún dato de pago. La aplicación solo consulta a Google Play si la compra existe y guarda este estado localmente en el dispositivo. Todo el contenido sigue siendo gratuito sin compra."
+    },
+    {
+      "number": 7,
       "heading": "Consulta y actualización de los textos legales",
       "body": "Para mantener actualizado el aviso legal y la política de privacidad, la aplicación descarga las versiones JSON únicamente de raw.githubusercontent.com como máximo una vez cada 24 horas y las guarda localmente. Esto transmite técnicamente tu dirección IP a GitHub. Sin conexión a Internet se muestran las versiones incluidas en la aplicación. Si seleccionas «Abrir en el navegador», la versión HTML correspondiente se abre mediante GitHub Pages en una aplicación externa. La consulta se basa en nuestro interés legítimo por mantener actualizada la información obligatoria (art. 6, apdo. 1, letra f del RGPD)."
     },
     {
-      "number": 7,
+      "number": 8,
       "heading": "Tus derechos",
       "body": "Conforme al RGPD tienes, en particular, derecho de acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición, así como derecho a presentar una reclamación ante una autoridad de control. Los datos de la aplicación se guardan normalmente de forma local bajo tu control, por lo que puedes consultarlos, modificarlos o eliminarlos allí. Cuando proveedores externos tratan datos tras abrir voluntariamente enlaces, se aplica su información de privacidad."
     },
     {
-      "number": 8,
+      "number": 9,
       "heading": "Cambios de esta política",
       "body": "Esta política se actualizará cuando cambien la aplicación, los servicios utilizados o el tratamiento de datos. La versión actual está disponible en la aplicación y en la dirección enlazada."
     }
