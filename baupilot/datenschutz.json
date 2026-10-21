@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-19.2",
+  "version": "2026-10-21.1",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "BauprojektZentrale",
-  "stand": "19. Oktober 2026",
+  "stand": "21. Oktober 2026",
   "sections": [
     {
       "number": 1,
@@ -69,7 +69,7 @@
     {
       "number": 13,
       "heading": "Speicherdauer und Löschung",
-      "body": "Projektdaten werden gespeichert, solange sie im Projekt benötigt werden. Einträge, Fotos und Kommentare können in der App gelöscht werden; Projektmitglieder kann ein Projektverantwortlicher entfernen, und du kannst ein Projekt selbst verlassen. Die Löschung deines Kontos kannst du per E-Mail an vardholt@gmail.com verlangen; sie erfolgt innerhalb von 30 Tagen. Inhalte, die du in gemeinsamen Projekten erstellt hast, bleiben für die übrigen Mitglieder erhalten, werden aber nicht mehr mit deinem Konto verknüpft. In Sicherungskopien sind gelöschte Daten noch bis zu 30 Tage enthalten.\nWiederherstellungspunkte eines Projekts enthalten eine Kopie der Projektdaten (bis zu 7 automatische, 10 vor riskanten Aktionen und 10 selbst angelegte); sie werden mit dem Projekt gelöscht, und bei der Löschung eines Kontos wird dessen Kennung daraus entfernt. Gelöschte Einträge liegen 30 Tage im Papierkorb und werden danach nicht mehr angezeigt; endgültig entfernt werden sie mit dem Projekt oder auf Anfrage."
+      "body": "Projektdaten werden gespeichert, solange sie im Projekt benötigt werden. Einträge, Fotos und Kommentare können in der App gelöscht werden; Projektmitglieder kann ein Projektverantwortlicher entfernen, und du kannst ein Projekt selbst verlassen. Dein Konto kannst du in der App unter Einstellungen → „Konto löschen“ sofort selbst löschen oder die Löschung per E-Mail an vardholt@gmail.com verlangen (Erledigung innerhalb von 30 Tagen). Dabei werden Projekte, in denen du einziges Mitglied bist, mit allen Fotos und Dokumenten gelöscht, ebenso dein Profilfoto, deine Geräte-Tokens und Benachrichtigungen. Inhalte, die du in gemeinsamen Projekten erstellt hast, bleiben für die übrigen Mitglieder erhalten, werden aber nicht mehr mit deinem Konto verknüpft; dein Kontakteintrag dort wird anonymisiert. Bist du einziger Eigentümer eines gemeinsamen Projekts, überträgst du vorher die Eigentümer-Rolle. In Sicherungskopien sind gelöschte Daten noch bis zu 30 Tage enthalten.\nWiederherstellungspunkte eines Projekts enthalten eine Kopie der Projektdaten (bis zu 7 automatische, 10 vor riskanten Aktionen und 10 selbst angelegte); sie werden mit dem Projekt gelöscht, und bei der Löschung eines Kontos wird dessen Kennung daraus entfernt. Gelöschte Einträge liegen 30 Tage im Papierkorb und werden danach nicht mehr angezeigt; endgültig entfernt werden sie mit dem Projekt oder auf Anfrage."
     },
     {
       "number": 14,
