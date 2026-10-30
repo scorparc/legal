@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-30.1",
+  "language": "fr",
+  "title": "Politique de confidentialité",
+  "app": "LevelCamp",
+  "stand": "30 octobre 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsable du traitement",
+      "body": "Marc Neumann – adresse dans les mentions légales : https://scorparc.github.io/legal/impressum_fr.html\nE-mail : vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Principe : tes données restent sur ton appareil",
+      "body": "LevelCamp conserve les profils de véhicules avec leurs dimensions, les positions du téléphone, les étalonnages, les aides de mise à niveau, les listes de contrôle, les paramètres et le dernier statut Pro confirmé exclusivement dans le stockage privé de l'application sur ton appareil. Les capteurs de mouvement sont évalués uniquement en mémoire pour calculer l'inclinaison ; les données brutes des capteurs ne sont ni enregistrées ni transmises. Il n'y a pas de compte utilisateur, de serveur propre, de publicité ni de SDK d'analyse, de suivi ou de rapports de plantage. La localisation, l'appareil photo, le microphone et les contacts ne sont pas utilisés."
+    },
+    {
+      "number": 3,
+      "heading": "Affichage à distance local",
+      "body": "Uniquement lorsque tu démarres une session d'affichage à distance, LevelCamp utilise la découverte de services réseau (NSD/mDNS) pour trouver un second appareil exécutant LevelCamp sur le même réseau Wi-Fi ou point d'accès et s'y connecte directement via TCP. Seuls un code d'appairage temporaire, une clé de session ainsi que l'instruction actuelle, la stabilité, l'état de mise à niveau, un numéro de séquence et un horodatage sont transmis. Les identifiants sont valables 15 minutes au maximum et n'existent que pendant l'exécution de l'application. Cette fonction n'utilise aucun serveur Internet ; les données ne quittent pas ton réseau local."
+    },
+    {
+      "number": 4,
+      "heading": "Sauvegarde et exportation",
+      "body": "La sauvegarde Android est désactivée pour LevelCamp. Un fichier de sauvegarde contenant tes véhicules, aides de mise à niveau, listes de contrôle, étalonnages et paramètres n'est créé que si tu lances toi-même l'exportation, et il est enregistré à l'emplacement que tu choisis dans la boîte de dialogue de fichiers d'Android. L'exportation de diagnostic contient la version de l'application, la version d'Android, le fabricant et le modèle de l'appareil, les capteurs disponibles, le nombre de tes entrées et tes paramètres, mais aucune dimension ni aucun nom. Tu décides de ce qu'il advient des fichiers exportés."
+    },
+    {
+      "number": 5,
+      "heading": "Achats via Google Play",
+      "body": "Le déverrouillage Pro unique est traité via Google Play Billing. Google traite les données d'achat et de paiement selon sa propre politique de confidentialité. L'application reçoit uniquement le statut de l'achat, enregistre le déverrouillage localement et ne reçoit aucune donnée de paiement. La base juridique est l'exécution d'un contrat (art. 6, par. 1, point b du RGPD)."
+    },
+    {
+      "number": 6,
+      "heading": "Textes légaux et liens externes",
+      "body": "À ta demande, l'application ouvre les mentions légales et la politique de confidentialité via GitHub Pages (scorparc.github.io) dans ton navigateur. L'application elle-même ne télécharge aucune donnée depuis Internet à cet effet. Le traitement dans le navigateur est régi par les informations du navigateur et de GitHub."
+    },
+    {
+      "number": 7,
+      "heading": "Suppression",
+      "body": "Tu peux supprimer les véhicules, les aides de mise à niveau et les listes de contrôle dans l'application. Tu supprimes toutes les données locales via Android → Applications → LevelCamp → Vider le stockage ou en désinstallant l'application. Comme il n'existe ni compte ni serveur, le fournisseur ne détient aucune donnée à supprimer."
+    },
+    {
+      "number": 8,
+      "heading": "Tes droits",
+      "body": "Conformément au RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application étant conservées localement sous ton contrôle, tu peux les consulter, les modifier ou les supprimer sur place. Pour les données d'achat traitées par Google, l'interlocuteur compétent est Google."
+    },
+    {
+      "number": 9,
+      "heading": "Modifications de cette politique",
+      "body": "Cette politique de confidentialité est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version en vigueur est disponible à l'adresse indiquée."
+    }
+  ]
+}

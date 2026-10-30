@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-30.1",
+  "language": "de",
+  "title": "Datenschutzerklärung",
+  "app": "LevelCamp",
+  "stand": "30. Oktober 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Verantwortlicher",
+      "body": "Marc Neumann – Anschrift siehe Impressum: https://scorparc.github.io/legal/impressum.html\nE-Mail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Grundprinzip: Deine Daten bleiben auf deinem Gerät",
+      "body": "LevelCamp speichert Fahrzeugprofile mit Maßen, Smartphone-Positionen, Kalibrierungen, Auffahrhilfen, Checklisten, Einstellungen und den zuletzt bestätigten Pro-Status ausschließlich im privaten Speicher der App auf deinem Gerät. Die Bewegungssensoren werden nur im Arbeitsspeicher ausgewertet, um die Neigung zu berechnen; Sensor-Rohdaten werden weder gespeichert noch übertragen. Es gibt kein Nutzerkonto, keinen eigenen Server, keine Werbung und kein Analyse-, Tracking- oder Crash-Reporting-SDK. Standort, Kamera, Mikrofon und Kontakte werden nicht verwendet."
+    },
+    {
+      "number": 3,
+      "heading": "Lokale Fernanzeige",
+      "body": "Nur wenn du eine Fernanzeige-Sitzung startest, sucht LevelCamp per Netzwerkdiensterkennung (NSD/mDNS) ein zweites Gerät mit LevelCamp im selben WLAN oder Hotspot und verbindet sich direkt per TCP. Übertragen werden nur ein temporärer Kopplungscode, ein Sitzungsschlüssel sowie die aktuelle Anweisung, Stabilität, der Ausrichtungsstatus, eine Laufnummer und ein Zeitstempel. Die Zugangsdaten gelten höchstens 15 Minuten und bestehen nur, solange die App läuft. Für diese Funktion gibt es keinen Internet-Server; die Daten verlassen dein lokales Netz nicht."
+    },
+    {
+      "number": 4,
+      "heading": "Sicherung und Export",
+      "body": "Die Android-Sicherung ist für LevelCamp deaktiviert. Eine Sicherungsdatei mit deinen Fahrzeugen, Auffahrhilfen, Checklisten, Kalibrierungen und Einstellungen wird nur erstellt, wenn du den Export selbst startest, und an dem Ort gespeichert, den du im Android-Dateidialog wählst. Der Diagnose-Export enthält App-Version, Android-Version, Gerätehersteller und -modell, verfügbare Sensoren, die Anzahl deiner Einträge und Einstellungen, aber keine Maße oder Namen. Was mit exportierten Dateien geschieht, bestimmst du selbst."
+    },
+    {
+      "number": 5,
+      "heading": "Käufe über Google Play",
+      "body": "Die einmalige Pro-Freischaltung wird über Google Play Billing abgewickelt. Google verarbeitet Kauf- und Zahlungsdaten nach eigenen Datenschutzbestimmungen. Die App erhält nur den Kaufstatus, speichert die Freischaltung lokal und erhält keine Zahlungsdaten. Rechtsgrundlage ist die Vertragserfüllung (Art. 6 Abs. 1 lit. b DSGVO)."
+    },
+    {
+      "number": 6,
+      "heading": "Rechtstexte und externe Links",
+      "body": "Impressum und Datenschutzerklärung öffnet die App auf deinen Wunsch über GitHub Pages (scorparc.github.io) in deinem Browser. Die App selbst ruft dafür keine Daten aus dem Internet ab. Für die Verarbeitung im Browser gelten die Hinweise des Browsers und von GitHub."
+    },
+    {
+      "number": 7,
+      "heading": "Löschung",
+      "body": "Fahrzeuge, Auffahrhilfen und Checklisten kannst du in der App löschen. Alle lokalen Daten entfernst du über Android → Apps → LevelCamp → Speicher löschen oder durch Deinstallation. Da es kein Konto und keinen Server gibt, liegen beim Anbieter keine Daten, die gelöscht werden müssten."
+    },
+    {
+      "number": 8,
+      "heading": "Deine Rechte",
+      "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Für Kaufdaten, die Google verarbeitet, ist Google der zuständige Ansprechpartner."
+    },
+    {
+      "number": 9,
+      "heading": "Änderungen dieser Erklärung",
+      "body": "Diese Datenschutzerklärung wird bei Änderungen der App, der eingesetzten Dienste oder der Datenverarbeitung angepasst. Die jeweils aktuelle Fassung ist unter der verlinkten Adresse abrufbar."
+    }
+  ]
+}

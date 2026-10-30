@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-10-30.1",
+  "language": "pt",
+  "title": "Política de privacidade",
+  "app": "LevelCamp",
+  "stand": "30 de outubro de 2026",
+  "sections": [
+    {
+      "number": 1,
+      "heading": "Responsável pelo tratamento",
+      "body": "Marc Neumann – morada no aviso legal: https://scorparc.github.io/legal/impressum_pt.html\nE-mail: vardholt@gmail.com"
+    },
+    {
+      "number": 2,
+      "heading": "Princípio: os teus dados ficam no teu dispositivo",
+      "body": "O LevelCamp guarda os perfis de veículos com as respetivas medidas, as posições do telemóvel, as calibrações, as ajudas de nivelamento, as listas de verificação, as definições e o último estado Pro confirmado exclusivamente no armazenamento privado da aplicação no teu dispositivo. Os sensores de movimento são avaliados apenas em memória para calcular a inclinação; os dados brutos dos sensores não são guardados nem transmitidos. Não existe conta de utilizador, servidor próprio, publicidade nem SDK de análise, rastreio ou relatórios de falhas. A localização, a câmara, o microfone e os contactos não são utilizados."
+    },
+    {
+      "number": 3,
+      "heading": "Ecrã remoto local",
+      "body": "Apenas quando inicias uma sessão de ecrã remoto, o LevelCamp utiliza a deteção de serviços de rede (NSD/mDNS) para encontrar um segundo dispositivo com o LevelCamp na mesma rede Wi-Fi ou hotspot e liga-se diretamente por TCP. São transmitidos apenas um código de emparelhamento temporário, uma chave de sessão e a instrução atual, a estabilidade, o estado de nivelamento, um número de sequência e um carimbo de data/hora. As credenciais são válidas no máximo 15 minutos e só existem enquanto a aplicação está em execução. Esta função não utiliza nenhum servidor de Internet; os dados não saem da tua rede local."
+    },
+    {
+      "number": 4,
+      "heading": "Cópia de segurança e exportação",
+      "body": "A cópia de segurança do Android está desativada para o LevelCamp. Um ficheiro de cópia com os teus veículos, ajudas de nivelamento, listas de verificação, calibrações e definições só é criado quando tu próprio inicias a exportação e é guardado no local que escolhes na caixa de diálogo de ficheiros do Android. A exportação de diagnóstico contém a versão da aplicação, a versão do Android, o fabricante e o modelo do dispositivo, os sensores disponíveis, o número das tuas entradas e as tuas definições, mas nenhuma medida nem nome. És tu que decides o que acontece aos ficheiros exportados."
+    },
+    {
+      "number": 5,
+      "heading": "Compras através do Google Play",
+      "body": "O desbloqueio Pro único é processado através do Google Play Billing. A Google trata os dados de compra e pagamento de acordo com a sua própria política de privacidade. A aplicação recebe apenas o estado da compra, guarda o desbloqueio localmente e não recebe dados de pagamento. A base jurídica é a execução de um contrato (art. 6.º, n.º 1, alínea b, do RGPD)."
+    },
+    {
+      "number": 6,
+      "heading": "Textos legais e ligações externas",
+      "body": "A teu pedido, a aplicação abre o aviso legal e a política de privacidade através do GitHub Pages (scorparc.github.io) no teu navegador. A própria aplicação não transfere quaisquer dados da Internet para esse efeito. O tratamento no navegador rege-se pelas informações do navegador e do GitHub."
+    },
+    {
+      "number": 7,
+      "heading": "Eliminação",
+      "body": "Podes eliminar veículos, ajudas de nivelamento e listas de verificação na aplicação. Todos os dados locais são removidos em Android → Aplicações → LevelCamp → Limpar armazenamento ou desinstalando a aplicação. Como não existe conta nem servidor, o fornecedor não detém dados que tenham de ser eliminados."
+    },
+    {
+      "number": 8,
+      "heading": "Os teus direitos",
+      "body": "Nos termos do RGPD tens, em particular, direito de acesso, retificação, apagamento, limitação do tratamento, portabilidade e oposição, bem como o direito de apresentar uma reclamação junto de uma autoridade de controlo. Como os dados da aplicação são guardados localmente sob o teu controlo, podes consultá-los, alterá-los ou eliminá-los aí. Para os dados de compra tratados pela Google, o interlocutor competente é a Google."
+    },
+    {
+      "number": 9,
+      "heading": "Alterações a esta política",
+      "body": "Esta política de privacidade é atualizada quando a aplicação, os serviços utilizados ou o tratamento de dados mudam. A versão em vigor está disponível no endereço indicado."
+    }
+  ]
+}

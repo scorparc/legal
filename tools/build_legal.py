@@ -44,6 +44,7 @@ APPS = {
     "snackblocker": "SnackBlocker",
     "papersnap": "PaperSnap",
     "switchrush": "Switch Rush",
+    "levelcamp": "LevelCamp",
 }
 def suffix(language: str) -> str:
     return "" if language == "de" else f"_{language}"
@@ -713,7 +714,8 @@ def make_privacy(app_slug: str, language: str) -> dict:
     # text on device, shows AdMob ads and ships no in-app legal screen. For both
     # apps the JSON is canonical and this builder only renders it to HTML.
     # Switch Rush (offline game with AdMob, no in-app legal sync) follows the same model.
-    if app_slug in {"sleeplog", "papersnap", "switchrush", "arrowescape"}:
+    # LevelCamp (local remote, Play Billing, legal texts as browser links only) too.
+    if app_slug in {"sleeplog", "papersnap", "switchrush", "arrowescape", "levelcamp"}:
         source = LEGAL / app_slug / f"datenschutz{suffix(language)}.json"
         document = json.loads(source.read_text(encoding="utf-8"))
         if document.get("language") != language:
