@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-16.1",
+  "version": "2026-11-04.1",
   "language": "fr",
   "title": "Politique de confidentialité",
   "app": "ConcreteCalc",
-  "stand": "16 octobre 2026",
+  "stand": "4 novembre 2026",
   "sections": [
     {
       "number": 1,
@@ -14,40 +14,35 @@
     {
       "number": 2,
       "heading": "Principe de base : tes saisies restent sur ton appareil",
-      "body": "ConcreteCalc calcule les volumes de béton, les sacs, les dosages, les chapes, les matériaux en vrac, les quantités de blocs et les coûts de matériaux entièrement sur l'appareil. Les dimensions, les prix et les résultats ne sont traités que comme état d'écran en cours, sauf si tu les enregistres toi-même dans un projet. Sont conservés durablement l'apparence choisie, la réserve par défaut, le dernier statut Pro confirmé et, uniquement avec Pro, les projets que tu crées (nom du projet, saisies, résultats et date d'enregistrement). L'application conserve aussi le système d'unités choisi, les dernières unités sélectionnées et un compteur pour la demande d'évaluation. Pour choisir automatiquement entre unités métriques et impériales, elle lit le pays de la carte SIM ou, à défaut, le pays du réseau mobile ou la région dans les paramètres de l'appareil ; cette information ne quitte pas l'appareil. Il n'y a ni compte, ni serveur propre, ni SDK d'analyse ou de rapport de plantage. Les sauvegardes Android sont désactivées."
+      "body": "ConcreteCalc calcule les volumes de béton, les sacs, les dosages, les chapes, les matériaux en vrac, les quantités de blocs et les coûts de matériaux entièrement sur l'appareil. Les dimensions, les prix et les résultats ne sont traités que comme état d'écran en cours, sauf si tu les enregistres toi-même dans un projet. Sont conservés durablement l'apparence choisie, la réserve par défaut, le dernier statut Pro confirmé et, uniquement avec Pro, les projets que tu crées (nom du projet, saisies, résultats et date d'enregistrement). L'application conserve aussi le système d'unités choisi, les dernières unités sélectionnées et un compteur pour la demande d'évaluation. Pour choisir automatiquement entre unités métriques et impériales, elle lit le pays de la carte SIM ou, à défaut, le pays du réseau mobile ou la région dans les paramètres de l'appareil ; cette information ne quitte pas l'appareil. Il n'y a ni compte, ni serveur propre, ni publicité, ni SDK d'analyse ou de rapport de plantage. Les sauvegardes Android sont désactivées."
     },
     {
       "number": 3,
-      "heading": "Publicité et consentement",
-      "body": "La version gratuite affiche des annonces Google AdMob. Avant la première demande d'annonce, la Google User Messaging Platform (UMP) vérifie si un consentement est nécessaire et présente le formulaire de Google. Le SDK publicitaire ne démarre qu'ensuite. Selon la déclaration de données de Google, cela peut impliquer l'adresse IP et la localisation approximative qui en découle, les identifiants publicitaire et d'ensemble d'applications, les interactions avec les annonces et des données de diagnostic à des fins de publicité, de mesure et de prévention de la fraude. Tes dimensions, prix et résultats ne sont pas transmis à Google. Tu peux modifier ton choix dans l'application sous Paramètres → Paramètres de confidentialité, si UMP propose cette entrée ; tu peux en outre réinitialiser ou supprimer l'identifiant publicitaire dans les paramètres Android."
+      "heading": "Achats via Google Play",
+      "body": "ConcreteCalc Pro débloque les projets et l'export PDF et constitue un achat unique dans l'application, sans abonnement. Tu peux en outre laisser un pourboire facultatif à trois niveaux ; il ne débloque rien et peut être acheté plusieurs fois. Google gère le paiement et les données de compte en tant que responsable indépendant. L'application ne reçoit que l'identifiant du produit, l'état de l'achat, l'état de confirmation et un jeton d'achat servant à confirmer l'achat Pro ou à marquer le pourboire comme consommé, jamais de données de paiement. Le statut Pro débloqué est conservé localement et réinterrogé régulièrement auprès de Google Play afin que les remboursements prennent effet. L'application ne conserve pas les pourboires."
     },
     {
       "number": 4,
-      "heading": "Achats via Google Play",
-      "body": "ConcreteCalc Pro supprime toute publicité, débloque les projets et l'export PDF et constitue un achat unique dans l'application, sans abonnement. Google gère le paiement et les données de compte en tant que responsable indépendant. L'application ne reçoit que l'identifiant du produit, l'état de l'achat, l'état de confirmation et un jeton d'achat servant à la confirmation, jamais de données de paiement. Le statut débloqué est conservé localement et réinterrogé régulièrement auprès de Google Play afin que les remboursements prennent effet."
-    },
-    {
-      "number": 5,
       "heading": "Partager des résultats et export PDF",
       "body": "Ce n'est que lorsque tu choisis « Partager le résultat » que l'application transmet le texte affiché et tes saisies à la boîte de dialogue de partage d'Android. Tu choisis l'application destinataire ; sa propre politique de confidentialité s'applique. Avec Pro, tu peux aussi partager un résultat ou un projet complet en PDF. Le fichier est créé dans le cache de l'application et transmis uniquement à l'application que tu choisis ; il est remplacé lors de l'export suivant."
     },
     {
-      "number": 6,
+      "number": 5,
       "heading": "Suppression des données",
       "body": "Les saisies non enregistrées disparaissent dès que tu les modifies ou que tu quittes l'application. Tu supprimes les calculs et projets enregistrés dans l'application, sous Projets. Supprime les réglages enregistrés, les projets et le statut Pro local via Android → Applications → ConcreteCalc → Effacer le stockage, ou en désinstallant l'application. Un droit Pro acheté reste associé à ton compte Google Play et peut être restauré dans l'application."
     },
     {
-      "number": 7,
+      "number": 6,
       "heading": "Références à d'autres applications",
       "body": "Les paramètres affichent une rubrique « Autres applications » avec d'autres applications du même éditeur. La liste est incluse dans l'application et, à l'ouverture des paramètres, mise à jour au maximum une fois toutes les 24 heures depuis un dépôt public GitHub. Techniquement, ton adresse IP est alors transmise à GitHub. Aucune saisie, aucun résultat ni aucune autre information te concernant n'est transmis, et la liste n'est pas personnalisée. L'ouverture d'une entrée lance le Google Play Store, dont Google est responsable de manière indépendante. La base légale est notre intérêt légitime à informer sur nos propres applications (art. 6, § 1, point f, RGPD)."
     },
     {
-      "number": 8,
+      "number": 7,
       "heading": "Tes droits",
       "body": "En vertu du RGPD, tu disposes notamment des droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que du droit d'introduire une réclamation auprès d'une autorité de contrôle. Les données de l'application sont généralement conservées localement sous ton contrôle ; tu peux donc les consulter, les modifier ou les supprimer. Pour les données d'un compte Google utilisé volontairement, Google est l'interlocuteur compétent."
     },
     {
-      "number": 9,
+      "number": 8,
       "heading": "Modifications de cette politique",
       "body": "Cette politique est mise à jour lorsque l'application, les services utilisés ou le traitement des données changent. La version actuelle est disponible dans l'application et à l'adresse indiquée."
     }
