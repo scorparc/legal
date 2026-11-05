@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-11-05.1",
   "language": "en",
   "title": "Privacy Policy",
   "app": "PaperSnap",
-  "stand": "8 October 2026",
+  "stand": "5 November 2026",
   "sections": [
     {
       "number": 1,
@@ -29,12 +29,12 @@
     {
       "number": 5,
       "heading": "Advertising and consent",
-      "body": "The free version is ad supported and shows ads from Google AdMob. Before the first ad request, the Google User Messaging Platform (UMP) checks whether consent is required and shows Google's form where applicable. Only then is the advertising SDK started. According to Google's data declaration this may involve the IP address and the approximate location derived from it, advertising and app set ID, interactions with ads and diagnostic data for advertising, measurement and fraud prevention. Your documents, page images and recognised text are not transmitted to Google. You can change your choice in the app under Settings → Privacy settings, where UMP offers that entry point; you can also reset or delete the advertising ID in the Android settings. Once the daily limit is reached you can choose to watch an ad video to get additional text recognitions for the current day. A video only starts when you explicitly select it. PaperSnap Pro removes advertising entirely."
+      "body": "From version 1.2.2, PaperSnap shows no advertising until further notice. The Google AdMob advertising SDK is still included in the app but is not started; there is no consent prompt, no ads and no ad videos, and the app does not request an advertising ID. If advertising is reintroduced, this policy will be updated beforehand. For older versions up to 1.2.1, the following applies until you update: The free version is ad supported and shows ads from Google AdMob. Before the first ad request, the Google User Messaging Platform (UMP) checks whether consent is required and shows Google's form where applicable. Only then is the advertising SDK started. According to Google's data declaration this may involve the IP address and the approximate location derived from it, advertising and app set ID, interactions with ads and diagnostic data for advertising, measurement and fraud prevention. Your documents, page images and recognised text are not transmitted to Google. You can change your choice in the app under Settings → Privacy settings, where UMP offers that entry point; you can also reset or delete the advertising ID in the Android settings. Once the daily limit is reached you can choose to watch an ad video to get additional text recognitions for the current day. A video only starts when you explicitly select it. PaperSnap Pro removes advertising entirely."
     },
     {
       "number": 6,
       "heading": "Purchases via Google Play",
-      "body": "PaperSnap Pro removes advertising, lifts the limits on pages per document and on daily text recognition, and unlocks all PDF tools as well as high scan quality. It is a one-time in-app purchase without a subscription. Google handles payment and account data as an independent controller. The app only receives the product ID, purchase state, acknowledgement state and a purchase token, never payment data. The unlocked state is cached locally and queried again at Google Play so that refunds take effect as well."
+      "body": "PaperSnap Pro lifts the limits on pages per document and on daily text recognition, and unlocks all PDF tools as well as high scan quality. It is a one-time in-app purchase without a subscription. Google handles payment and account data as an independent controller. The app only receives the product ID, purchase state, acknowledgement state and a purchase token, never payment data. The unlocked state is cached locally and queried again at Google Play so that refunds take effect as well."
     },
     {
       "number": 7,

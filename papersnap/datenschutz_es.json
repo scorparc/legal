@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-11-05.1",
   "language": "es",
   "title": "Política de privacidad",
   "app": "PaperSnap",
-  "stand": "8 de octubre de 2026",
+  "stand": "5 de noviembre de 2026",
   "sections": [
     {
       "number": 1,
@@ -29,12 +29,12 @@
     {
       "number": 5,
       "heading": "Publicidad y consentimiento",
-      "body": "La versión gratuita se financia con publicidad y muestra anuncios de Google AdMob. Antes de la primera solicitud de anuncios, la Google User Messaging Platform (UMP) comprueba si se requiere consentimiento y muestra el formulario de Google cuando procede. Solo después se inicia el SDK de publicidad. Según la declaración de datos de Google, en ese proceso pueden tratarse la dirección IP y la ubicación aproximada derivada de ella, el identificador de publicidad y de conjunto de apps, las interacciones con los anuncios y datos de diagnóstico para publicidad, medición y prevención del fraude. Tus documentos, las imágenes de las páginas y el texto reconocido no se transmiten a Google. Puedes cambiar tu decisión en la app en Ajustes → Ajustes de privacidad, siempre que UMP ofrezca ese acceso; además puedes restablecer o eliminar el identificador de publicidad en los ajustes de Android. Al alcanzar el límite diario puedes ver voluntariamente un vídeo publicitario para obtener reconocimientos de texto adicionales durante el día en curso. Un vídeo solo se inicia si lo seleccionas expresamente. Con PaperSnap Pro la publicidad desaparece por completo."
+      "body": "Desde la versión 1.2.2, PaperSnap no muestra publicidad hasta nuevo aviso. El SDK publicitario de Google AdMob sigue incluido en la app, pero no se inicia; no hay solicitud de consentimiento, anuncios ni vídeos publicitarios, y la app no solicita ningún ID de publicidad. Si se vuelve a introducir la publicidad, esta política se actualizará antes. Para las versiones anteriores hasta la 1.2.1 se aplica lo siguiente hasta que actualices: La versión gratuita se financia con publicidad y muestra anuncios de Google AdMob. Antes de la primera solicitud de anuncios, la Google User Messaging Platform (UMP) comprueba si se requiere consentimiento y muestra el formulario de Google cuando procede. Solo después se inicia el SDK de publicidad. Según la declaración de datos de Google, en ese proceso pueden tratarse la dirección IP y la ubicación aproximada derivada de ella, el identificador de publicidad y de conjunto de apps, las interacciones con los anuncios y datos de diagnóstico para publicidad, medición y prevención del fraude. Tus documentos, las imágenes de las páginas y el texto reconocido no se transmiten a Google. Puedes cambiar tu decisión en la app en Ajustes → Ajustes de privacidad, siempre que UMP ofrezca ese acceso; además puedes restablecer o eliminar el identificador de publicidad en los ajustes de Android. Al alcanzar el límite diario puedes ver voluntariamente un vídeo publicitario para obtener reconocimientos de texto adicionales durante el día en curso. Un vídeo solo se inicia si lo seleccionas expresamente. Con PaperSnap Pro la publicidad desaparece por completo."
     },
     {
       "number": 6,
       "heading": "Compras a través de Google Play",
-      "body": "PaperSnap Pro elimina la publicidad, suprime los límites de páginas por documento y de reconocimiento de texto diario, y desbloquea todas las herramientas PDF y la alta calidad de escaneo. Es una compra única dentro de la app, sin suscripción. Google gestiona el pago y los datos de cuenta como responsable independiente. La app solo recibe el identificador del producto, el estado de la compra, el estado de confirmación y un token de compra, nunca datos de pago. El estado desbloqueado se guarda localmente y se vuelve a consultar en Google Play para que los reembolsos también surtan efecto."
+      "body": "PaperSnap Pro suprime los límites de páginas por documento y de reconocimiento de texto diario, y desbloquea todas las herramientas PDF y la alta calidad de escaneo. Es una compra única dentro de la app, sin suscripción. Google gestiona el pago y los datos de cuenta como responsable independiente. La app solo recibe el identificador del producto, el estado de la compra, el estado de confirmación y un token de compra, nunca datos de pago. El estado desbloqueado se guarda localmente y se vuelve a consultar en Google Play para que los reembolsos también surtan efecto."
     },
     {
       "number": 7,

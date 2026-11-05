@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-11-05.1",
   "language": "fr",
   "title": "Politique de confidentialité",
   "app": "PaperSnap",
-  "stand": "8 octobre 2026",
+  "stand": "5 novembre 2026",
   "sections": [
     {
       "number": 1,
@@ -29,12 +29,12 @@
     {
       "number": 5,
       "heading": "Publicité et consentement",
-      "body": "La version gratuite est financée par la publicité et affiche des annonces de Google AdMob. Avant la première demande d'annonce, la Google User Messaging Platform (UMP) vérifie si un consentement est requis et affiche le formulaire de Google le cas échéant. Le SDK publicitaire n'est lancé qu'ensuite. Selon la déclaration de données de Google, cela peut impliquer l'adresse IP et la localisation approximative qui en découle, l'identifiant publicitaire et d'ensemble d'applications, les interactions avec les annonces ainsi que des données de diagnostic à des fins de publicité, de mesure et de prévention de la fraude. Tes documents, les images de pages et le texte reconnu ne sont pas transmis à Google. Tu peux modifier ton choix dans l'application sous Paramètres → Paramètres de confidentialité, lorsque UMP propose ce point d'entrée ; tu peux également réinitialiser ou supprimer l'identifiant publicitaire dans les paramètres Android. Une fois la limite quotidienne atteinte, tu peux choisir de regarder une vidéo publicitaire pour obtenir des reconnaissances de texte supplémentaires pour la journée en cours. Une vidéo ne démarre que si tu la sélectionnes expressément. Avec PaperSnap Pro, la publicité disparaît entièrement."
+      "body": "À partir de la version 1.2.2, PaperSnap n’affiche aucune publicité jusqu’à nouvel ordre. Le SDK publicitaire de Google AdMob reste inclus dans l’application, mais il n’est pas démarré ; il n’y a ni demande de consentement, ni annonces, ni vidéos publicitaires, et l’application ne demande aucun identifiant publicitaire. Si la publicité est réintroduite, cette politique sera mise à jour au préalable. Pour les versions antérieures jusqu’à la 1.2.1, ce qui suit s’applique jusqu’à ta mise à jour : La version gratuite est financée par la publicité et affiche des annonces de Google AdMob. Avant la première demande d'annonce, la Google User Messaging Platform (UMP) vérifie si un consentement est requis et affiche le formulaire de Google le cas échéant. Le SDK publicitaire n'est lancé qu'ensuite. Selon la déclaration de données de Google, cela peut impliquer l'adresse IP et la localisation approximative qui en découle, l'identifiant publicitaire et d'ensemble d'applications, les interactions avec les annonces ainsi que des données de diagnostic à des fins de publicité, de mesure et de prévention de la fraude. Tes documents, les images de pages et le texte reconnu ne sont pas transmis à Google. Tu peux modifier ton choix dans l'application sous Paramètres → Paramètres de confidentialité, lorsque UMP propose ce point d'entrée ; tu peux également réinitialiser ou supprimer l'identifiant publicitaire dans les paramètres Android. Une fois la limite quotidienne atteinte, tu peux choisir de regarder une vidéo publicitaire pour obtenir des reconnaissances de texte supplémentaires pour la journée en cours. Une vidéo ne démarre que si tu la sélectionnes expressément. Avec PaperSnap Pro, la publicité disparaît entièrement."
     },
     {
       "number": 6,
       "heading": "Achats via Google Play",
-      "body": "PaperSnap Pro supprime la publicité, lève les limites de pages par document et de reconnaissance de texte quotidienne, et débloque tous les outils PDF ainsi que la qualité de scan élevée. Il s'agit d'un achat unique dans l'application, sans abonnement. Google traite le paiement et les données de compte en tant que responsable indépendant. L'application ne reçoit que l'identifiant du produit, l'état de l'achat, l'état de confirmation et un jeton d'achat, jamais de données de paiement. L'état débloqué est mis en cache localement puis redemandé auprès de Google Play afin que les remboursements prennent effet eux aussi."
+      "body": "PaperSnap Pro lève les limites de pages par document et de reconnaissance de texte quotidienne, et débloque tous les outils PDF ainsi que la qualité de scan élevée. Il s'agit d'un achat unique dans l'application, sans abonnement. Google traite le paiement et les données de compte en tant que responsable indépendant. L'application ne reçoit que l'identifiant du produit, l'état de l'achat, l'état de confirmation et un jeton d'achat, jamais de données de paiement. L'état débloqué est mis en cache localement puis redemandé auprès de Google Play afin que les remboursements prennent effet eux aussi."
     },
     {
       "number": 7,
