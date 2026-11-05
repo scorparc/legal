@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-05.1",
+  "version": "2026-11-05.2",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "PaperSnap",
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Grundprinzip: Deine Dokumente bleiben auf deinem Gerät",
-      "body": "PaperSnap wandelt Papier in PDF-Dateien um. Gescannte Seiten, erzeugte PDFs, Vorschaubilder, erkannter Text, Dokumentnamen und Kategorien werden ausschließlich im app-eigenen Speicher deines Geräts abgelegt. Es gibt kein Nutzerkonto, keinen eigenen Server und keine Analyse- oder Crash-Reporting-SDKs. Deine Dokumente werden nicht an uns übertragen."
+      "body": "PaperSnap wandelt Papier in PDF-Dateien um. Gescannte Seiten, erzeugte PDFs, Vorschaubilder, erkannter Text, Dokumentnamen und Kategorien werden ausschließlich im app-eigenen Speicher deines Geräts abgelegt. Es gibt kein Nutzerkonto, keinen eigenen Server und keine eigenen Analyse- oder Crash-Reporting-Dienste. Deine Dokumente werden nicht an uns übertragen."
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
     {
       "number": 4,
       "heading": "Texterkennung",
-      "body": "Die Texterkennung nutzt ML Kit Text Recognition. Sie ist in der App enthalten und arbeitet vollständig auf dem Gerät, auch ohne Internetverbindung. Der erkannte Text wird lokal zu deinem Dokument gespeichert, damit du danach suchen kannst. Weder Seitenbilder noch erkannter Text werden an uns oder an Dritte gesendet."
+      "body": "Die Texterkennung nutzt ML Kit Text Recognition. Sie ist in der App enthalten und arbeitet vollständig auf dem Gerät, auch ohne Internetverbindung. Der erkannte Text wird lokal zu deinem Dokument gespeichert, damit du danach suchen kannst. Weder Seitenbilder noch erkannter Text werden an uns oder an Dritte gesendet. Die Google-Komponenten für Scanner und Texterkennung übertragen laut Google Diagnose- und Nutzungsdaten per HTTPS an Google: Geräte- und App-Informationen, Installationskennungen (beim Scanner auch eine Gerätekennung), Leistungswerte, Konfiguration, Größe von Ein- und Ausgabe, Funktionsversion, Ereignistyp und Fehlercodes."
     },
     {
       "number": 5,
@@ -43,16 +43,26 @@
     },
     {
       "number": 8,
+      "heading": "Rechtstexte und App-Empfehlungen",
+      "body": "Höchstens einmal täglich lädt die App die aktuelle Datenschutzerklärung, das Impressum und die Liste unserer weiteren Apps von GitHub (raw.githubusercontent.com, Anbieter GitHub, Inc.). Dabei werden technisch bedingt deine IP-Adresse sowie Android-Version und Gerätemodell übertragen. Dokumente werden nicht mitgesendet."
+    },
+    {
+      "number": 9,
+      "heading": "Bewertung in der App",
+      "body": "Die App kann dich über Google Play um eine Bewertung bitten. Das Fenster stammt von Google Play; Sterne und Text gehen direkt an Google und werden im Store veröffentlicht. Die App erfährt nicht, ob oder wie du bewertest."
+    },
+    {
+      "number": 10,
       "heading": "Datenlöschung",
       "body": "Einzelne Dokumente löschst du in der App; PDF und Vorschaubild werden dabei vom Gerät entfernt. Sämtliche lokalen Daten einschließlich Einstellungen und zwischengespeichertem Pro-Status entfernst du über Android → Apps → PaperSnap → Speicher löschen oder durch Deinstallation. Vorschau-PDFs, die beim Teilen entstehen, werden automatisch aus dem Zwischenspeicher entfernt."
     },
     {
-      "number": 9,
+      "number": 11,
       "heading": "Deine Rechte",
-      "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Für Daten, die Google im Rahmen von Werbung oder Käufen verarbeitet, ist Google der zuständige Ansprechpartner."
+      "body": "Du hast nach der DSGVO insbesondere das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde. Da die App-Daten grundsätzlich lokal bei dir liegen, kannst du sie dort selbst einsehen, ändern oder löschen. Für Daten, die Google im Rahmen von Scanner, Texterkennung, Bewertungen, Werbung oder Käufen verarbeitet, ist Google der zuständige Ansprechpartner."
     },
     {
-      "number": 10,
+      "number": 12,
       "heading": "Änderungen dieser Erklärung",
       "body": "Diese Datenschutzerklärung wird bei Änderungen der App, der eingesetzten Dienste oder der Datenverarbeitung angepasst. Die jeweils aktuelle Fassung ist unter der verlinkten Adresse abrufbar."
     }

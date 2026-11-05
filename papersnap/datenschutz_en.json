@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-05.1",
+  "version": "2026-11-05.2",
   "language": "en",
   "title": "Privacy Policy",
   "app": "PaperSnap",
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Core principle: your documents stay on your device",
-      "body": "PaperSnap turns paper into PDF files. Scanned pages, generated PDFs, thumbnails, recognised text, document names and categories are stored exclusively in the app's own storage area on your device. There is no user account, no server of our own and no analytics or crash reporting SDKs. Your documents are never transferred to us."
+      "body": "PaperSnap turns paper into PDF files. Scanned pages, generated PDFs, thumbnails, recognised text, document names and categories are stored exclusively in the app's own storage area on your device. There is no user account, no server of our own and no analytics or crash reporting services of our own. Your documents are never transferred to us."
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
     {
       "number": 4,
       "heading": "Text recognition",
-      "body": "Text recognition uses ML Kit Text Recognition. It ships with the app and runs entirely on your device, including without an internet connection. The recognised text is stored locally with your document so you can search it later. Neither page images nor recognised text are sent to us or to any third party."
+      "body": "Text recognition uses ML Kit Text Recognition. It ships with the app and runs entirely on your device, including without an internet connection. The recognised text is stored locally with your document so you can search it later. Neither page images nor recognised text are sent to us or to any third party. According to Google, the Google components for the scanner and text recognition send diagnostic and usage data to Google over HTTPS: device and app information, per-installation identifiers (for the scanner also a device identifier), performance metrics, configuration, input and output size, feature version, event type and error codes."
     },
     {
       "number": 5,
@@ -43,16 +43,26 @@
     },
     {
       "number": 8,
+      "heading": "Legal texts and app recommendations",
+      "body": "At most once a day, the app downloads the current privacy policy, the legal notice and the list of our other apps from GitHub (raw.githubusercontent.com, provided by GitHub, Inc.). For technical reasons, this transfers your IP address as well as your Android version and device model. Documents are not included."
+    },
+    {
+      "number": 9,
+      "heading": "Rating in the app",
+      "body": "The app may ask you for a rating through Google Play. The window comes from Google Play; stars and text go directly to Google and are published in the store. The app does not learn whether or how you rate it."
+    },
+    {
+      "number": 10,
       "heading": "Deleting your data",
       "body": "You delete individual documents in the app, which removes the PDF and its thumbnail from the device. All local data, including settings and the cached Pro state, is removed via Android → Apps → PaperSnap → Clear storage, or by uninstalling the app. Preview PDFs created for sharing are cleared from the cache automatically."
     },
     {
-      "number": 9,
+      "number": 11,
       "heading": "Your rights",
-      "body": "Under the GDPR you have in particular the right to information, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection authority. Because the app's data generally stays with you locally, you can view, change or delete it there yourself. For data that Google processes for advertising or purchases, Google is the responsible contact."
+      "body": "Under the GDPR you have in particular the right to information, rectification, erasure, restriction of processing, data portability and objection, as well as the right to lodge a complaint with a data protection authority. Because the app's data generally stays with you locally, you can view, change or delete it there yourself. For data that Google processes for the scanner, text recognition, ratings, advertising or purchases, Google is the responsible contact."
     },
     {
-      "number": 10,
+      "number": 12,
       "heading": "Changes to this policy",
       "body": "This privacy policy is updated when the app, the services it uses or the data processing change. The current version is always available at the linked address."
     }

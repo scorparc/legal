@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2026-11-05.1",
+  "version": "2026-11-05.2",
   "language": "fr",
   "title": "Politique de confidentialité",
   "app": "PaperSnap",
@@ -14,7 +14,7 @@
     {
       "number": 2,
       "heading": "Principe de base : tes documents restent sur ton appareil",
-      "body": "PaperSnap transforme le papier en fichiers PDF. Les pages scannées, les PDF générés, les miniatures, le texte reconnu, les noms de documents et les catégories sont enregistrés exclusivement dans l'espace de stockage propre à l'application sur ton appareil. Il n'y a ni compte utilisateur, ni serveur qui nous appartienne, ni SDK d'analyse ou de rapport de plantage. Tes documents ne nous sont jamais transmis."
+      "body": "PaperSnap transforme le papier en fichiers PDF. Les pages scannées, les PDF générés, les miniatures, le texte reconnu, les noms de documents et les catégories sont enregistrés exclusivement dans l'espace de stockage propre à l'application sur ton appareil. Il n'y a ni compte utilisateur, ni serveur qui nous appartienne, ni service d'analyse ou de rapport de plantage qui nous soit propre. Tes documents ne nous sont jamais transmis."
     },
     {
       "number": 3,
@@ -24,7 +24,7 @@
     {
       "number": 4,
       "heading": "Reconnaissance de texte",
-      "body": "La reconnaissance de texte utilise ML Kit Text Recognition. Elle est intégrée à l'application et fonctionne entièrement sur l'appareil, y compris sans connexion internet. Le texte reconnu est enregistré localement avec ton document afin que tu puisses le rechercher ensuite. Ni les images des pages ni le texte reconnu ne nous sont envoyés, ni à des tiers."
+      "body": "La reconnaissance de texte utilise ML Kit Text Recognition. Elle est intégrée à l'application et fonctionne entièrement sur l'appareil, y compris sans connexion internet. Le texte reconnu est enregistré localement avec ton document afin que tu puisses le rechercher ensuite. Ni les images des pages ni le texte reconnu ne nous sont envoyés, ni à des tiers. Selon Google, les composants Google du scanner et de la reconnaissance de texte envoient à Google, via HTTPS, des données de diagnostic et d'utilisation : informations sur l'appareil et l'application, identifiants d'installation (pour le scanner, également un identifiant d'appareil), mesures de performance, configuration, taille des entrées et sorties, version de la fonction, type d'événement et codes d'erreur."
     },
     {
       "number": 5,
@@ -43,16 +43,26 @@
     },
     {
       "number": 8,
+      "heading": "Textes juridiques et recommandations d'applications",
+      "body": "Au maximum une fois par jour, l'application télécharge la politique de confidentialité en vigueur, les mentions légales et la liste de nos autres applications depuis GitHub (raw.githubusercontent.com, fournisseur : GitHub, Inc.). Pour des raisons techniques, ton adresse IP ainsi que ta version d'Android et ton modèle d'appareil sont transmis. Aucun document n'est envoyé."
+    },
+    {
+      "number": 9,
+      "heading": "Évaluation dans l'application",
+      "body": "L'application peut te demander une évaluation via Google Play. La fenêtre provient de Google Play ; les étoiles et le texte sont transmis directement à Google et publiés sur le Store. L'application ne sait pas si tu l'évalues ni comment."
+    },
+    {
+      "number": 10,
       "heading": "Suppression des données",
       "body": "Tu supprimes chaque document dans l'application, ce qui retire du téléphone le PDF et sa miniature. Toutes les données locales, y compris les réglages et l'état Pro mis en cache, se suppriment via Android → Applications → PaperSnap → Effacer le stockage, ou en désinstallant l'application. Les PDF de prévisualisation créés pour le partage sont effacés automatiquement du cache."
     },
     {
-      "number": 9,
+      "number": 11,
       "heading": "Tes droits",
-      "body": "Le RGPD te donne notamment un droit d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que le droit d'introduire une réclamation auprès d'une autorité de protection des données. Comme les données de l'application restent en principe chez toi, tu peux les consulter, les modifier ou les supprimer toi-même. Pour les données traitées par Google à des fins publicitaires ou d'achat, Google est l'interlocuteur compétent."
+      "body": "Le RGPD te donne notamment un droit d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition, ainsi que le droit d'introduire une réclamation auprès d'une autorité de protection des données. Comme les données de l'application restent en principe chez toi, tu peux les consulter, les modifier ou les supprimer toi-même. Pour les données traitées par Google dans le cadre du scanner, de la reconnaissance de texte, des évaluations, de la publicité ou des achats, Google est l'interlocuteur compétent."
     },
     {
-      "number": 10,
+      "number": 12,
       "heading": "Modifications de cette politique",
       "body": "Cette politique de confidentialité est adaptée lorsque l'application, les services utilisés ou le traitement des données changent. La version en vigueur est toujours disponible à l'adresse indiquée."
     }
