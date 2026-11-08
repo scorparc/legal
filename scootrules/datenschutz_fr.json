@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-20.1",
+  "version": "2026-11-08.1",
   "language": "fr",
   "title": "Politique de confidentialité",
   "app": "ScootRules",
-  "stand": "20 octobre 2026",
+  "stand": "8 novembre 2026",
   "sections": [
     {
       "number": 1,
@@ -24,7 +24,7 @@
     {
       "number": 4,
       "heading": "Google Play : fonction d'évaluation",
-      "body": "Après que tu as consulté trois pays différents, l'application peut ouvrir la fonction d'évaluation fournie par Google Play au maximum une fois tous les 120 jours. Google Play décide si la boîte de dialogue s'affiche réellement. L'application ne transmet aucune donnée de localisation ou d'utilisation. Seuls les codes des pays consultés et la date de la dernière demande sont conservés en local."
+      "body": "Lorsque tu as consulté deux pays différents, ou un pays sur deux jours différents, ou que tu utilises ta liste de voyage, l'application peut ouvrir la fonction d'évaluation fournie par Google Play au maximum une fois tous les 120 jours. Google Play décide si la boîte de dialogue s'affiche réellement. L'application ne transmet aucune donnée de localisation ou d'utilisation. Seuls les codes des pays consultés, au maximum deux jours calendaires avec des consultations de pays et la date de la dernière demande sont conservés en local. Si tu touches « Noter l'application » dans les paramètres, l'application ouvre la page de ScootRules sur Google Play ; les informations de confidentialité de Google s'y appliquent."
     },
     {
       "number": 5,

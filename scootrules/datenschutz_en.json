@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-20.1",
+  "version": "2026-11-08.1",
   "language": "en",
   "title": "Privacy Policy",
   "app": "ScootRules",
-  "stand": "20 October 2026",
+  "stand": "8 November 2026",
   "sections": [
     {
       "number": 1,
@@ -24,7 +24,7 @@
     {
       "number": 4,
       "heading": "Google Play: rating feature",
-      "body": "After you have viewed three different countries, the app may open the rating feature provided by Google Play at most once every 120 days. Google Play decides whether the dialog actually appears. The app does not transmit any location or usage data. Only the codes of the viewed countries and the time of the last request are stored locally."
+      "body": "Once you have viewed two different countries, or one country on two different days, or use your trip list, the app may open the rating feature provided by Google Play at most once every 120 days. Google Play decides whether the dialog actually appears. The app does not transmit any location or usage data. Only the codes of the viewed countries, at most two calendar days with country views and the time of the last request are stored locally. If you tap “Rate the app” in the settings, the app opens the ScootRules page on Google Play; the privacy information of Google applies there."
     },
     {
       "number": 5,

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-20.1",
+  "version": "2026-11-08.1",
   "language": "it",
   "title": "Informativa sulla privacy",
   "app": "ScootRules",
-  "stand": "20 ottobre 2026",
+  "stand": "8 novembre 2026",
   "sections": [
     {
       "number": 1,
@@ -24,7 +24,7 @@
     {
       "number": 4,
       "heading": "Google Play: funzione di valutazione",
-      "body": "Dopo che hai consultato tre Paesi diversi, l'app può aprire la funzione di valutazione fornita da Google Play al massimo una volta ogni 120 giorni. È Google Play a decidere se il dialogo compare effettivamente. L'app non trasmette dati di posizione o di utilizzo. In locale vengono salvati solo i codici dei Paesi consultati e la data dell'ultima richiesta."
+      "body": "Quando hai consultato due Paesi diversi, o un Paese in due giorni diversi, o usi la tua lista di viaggio, l'app può aprire la funzione di valutazione fornita da Google Play al massimo una volta ogni 120 giorni. È Google Play a decidere se il dialogo compare effettivamente. L'app non trasmette dati di posizione o di utilizzo. In locale vengono salvati solo i codici dei Paesi consultati, al massimo due giorni di calendario con consultazioni di Paesi e la data dell'ultima richiesta. Se tocchi «Valuta l'app» nelle impostazioni, l'app apre la pagina di ScootRules su Google Play; lì si applicano le informazioni sulla privacy di Google."
     },
     {
       "number": 5,
