@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-11-11.1",
   "language": "en",
   "title": "Privacy Policy",
   "app": "ScootKeeper",
-  "stand": "8 October 2026",
+  "stand": "11 November 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Optional Google Drive backup (Pro feature)",
-      "body": "If you actively use the backup feature, app data including photos is uploaded as a backup file to the hidden app-specific appDataFolder of your Google Drive account. The transfer is encrypted (TLS). We have no access to the backup. Google Ireland Limited processes account data as an independent controller. You sign in with Google Sign-In; your Google email address is used only to display the connected account. You can stop the backup and sign out."
+      "body": "If you actively use the backup feature, app data including photos is uploaded as a backup file to the hidden app-specific appDataFolder of your Google Drive account. The transfer is encrypted (TLS). We have no access to the backup. Google Ireland Limited processes account data as an independent controller. You sign in with Google Sign-In; your Google email address is used only to display the connected account. Once set up, the app refreshes the backup automatically on launch as soon as the last one is more than seven days old. You can stop the backup and sign out."
     },
     {
       "number": 6,
@@ -39,7 +39,7 @@
     {
       "number": 7,
       "heading": "Google Play: purchase and review",
-      "body": "Paid Pro features are processed through Google Play Billing. Google processes payment and account data; we receive only the purchase or subscription status. After several recorded maintenance entries, the app may open the review feature provided by Google Play once. The app does not transmit vehicle, maintenance or backup data through it."
+      "body": "Pro is a one-time in-app purchase through Google Play Billing. Google processes payment and account data; we receive only the purchase status. Once you have used the app on two different days or logged two maintenance entries or completed reminders, the app may open the review feature provided by Google Play right after such an action, at most once every 120 days. Google Play decides whether the dialog actually appears. For this, the app stores locally only up to two usage days (date), a counter and the time of the last request. If you tap “Rate the app” in Settings, the app opens the ScootKeeper page on Google Play, where Google's privacy notices apply. The app does not transmit vehicle, maintenance or backup data through it."
     },
     {
       "number": 8,

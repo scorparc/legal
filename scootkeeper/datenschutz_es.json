@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-11-11.1",
   "language": "es",
   "title": "Política de privacidad",
   "app": "ScootKeeper",
-  "stand": "8 de octubre de 2026",
+  "stand": "11 de noviembre de 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Copia opcional en Google Drive (función Pro)",
-      "body": "Si utilizas activamente la copia, los datos de la aplicación, incluidas las fotos, se cargan como archivo en el área oculta appDataFolder de tu cuenta de Google Drive. La transferencia está cifrada (TLS). No tenemos acceso a la copia. Google Ireland Limited trata los datos de la cuenta como responsable independiente. Inicias sesión con Google Sign-In; tu dirección de correo de Google se usa solo para mostrar la cuenta conectada. Puedes detener la copia y cerrar sesión."
+      "body": "Si utilizas activamente la copia, los datos de la aplicación, incluidas las fotos, se cargan como archivo en el área oculta appDataFolder de tu cuenta de Google Drive. La transferencia está cifrada (TLS). No tenemos acceso a la copia. Google Ireland Limited trata los datos de la cuenta como responsable independiente. Inicias sesión con Google Sign-In; tu dirección de correo de Google se usa solo para mostrar la cuenta conectada. Una vez configurada, la aplicación actualiza la copia automáticamente al iniciarse cuando la última tiene más de siete días. Puedes detener la copia y cerrar sesión."
     },
     {
       "number": 6,
@@ -39,7 +39,7 @@
     {
       "number": 7,
       "heading": "Google Play: compra y valoración",
-      "body": "Las funciones Pro de pago se procesan mediante Google Play Billing. Google trata los datos de pago y de la cuenta; solo recibimos el estado de compra o suscripción. Tras registrar varias entradas de mantenimiento, la aplicación puede abrir una vez la función de valoración proporcionada por Google Play. La aplicación no transmite datos de vehículo, mantenimiento ni copia de seguridad a través de ella."
+      "body": "Pro es una compra única dentro de la aplicación mediante Google Play Billing. Google trata los datos de pago y de la cuenta; solo recibimos el estado de compra. Si has usado la aplicación en dos días distintos o has registrado dos mantenimientos o recordatorios completados, la aplicación puede abrir justo después de esa acción, como máximo una vez cada 120 días, la función de valoración proporcionada por Google Play. Google Play decide si el diálogo aparece realmente. Para ello, la aplicación guarda localmente solo hasta dos días de uso (fecha), un contador y el momento de la última solicitud. Si tocas «Valorar la app» en los ajustes, la aplicación abre la página de ScootKeeper en Google Play, donde se aplican los avisos de privacidad de Google. La aplicación no transmite datos de vehículo, mantenimiento ni copia de seguridad a través de ella."
     },
     {
       "number": 8,

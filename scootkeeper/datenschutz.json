@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "2026-10-08.1",
+  "version": "2026-11-11.1",
   "language": "de",
   "title": "Datenschutzerklärung",
   "app": "ScootKeeper",
-  "stand": "8. Oktober 2026",
+  "stand": "11. November 2026",
   "sections": [
     {
       "number": 1,
@@ -29,7 +29,7 @@
     {
       "number": 5,
       "heading": "Optionales Google-Drive-Backup (Pro-Funktion)",
-      "body": "Wenn du die Backup-Funktion aktiv nutzt, werden deine App-Daten einschließlich Fotos als Sicherungsdatei in den versteckten, app-eigenen Bereich (\"appDataFolder\") deines Google-Drive-Kontos hochgeladen. Die Übertragung erfolgt verschlüsselt (TLS). Wir erhalten keinen Zugriff auf die Sicherung. Google Ireland Limited verarbeitet Kontodaten als eigenständiger Verantwortlicher. Für die Anmeldung nutzt du Google Sign-In; deine Google-E-Mail-Adresse wird nur zur Anzeige des verbundenen Kontos verwendet. Du kannst das Backup beenden und dich abmelden."
+      "body": "Wenn du die Backup-Funktion aktiv nutzt, werden deine App-Daten einschließlich Fotos als Sicherungsdatei in den versteckten, app-eigenen Bereich (\"appDataFolder\") deines Google-Drive-Kontos hochgeladen. Die Übertragung erfolgt verschlüsselt (TLS). Wir erhalten keinen Zugriff auf die Sicherung. Google Ireland Limited verarbeitet Kontodaten als eigenständiger Verantwortlicher. Für die Anmeldung nutzt du Google Sign-In; deine Google-E-Mail-Adresse wird nur zur Anzeige des verbundenen Kontos verwendet. Ist das Backup eingerichtet, aktualisiert die App es beim Start automatisch, sobald das letzte älter als sieben Tage ist. Du kannst das Backup beenden und dich abmelden."
     },
     {
       "number": 6,
@@ -39,7 +39,7 @@
     {
       "number": 7,
       "heading": "Google Play: Kauf und Bewertung",
-      "body": "Kostenpflichtige Pro-Funktionen werden über Google Play Billing abgewickelt. Google verarbeitet Zahlungs- und Kontodaten; wir erhalten nur den Kauf- beziehungsweise Abostatus. Nach mehreren erfassten Wartungseinträgen kann die App einmalig die von Google Play bereitgestellte Bewertungsfunktion öffnen. Darüber übermittelt die App keine Fahrzeug-, Wartungs- oder Backupdaten."
+      "body": "Pro ist ein einmaliger In-App-Kauf über Google Play Billing. Google verarbeitet Zahlungs- und Kontodaten; wir erhalten nur den Kaufstatus. Hast du die App an zwei verschiedenen Tagen genutzt oder zwei Wartungen beziehungsweise erledigte Erinnerungen erfasst, kann die App direkt nach einer solchen Aktion höchstens alle 120 Tage die von Google Play bereitgestellte Bewertungsfunktion öffnen. Ob der Dialog tatsächlich erscheint, entscheidet Google Play. Lokal gespeichert werden dafür nur höchstens zwei Nutzungstage (Datum), ein Zähler und der Zeitpunkt der letzten Anfrage. Tippst du in den Einstellungen auf „App bewerten“, öffnet die App die ScootKeeper-Seite in Google Play; dort gelten die Datenschutzhinweise von Google. Die App übermittelt dabei keine Fahrzeug-, Wartungs- oder Backupdaten."
     },
     {
       "number": 8,
